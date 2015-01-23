@@ -2,31 +2,25 @@
 
 * General 総合
 ** Siku quanshu 四庫全書 (skqs)
-** 四部叢刊
-** 中國基本古籍庫收書總目
-** CHANT
-** TLS
+** Sibu congkan 四部叢刊 (sbck)
+** Sibu beiyao 四部備要 (sbby) X
+** Zhongguo jiben gujiku 中國基本古籍庫 (jbgjk) X
 * Daoist Texts 道教文献
-** 正統道藏
-** 中華道藏
-** 道藏輯要
+** Zhengtong daozang 正統道藏 (dz)
+** Zhonghua daozang 中華道藏 (zhdz)
+** Daozang jiyao 道藏輯要 (dzjy)
 * Buddhist Texts 仏典
-** 大正新脩大藏經 (T)
-** 卍續藏經
-1,T,大正新脩大藏經,大正藏,Taisho Tripitaka,85,"大正新修大藏經刊行會 編 / 東京：大藏出版株式會社, Popular Edition in 1988."
-2,F,房山石經,房山石經,Fangshan shijing,29,"中國佛教圖書文物館 編 / 北京：華夏出版社, 2000."
-3,A,趙城金藏,金藏,Jin Edition of the Canon,121,"北京：北京圖書館出版社, 2008."
-4,K,高麗大藏經,高麗藏,Tripitaka Koreana,41,"高麗大藏經完刊推進委員會 原刊 / 台北：新文豐, 1982."
-5,S,宋藏遺珍,宋藏遺珍,Songzang yizhen,6,"範成 輯補 / 台北：新文豐, 1978."
-6,U,洪武南藏,洪武南藏,Southern Hongwu Edition of the Canon,223,"四川省佛教協會 / 成都：四川省佛教協會, 1999."
-7,P,永樂北藏,永樂北藏,Northern Yongle Edition of the Canon,189,"永樂北藏整理委員會 編 / 北京：線裝書局, 2000."
-8,J,嘉興大藏經,嘉興藏,Jiaxing Canon,40,"徑山藏版版藏 / 台北：新文豐, 1987."
-9,L,乾隆大藏經,乾隆藏,Qianlong Edition of the Canon,164,"台北：新文豐, 1991."
-10,M,大日本校訂訓點大藏經,卍正藏,Manji Daizokyo,100,"京都．藏經書院 原刊 / 台北：新文豐, 1980."
-11,X,卍新纂大日本續藏經,卍續藏,Manji Shinsan Dainihon Zokuzokyo,88,"河村照孝 編集 / 東京：株式會社國書刊行會, 1975-1989."
-12,G,佛教大藏經,佛教大藏經,Fojiao Canon,100,"佛教書局 編輯 / 台北：佛教書局, 1978."
-13,C,中華大藏經,中華藏,Zhonghua Canon,106,"中華大藏經編輯局 編 / 北京：中華書局, 1984-1997."
-14,W,藏外佛教文獻,藏外,Buddhist Texts not contained in the Tripitaka,9,"方廣錩 主編 / 北京：宗教文化出版社, 1995-2003."
-15,H,正史佛教資料類編,正史,Passages concerning Buddhism from the Official Histories,1,"杜斗城 輯編 / 蘭州：甘肅文化出版社, 2006."
-16,I,北朝佛教石刻拓片百品,佛拓百品,Selections of Buddhist Stone Rubbings from the Northern Dynasties,1,"顏娟英 主編 / 台北：中央研究院歷史語言研究所, 2008."
+** Taishō shinshū daizōkyō 大正新脩大藏經 (T-taisho)
+** Zokuzokyō 續藏經 (X-xuzang)
+** Goryeo daejanggyeong 高麗大藏經 (K-koreana)
+** Jiaxing dazangjing 嘉興大藏經 (J-jiaxing)
+** Songzang yizhen 宋藏遺珍 (S-songzang)
+** Zhaocheng jinzang 趙城金藏 (S-songzang)
+** Hongwu nanzang 洪武南藏 (U-hongwu)
+** Yongle beizang 永樂北藏 (P-yongle)
+** Qianlong dazangjing 乾隆大藏經 (L-qianlong)
+** Dainippon kōtei kunten daizōkyō 大日本校訂訓點大藏經 (M-kotei-daizokyo)
+** Fojiao dazangjing 佛教大藏經 (G-fojiao)
+** Zhonghua dazangjing 中華大藏經 (C-zhonghua)
+** Zangwai fojiao wenxian 藏外佛教文獻 (W-zangwai)
 
