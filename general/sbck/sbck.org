@@ -1,0 +1,10688 @@
+
+* 四部叢刊初編
+  張元濟 等輯
+ 民國五十六年
+ 臺北臺灣商務印書館
+ 用上海商務印書館縮景印本第二次重印
+ 110册
+
+** 經部
+*** SB11n001 周易
+:PROPERTIES:
+:EXTENT: 九卷
+:ZB_ID:    H15-23-0084
+:END:
+
+坿略例一卷
+**** responsible:
+
+***** 王弼
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 魏
+:END:
+
+***** 韓康伯
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+***** 王弼
+:PROPERTIES:
+:FUNCTION: 撰略例
+:DYNASTY: 魏
+:END:
+
+***** 邢璹
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏宋刊本
+:END:
+
+
+*** SB11n002 監本纂圖重言重意互註點校尚書
+:PROPERTIES:
+:EXTENT: 十三卷
+:END:
+
+**** responsible:
+***** 孔安國
+:PROPERTIES:
+:FUNCTION: 傳
+:DYNASTY: 漢
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  吳興劉氏嘉業堂藏宋刊本
+:END:
+
+
+*** SB11n003 毛詩
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    H15-27-0095
+:END:
+
+**** responsible:
+***** 毛亨
+:PROPERTIES:
+:FUNCTION: 傳
+:DYNASTY: 漢
+:END:
+
+***** 鄭玄
+:PROPERTIES:
+:FUNCTION: 箋
+:DYNASTY: 漢
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋刊巾箱本
+:END:
+
+
+*** SB11n004 周禮
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    H15-26-0092
+:END:
+
+**** responsible:
+***** 鄭玄
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  長沙葉氏觀古堂藏明翻宋岳氏相臺刊本
+:END:
+
+
+*** SB11n005 儀禮
+:PROPERTIES:
+:EXTENT: 十七卷
+:ZB_ID:    H15-26-0091
+:END:
+
+**** responsible:
+***** 鄭玄
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  長沙葉氏觀古堂藏明徐氏翻宋刊本
+:END:
+
+
+*** SB11n006 纂圖互註禮記
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 鄭玄
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊本
+:END:
+
+
+*** SB11n007 春秋經傳集解
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+坿春秋二十國年表一卷
+**** responsible:
+***** 杜預
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 坿錄撰
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 玉田蔣氏藏宋刊巾箱本
+:END:
+
+
+*** SB11n008 春秋公羊經傳解詁
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+**** responsible:
+***** 何休
+:PROPERTIES:
+:FUNCTION: 學
+:DYNASTY: 漢
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋建安余氏刊本
+:END:
+
+
+*** SB11n009 春秋穀梁傳
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    H15-24-0087
+:END:
+
+**** responsible:
+***** 范甯
+:PROPERTIES:
+:FUNCTION: 集解
+:DYNASTY: 晉
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋建安余氏刊本
+:END:
+
+
+*** SB11n010 孝經
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    H15-22-0082
+:END:
+
+**** responsible:
+***** 玄宗明皇帝
+:PROPERTIES:
+:FUNCTION: 御注
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江陰繆氏藏傳是樓景鈔宋相臺本
+:END:
+
+
+*** SB11n011 論語
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    H15-21-0081
+:END:
+
+**** responsible:
+***** 何晏
+:PROPERTIES:
+:FUNCTION: 集解
+:DYNASTY: 魏
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  長沙葉氏觀古堂藏日本正平刊本
+:END:
+
+
+*** SB11n012 孟子
+:PROPERTIES:
+:EXTENT: 十四卷
+:ZB_ID:    H15-21-0080
+:END:
+
+**** responsible:
+***** 趙岐
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+  
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  淸內府藏宋刊大字本
+:END:
+
+
+*** SB11n013 爾雅
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    H16-28-0100
+:END:
+
+坿音釋三卷
+**** responsible:
+***** 郭璞
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰音釋
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB11n014 京氏易傳
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB3g0031
+:END:
+
+**** responsible:
+***** 京房
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 陸續
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 吳
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明天一閣刊本
+:END:
+
+
+*** SB11n015 尚書大傳
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB1b0054
+:END:
+
+坿序錄一卷
+辨譌一卷
+**** responsible:
+***** 伏勝
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 鄭玄
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+***** 陳壽祺
+:PROPERTIES:
+:FUNCTION: 輯校併撰序錄辨譌
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏左海文集本
+:END:
+
+
+*** SB11n016 詩外傳
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB1c0059
+:END:
+
+**** responsible:
+***** 韓嬰
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明吳郡沈氏野竹齋刊本
+:END:
+
+
+*** SB11n017 大戴禮記
+:PROPERTIES:
+:EXTENT: 十三卷
+:ZB_ID:    ZB1d0067
+:END:
+
+**** responsible:
+***** 盧辯
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 北周
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏明吳郡袁氏嘉趣堂刊本
+:END:
+
+
+*** SB11n018 春秋繁露
+:PROPERTIES:
+:EXTENT: 十七卷
+:ZB_ID:    ZB1e0114
+:END:
+
+**** responsible:
+***** 董仲舒
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏武英殿聚珍版本
+:END:
+
+
+*** SB11n019 經典釋文
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB1g0003
+:END:
+
+坿校勘記三卷
+**** responsible:
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 校勘記輯
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏通志堂刊本
+:END:
+
+
+*** SB11n020 輶軒使者絕代語釋別國方言
+:PROPERTIES:
+:EXTENT: 十三卷
+:ZB_ID:    ZB1j0003
+:END:
+
+**** responsible:
+***** 楊雄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 郭璞
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏宋刊本
+:END:
+
+
+*** SB11n021 釋名
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB1j0004
+:END:
+
+**** responsible:
+***** 劉熙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏嘉靖翻宋書棚本
+:END:
+
+
+*** SB11n022 說文解字
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB1j0015
+:END:
+
+**** responsible:
+***** 許愼
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 徐鉉
+:PROPERTIES:
+:FUNCTION: 等奉勅校定
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  日本岩崎氏靜嘉堂文庫藏北宋刊本
+:END:
+
+
+*** SB11n023 說文解字繫傳
+:PROPERTIES:
+:EXTENT: 四十卷
+:END:
+
+**** responsible:
+***** 徐鍇
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 南唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  卷首至第二十九景烏程張氏適園藏述古堂景宋鈔本&nbsp;卷三十至第四十古里瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB11n024 大廣益會玉篇
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+**** responsible:
+***** 陳彭年
+:PROPERTIES:
+:FUNCTION: 等奉勅重修
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  建德周氏藏元刊本
+:END:
+
+
+*** SB11n025 廣韻
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB1j0050
+:END:
+
+**** responsible:
+***** 陳彭年
+:PROPERTIES:
+:FUNCTION: 等奉勅重修
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  海鹽張氏涉園藏宋刊巾箱本
+:END:
+
+
+** 史部
+*** SB12n026 竹書紀年
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB2b0001
+:END:
+
+**** responsible:
+***** 沈約
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 梁
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:   上海涵芬樓藏明天一閣刊本
+:END:
+
+
+*** SB12n027 前漢紀
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB2b0003
+:END:
+
+**** responsible:
+***** 荀悅
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏嘉靖本
+:END:
+
+
+*** SB12n028 後漢紀
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB2b0004
+:END:
+
+**** responsible:
+***** 袁宏
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏嘉靖本
+:END:
+
+
+*** SB12n029 資治通鑑
+:PROPERTIES:
+:EXTENT: 二百九十四卷
+:ZB_ID:    ZB2b0007
+:END:
+
+**** responsible:
+***** 司馬光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊本
+:END:
+
+
+*** SB12n030 資治通鑑考異
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB2b0008
+:END:
+
+**** responsible:
+***** 司馬光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊本
+:END:
+
+
+*** SB12n031 資治通鑑目錄
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB2b0009
+:END:
+
+**** responsible:
+***** 司馬光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏北宋刊本
+:END:
+
+
+*** SB12n032 司馬溫公稽古錄
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 司馬光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明翻宋刊本
+:END:
+
+
+*** SB12n033 資治通鑑外紀
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB2b0014
+:END:
+
+目錄五卷
+**** responsible:
+***** 劉恕
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明刊本
+:END:
+
+
+*** SB12n034 資治通鑑釋文
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+**** responsible:
+***** 史炤
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程蔣氏密韻樓藏宋刊本
+:END:
+
+
+*** SB12n035 通鑑紀事本末
+:PROPERTIES:
+:EXTENT: 四十二卷
+:ZB_ID:    ZB2c0001
+:END:
+
+**** responsible:
+***** 袁樞
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊大字本
+:END:
+
+
+*** SB12n036 汲冢周書
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 孔晁
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江陰繆氏藝風堂藏嘉靖二十二年刊本
+:END:
+
+
+*** SB12n037 國語
+:PROPERTIES:
+:EXTENT: 二十一卷
+:ZB_ID:    ZB2e0001
+:END:
+
+**** responsible:
+***** 韋昭
+:PROPERTIES:
+:FUNCTION: 解
+:DYNASTY: 吳
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  杭州葉氏藏明金李翻宋本
+:END:
+
+
+*** SB12n038 戰國策
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB2e0003
+:END:
+
+**** responsible:
+***** 鮑彪
+:PROPERTIES:
+:FUNCTION: 校注
+:DYNASTY: 宋
+:END:
+
+***** 吳師道
+:PROPERTIES:
+:FUNCTION: 重校
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏至正刊本
+:END:
+
+
+*** SB12n039 晏子春秋
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB2g0003
+:END:
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明活字印本
+:END:
+
+
+*** SB12n040 劉向古列女傳
+:PROPERTIES:
+:EXTENT: 七卷
+:ZB_ID:    ZB2g0016
+:END:
+
+坿續列女傳一卷
+**** responsible:
+***** 劉向
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰續
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 長沙葉氏觀古堂藏明刊有圖本
+:END:
+
+
+*** SB12n041 五朝名臣言行錄
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+三朝名臣言行錄十四卷
+**** responsible:
+***** 朱熹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏宋刊本
+:END:
+
+
+*** SB12n042 吳越春秋
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB2i0001
+:END:
+
+**** responsible:
+***** 趙曄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 徐天祜
+:PROPERTIES:
+:FUNCTION: 音注
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程劉氏嘉業堂藏明刊本
+:END:
+
+
+*** SB12n043 越絕書
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB2i0002
+:END:
+
+**** responsible:
+***** 袁康
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程劉氏嘉業堂藏明刊本
+:END:
+
+
+*** SB12n044 華陽國志
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB2i0003
+:END:
+
+**** responsible:
+***** 常璩
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程劉氏嘉業堂藏明錢叔寶鈔本
+:END:
+
+
+*** SB12n045 水經注
+:PROPERTIES:
+:EXTENT: 四十卷
+:ZB_ID:    ZB2k0059
+:END:
+
+**** responsible:
+***** 酈道元
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 後魏
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏武英殿聚珍版本
+:END:
+
+
+*** SB12n046 大唐西域記
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB6r0121
+:END:
+
+**** responsible:
+***** 釋玄奘
+:PROPERTIES:
+:FUNCTION: 奉勅譯
+:DYNASTY: 唐
+:END:
+
+***** 釋辯機
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏宋刊梵夾本
+:END:
+
+
+*** SB12n047 史通
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB2o0001
+:END:
+
+札記一卷
+札記補一卷
+
+***** 劉知幾
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 輯札記
+:DYNASTY: 民國
+:END:
+
+***** 姜殿揚
+:PROPERTIES:
+:FUNCTION: 輯札記補
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏萬曆刊本
+:END:
+
+
+** 子部
+*** SB13n048 孔子家語
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3a0001
+:END:
+
+**** responsible:
+***** 王肅
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 魏
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:   江南圖書館藏明覆宋刊本
+:END:
+
+
+*** SB13n049 荀子
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB3a0002
+:END:
+
+**** responsible:
+***** 楊倞
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏黎氏景宋刊本
+:END:
+
+
+*** SB13n050 孔叢子
+:PROPERTIES:
+:EXTENT: 七卷
+:ZB_ID:    ZB3a0003
+:END:
+
+坿釋文一卷
+**** responsible:
+***** 孔鮒
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰釋文
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 杭州葉氏藏明翻宋本
+:END:
+
+
+*** SB13n051 新語
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3a0004
+:END:
+
+**** responsible:
+***** 陸賈
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏弘治中刊本
+:END:
+
+
+*** SB13n052 新書
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3a0005
+:END:
+
+**** responsible:
+***** 賈誼
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏正德十年吉藩刊本
+:END:
+
+
+*** SB13n053 鹽鐵論
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3a0006
+:END:
+
+**** responsible:
+***** 桓寬
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  長沙葉氏觀古堂藏弘治涂氏江陰刊本
+:END:
+
+
+*** SB13n054 劉向新序
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3a0008
+:END:
+
+**** responsible:
+***** 劉向
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏嘉靖覆宋刊本
+:END:
+
+
+*** SB13n055 說苑
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB3a0007
+:END:
+
+**** responsible:
+***** 劉向
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  平湖葛氏傳樸堂藏明鈔本
+:END:
+
+
+*** SB13n056 揚子法言
+:PROPERTIES:
+:EXTENT: 十三卷
+:ZB_ID:    ZB3a0009
+:END:
+
+坿音義一卷
+**** responsible:
+***** 揚雄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 李軌
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰音義
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏景宋治平監本
+:END:
+
+
+*** SB13n057 潛夫論
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3a0010
+:END:
+
+**** responsible:
+***** 王符
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏述古堂景宋精鈔本
+:END:
+
+
+*** SB13n058 申鑒
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB3a0011
+:END:
+
+**** responsible:
+***** 荀悅
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 黃省曾
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏文始堂刊本
+:END:
+
+
+*** SB13n059 徐幹中論
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3a0012
+:END:
+
+**** responsible:
+***** 徐幹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏嘉靖四十四年刊本
+:END:
+
+
+*** SB13n060 中說
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3a0014
+:END:
+
+**** responsible:
+***** 王通
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 隋
+:END:
+
+***** 阮逸
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB13n061 孫子集注
+:PROPERTIES:
+:EXTENT: 十三卷
+:END:
+
+**** responsible:
+***** 吉天保
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏嘉靖三十四年刊本
+:END:
+
+
+*** SB13n062 六韜
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB3b0002
+:END:
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB13n063 吳子
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3b0004
+:END:
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB13n064 司馬法
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB3b0005
+:END:
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB13n065 管子
+:PROPERTIES:
+:EXTENT: 二十四卷
+:ZB_ID:    ZB3c0001
+:END:
+
+**** responsible:
+***** 房玄齡
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB13n066 鄧析子
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3c0003
+:END:
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明刊本
+:END:
+
+
+*** SB13n067 商子
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB3c0004
+:END:
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明天一閣刊本
+:END:
+
+
+*** SB13n068 韓非子
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB5f0011
+:END:
+/tmp/sys/KR3-titles.txt:ZB3c0005	韓非子
+
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏黃蕘圃校宋本
+:END:
+
+
+*** SB13n069 齊民要術
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3c0009
+:END:
+
+**** responsible:
+***** 賈思勰
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 後魏
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江寧鄧氏羣碧樓藏明鈔本
+:END:
+
+
+*** SB13n070 重廣補註黃帝內經素問
+:PROPERTIES:
+:EXTENT: 二十四卷
+:ZB_ID:    ZB3e0001
+:END:
+
+**** responsible:
+***** 王冰
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 林億
+:PROPERTIES:
+:FUNCTION: 等奉勅校正
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明顧氏翻北宋本
+:END:
+
+
+*** SB13n071 黃帝素問靈樞經
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB3e0002
+:END:
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明趙府居敬堂刊本
+:END:
+
+
+*** SB13n072 王翰林集註黃帝八十一難經
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+**** responsible:
+***** 王九思
+:PROPERTIES:
+:FUNCTION: 集注
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  佚存叢書本
+:END:
+
+
+*** SB13n073 新編金匱要略方論
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+**** responsible:
+***** 張機
+:PROPERTIES:
+:FUNCTION: 述
+:DYNASTY: 漢
+:END:
+
+***** 王叔和
+:PROPERTIES:
+:FUNCTION: 編
+:DYNASTY: 晉
+:END:
+
+***** 林億
+:PROPERTIES:
+:FUNCTION: 等詮次
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明古今醫統正脈本
+:END:
+
+
+*** SB13n074 註解傷寒論
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3e0006
+:END:
+
+**** responsible:
+***** 張機
+:PROPERTIES:
+:FUNCTION: 述
+:DYNASTY: 漢
+:END:
+
+***** 王叔和
+:PROPERTIES:
+:FUNCTION: 編
+:DYNASTY: 晉
+:END:
+
+***** 成無已
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 金
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏嘉靖二十四年刊本
+:END:
+
+
+*** SB13n075 新刊王氏脈經
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 王叔和
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏元廣勤書堂刊本
+:END:
+
+
+*** SB13n076 重修政和經史證類備用本草
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+**** responsible:
+***** 唐愼微
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 寇宗奭
+:PROPERTIES:
+:FUNCTION: 衍義
+:DYNASTY: 宋
+:END:
+
+***** 張存惠
+:PROPERTIES:
+:FUNCTION: 重修
+:DYNASTY: 金
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏金泰和四年晦明軒刊本
+:END:
+
+
+*** SB13n077 周髀算經
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3f0001
+:END:
+
+坿音義一卷
+**** responsible:
+***** 趙爽
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+***** 甄鸞
+:PROPERTIES:
+:FUNCTION: 重述
+:DYNASTY: 北周
+:END:
+
+***** 李淳風
+:PROPERTIES:
+:FUNCTION: 等奉勅注釋
+:DYNASTY: 唐
+:END:
+
+***** 李籍
+:PROPERTIES:
+:FUNCTION: 撰音義
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 南陵徐氏積學齋藏明趙開美刊本
+:END:
+
+
+*** SB13n078 九章算術
+:PROPERTIES:
+:EXTENT: 九卷
+:ZB_ID:    ZB3f0033
+:END:
+
+坿音義一卷
+**** responsible:
+***** 劉徽
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 魏
+:END:
+
+***** 李淳風
+:PROPERTIES:
+:FUNCTION: 等奉勅注釋
+:DYNASTY: 唐
+:END:
+
+***** 李籍
+:PROPERTIES:
+:FUNCTION: 撰音義
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏微波榭刊本
+:END:
+
+
+*** SB13n079 太玄經
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3g0001
+:END:
+
+坿說玄一卷
+釋文一卷
+**** responsible:
+***** 楊雄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 范望
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+***** 王涯
+:PROPERTIES:
+:FUNCTION: 撰說玄
+:DYNASTY: 唐
+:END:
+
+***** 林瑀
+:PROPERTIES:
+:FUNCTION: 撰釋文
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明萬玉堂翻宋本
+:END:
+
+
+*** SB13n080 易林
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB5h0044
+:END:
+/tmp/sys/KR3-titles.txt:ZB3g0030	焦氏易林
+
+**** responsible:
+***** 焦贛
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  北京圖書館藏元刊本
+:END:
+
+
+*** SB13n081 墨子
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB5f0010
+:END:
+/tmp/sys/KR3-titles.txt:ZB3j0002	墨子
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏嘉靖三十二年唐堯臣刊本
+:END:
+
+
+*** SB13n082 尹文子
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB5f0007
+:END:
+/tmp/sys/KR3-titles.txt:ZB3j0004	尹文子
+
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明覆宋刊本
+:END:
+
+
+*** SB13n083 愼子內篇
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB3j0005
+:END:
+
+外篇一卷
+補遺一卷
+逸文一卷
+坿內篇校文一卷
+**** responsible:
+***** 繆荃孫
+:PROPERTIES:
+:FUNCTION: 輯補遺逸文
+:DYNASTY: 淸
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 撰校文
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江陰繆氏藝風堂澫香䔟鈔本
+:END:
+
+
+*** SB13n084 鶡冠子
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB5f0009
+:END:
+/tmp/sys/KR3-titles.txt:ZB3j0006	鶡冠子
+
+**** responsible:
+***** 陸佃
+:PROPERTIES:
+:FUNCTION: 解
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江陰繆氏藝風堂藏明覆宋刊本
+:END:
+
+
+*** SB13n085 鬼谷子
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB5d0043
+:END:
+/tmp/sys/KR3-titles.txt:ZB3j0008	鬼谷子
+
+**** responsible:
+***** 陶弘景
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 梁
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏石研齋刊本
+:END:
+
+
+*** SB13n086 呂氏春秋
+:PROPERTIES:
+:EXTENT: 二十六卷
+:ZB_ID:    ZB3j0009
+:END:
+
+**** responsible:
+***** 高誘
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明宋邦乂等刊本
+:END:
+
+
+*** SB13n087 淮南鴻烈解
+:PROPERTIES:
+:EXTENT: 二十一卷
+:ZB_ID:    ZB5f0018
+:END:
+/tmp/sys/KR3-titles.txt:ZB3j0010	淮南鴻烈解
+
+**** responsible:
+***** 劉安
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 許愼
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏景鈔北宋本
+:END:
+
+
+*** SB13n088 人物志
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB3j0011
+:END:
+
+**** responsible:
+***** 劉邵
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 魏
+:END:
+
+***** 劉昞
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 後魏
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏正德刊本
+:END:
+
+
+*** SB13n089 顏氏家訓
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3j0014
+:END:
+
+**** responsible:
+***** 顏之推
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 北齊
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏明遼陽傅氏刊本
+:END:
+
+
+*** SB13n090 白虎通德論
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3j0023
+:END:
+
+**** responsible:
+***** 班固
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  繆氏藝風堂藏大德九年重刊宋監本
+:END:
+
+
+*** SB13n091 論衡
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB3j0080
+:END:
+
+**** responsible:
+***** 王充
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明通津草堂刊本
+:END:
+
+
+*** SB13n092 風俗通義
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 應劭
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏大德刊本
+:END:
+
+
+*** SB13n093 羣書治要
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+**** responsible:
+***** 魏徵
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏日本天明七年尾張藩刊本
+:END:
+
+
+*** SB13n094 意林
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB5g0071
+:END:
+/tmp/sys/KR3-titles.txt:ZB3j0177	意林
+
+坿逸文一卷
+補二卷
+**** responsible:
+***** 馬總
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 唐
+:END:
+
+***** 周廣業
+:PROPERTIES:
+:FUNCTION: 輯逸文
+:DYNASTY: 淸
+:END:
+
+***** 李遇孫
+:PROPERTIES:
+:FUNCTION: 錄補
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏武英殿聚珍版本逸文補景別下齋本
+:END:
+
+
+*** SB13n095 西京雜記
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB3l0001
+:END:
+
+**** responsible:
+***** 劉歆
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 葛洪
+:PROPERTIES:
+:FUNCTION: 錄
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏嘉靖孔天胤刊本
+:END:
+
+
+*** SB13n096 世說新語
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB3l0002
+:END:
+
+坿校語一卷
+**** responsible:
+***** 劉義慶
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 劉宋
+:END:
+
+***** 劉孝標
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 梁
+:END:
+
+***** 沈巖
+:PROPERTIES:
+:FUNCTION: 撰校語
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明嘉趣堂刊本
+:END:
+
+
+*** SB13n097 山海經
+:PROPERTIES:
+:EXTENT: 十八卷
+:ZB_ID:    ZB5d0049
+:END:
+/tmp/sys/KR3-titles.txt:ZB3l0084	山海經
+
+**** responsible:
+***** 郭璞
+:PROPERTIES:
+:FUNCTION: 傳
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏成化六年刊本
+:END:
+
+
+*** SB13n098 穆天子傳
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB5a0303
+:END:
+/tmp/sys/KR3-titles.txt:ZB3l0086	穆天子傳
+
+**** responsible:
+***** 郭璞
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明天一閣刊本
+:END:
+
+      
+*** SB13n099 唐段少卿酉陽雜俎前集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+續集十卷
+**** responsible:
+***** 段成式
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明趙氏脉望館刊本
+:END:
+
+
+*** SB13n100 弘明集
+:PROPERTIES:
+:EXTENT: 十四卷
+:ZB_ID:    ZB6r0137
+:END:
+
+**** responsible:
+***** 釋僧佑
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 梁
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明汪道昆刊本
+:END:
+
+/tmp/sys/KR3-titles.txt:ZB3m0001	弘明集
+
+*** SB13n101 廣弘明集
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB6r0138
+:END:
+
+**** responsible:
+***** 釋道宣
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明汪道昆刊本
+:END:
+
+
+/tmp/sys/KR3-titles.txt:ZB3m0002	廣弘明集
+*** SB13n102 法苑珠林
+:PROPERTIES:
+:EXTENT: 一百二十卷
+:ZB_ID:    ZB6s0002
+:END:
+
+**** responsible:
+***** 釋道世
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明徑山寺刊本
+:END:
+
+
+/tmp/sys/KR3-titles.txt:ZB3m0003	法苑珠林
+*** SB13n103 翻譯名義集
+:PROPERTIES:
+:EXTENT: 七卷
+:ZB_ID:    ZB6s0019
+:END:
+
+**** responsible:
+***** 釋法雲
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  南海潘氏藏宋刊本
+:END:
+
+
+*** SB13n104 老子道德經
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    H11-06-0032
+:END:
+
+**** responsible:
+***** 河上公
+:PROPERTIES:
+:FUNCTION: 章句
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB13n105 沖虛至德眞經
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB5c0049
+:END:
+
+**** responsible:
+***** 張湛
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏北宋刊本
+:END:
+
+
+*** SB13n106 南華眞經
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB5c0051
+:END:
+
+坿札記一卷
+
+***** 郭象
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 晉
+:END:
+
+***** 陸德明
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 唐
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 撰札記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明世德堂刊本
+:END:
+
+
+*** SB13n107 抱朴子內篇
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB5f0019
+:END:
+
+外篇五十卷
+**** responsible:
+***** 葛洪
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏嘉靖四十四年魯藩刊本
+:END:
+
+
+*** SB13n108 雲笈七籤
+:PROPERTIES:
+:EXTENT: 一百二十二卷
+:ZB_ID:    ZB5d0050
+:END:
+
+**** responsible:
+***** 張君房
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  明淸眞館本
+:END:
+
+/tmp/sys/KR3-titles.txt:ZB3n0038	雲笈七籤
+
+** 集部
+*** SB14n109 楚辭
+:PROPERTIES:
+:EXTENT: 十七卷
+:ZB_ID:    H12-10-0047
+:END:
+
+**** responsible:
+***** 王逸
+:PROPERTIES:
+:FUNCTION: 章句
+:DYNASTY: 漢
+:END:
+
+***** 洪興祖
+:PROPERTIES:
+:FUNCTION: 補注
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:   江南圖書館藏明覆宋本
+:END:
+
+
+*** SB14n110 蔡中郎文集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0002
+:END:
+
+外傳一卷
+**** responsible:
+***** 蔡邕
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明覆錫山華氏蘭雪堂活字印本
+:END:
+
+
+*** SB14n111 曹子建集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0004
+:END:
+
+**** responsible:
+***** 曹植
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 魏
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏明活字印本
+:END:
+
+
+*** SB14n112 嵆中散集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0005
+:END:
+
+**** responsible:
+***** 嵆康
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 魏
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏嘉靖中刊本
+:END:
+
+
+*** SB14n113 陸士衡文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 陸機
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏陸元大翻宋晉二俊文集本
+:END:
+
+
+*** SB14n114 陸士龍文集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0006
+:END:
+
+**** responsible:
+***** 陸雲
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏陸元大翻宋晉二俊文集本
+:END:
+
+
+*** SB14n115 箋註陶淵明集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 陶潛
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+***** 李公煥
+:PROPERTIES:
+:FUNCTION: 箋
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊巾箱本
+:END:
+
+
+*** SB14n116 鮑氏集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0009
+:END:
+
+**** responsible:
+***** 鮑照
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 劉宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏常熟毛扆校宋本
+:END:
+
+
+*** SB14n117 謝宣城詩集
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB4b0010
+:END:
+
+**** responsible:
+***** 謝朓
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 南齊
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明景宋鈔本
+:END:
+
+
+*** SB14n118 梁昭明太子文集
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+**** responsible:
+***** 昭明太子蕭統
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 梁
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程許氏藏明遼府刊本
+:END:
+
+
+*** SB14n119 梁江文通文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+校補一卷
+**** responsible:
+***** 江淹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 梁
+:END:
+
+***** 葉樹廉
+:PROPERTIES:
+:FUNCTION: 輯校補
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 烏程蔣氏密韻樓藏明翻宋本
+:END:
+
+
+*** SB14n120 徐孝穆集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0016
+:END:
+
+**** responsible:
+***** 徐陵
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 陳
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明屠隆刊本
+:END:
+
+
+*** SB14n121 庾子山集
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB4b0015
+:END:
+
+**** responsible:
+***** 庾信
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 北周
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明屠隆刊本
+:END:
+
+
+*** SB14n122 寒山詩
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB4b0018
+:END:
+
+坿拾得詩一卷
+**** responsible:
+***** 釋寒山
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 釋拾得
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 建德周氏藏景宋刊本
+:END:
+
+
+*** SB14n123 王子安集
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB4b0019
+:END:
+
+附錄一卷
+**** responsible:
+***** 王勃
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏明張紹和刊本
+:END:
+
+
+*** SB14n124 楊盈川集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+附錄一卷
+**** responsible:
+***** 楊炯
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏明童氏刊本
+:END:
+
+
+*** SB14n125 幽憂子集
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+附錄一卷
+**** responsible:
+***** 盧照鄰
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏明閩漳張氏刊本
+:END:
+
+
+*** SB14n126 駱賓王文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 駱賓王
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明翻元刊本
+:END:
+
+
+*** SB14n127 陳伯玉文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 陳子昂
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  秀水王氏二十八宿研齋藏弘治中楊澄刊本
+:END:
+
+
+*** SB14n128 張說之文集
+:PROPERTIES:
+:EXTENT: 二十五卷
+:END:
+
+補一卷
+**** responsible:
+***** 張說
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏嘉靖十六年伍氏龍池草堂刊本
+:END:
+
+
+*** SB14n129 唐丞相曲江張先生文集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+附錄一卷
+**** responsible:
+***** 張九齡
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 南海潘氏藏成化九年韶州刊本
+:END:
+
+
+*** SB14n130 分類補註李太白詩
+:PROPERTIES:
+:EXTENT: 二十五卷
+:ZB_ID:    ZB4b0028
+:END:
+
+分類編次文五卷
+**** responsible:
+***** 李白
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 楊齊賢
+:PROPERTIES:
+:FUNCTION: 集注
+:DYNASTY: 元
+:END:
+
+***** 蕭士贇
+:PROPERTIES:
+:FUNCTION: 補注
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 蕭山朱氏藏明郭雲鵬濟美堂刊本
+:END:
+
+
+*** SB14n131 分門集註杜工部詩
+:PROPERTIES:
+:EXTENT: 二十五卷
+:ZB_ID:    ZB4b0032
+:END:
+
+坿年譜一卷
+**** responsible:
+***** 杜甫
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 集注
+:DYNASTY: 宋
+:END:
+
+***** 呂大防
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 宋
+:END:
+
+***** 蔡興宗
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 宋
+:END:
+
+***** 魯訔
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 南海潘氏藏宋刊本
+:END:
+
+
+*** SB14n132 須溪先生校本唐王右丞集
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+**** responsible:
+***** 王維
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏元刊本
+:END:
+
+
+*** SB14n133 高常侍集
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB4b0036
+:END:
+
+**** responsible:
+***** 高適
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明活字印本
+:END:
+
+
+*** SB14n134 孟浩然集
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 孟浩然
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明刊本
+:END:
+
+
+*** SB14n135 唐元次山文集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0040
+:END:
+
+拾遺一卷
+**** responsible:
+***** 元結
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏正德郭氏刊本
+:END:
+
+
+*** SB14n136 顏魯公文集
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB4b0041
+:END:
+
+補遺一卷
+坿年譜一卷
+行狀一卷
+碑銘一卷
+舊史本傳一卷
+新史本傳一卷
+**** responsible:
+***** 顏眞卿
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 留元剛
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 宋
+:END:
+
+***** 因亮
+:PROPERTIES:
+:FUNCTION: 撰行狀
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明錫山安氏館刊本
+:END:
+
+
+*** SB14n137 岑嘉州詩
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+**** responsible:
+***** 岑參
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  蕭山朱氏藏正德中刊本
+:END:
+
+
+*** SB14n138 晝上人集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 釋皎然
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏景宋精鈔本
+:END:
+
+
+*** SB14n139 劉隨州文集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0044
+:END:
+
+外集一卷
+**** responsible:
+***** 劉長卿
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏正德中刊本
+:END:
+
+
+*** SB14n140 韋刺史詩集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+附錄一卷
+**** responsible:
+***** 韋應物
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏嘉靖二十七年雲江州刊本
+:END:
+
+
+*** SB14n141 毘陵集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+補遺一卷
+附錄一卷
+**** responsible:
+***** 獨狐及
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏趙氏亦有生齋刊本
+:END:
+
+
+*** SB14n142 錢考功集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 錢起
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明活字印本
+:END:
+
+
+*** SB14n143 唐陸宣公集
+:PROPERTIES:
+:EXTENT: 二十二卷
+:END:
+
+**** responsible:
+***** 陸贅
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊本
+:END:
+
+
+*** SB14n144 權載之文集
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+補刻一卷
+坿校補一卷
+**** responsible:
+***** 權德輿
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 姜殿揚
+:PROPERTIES:
+:FUNCTION: 輯校補
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 無錫孫氏小綠天藏大興朱氏刊本
+:END:
+
+
+*** SB14n145 朱文公校昌黎先生文集
+:PROPERTIES:
+:EXTENT: 四十卷
+:END:
+
+外集十卷
+遺文一卷
+**** responsible:
+***** 韓愈
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 朱熹
+:PROPERTIES:
+:FUNCTION: 考異
+:DYNASTY: 宋
+:END:
+
+***** 王伯大
+:PROPERTIES:
+:FUNCTION: 音釋
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏元刊本
+:END:
+
+
+*** SB14n146 增廣註釋音辯唐柳先生集
+:PROPERTIES:
+:EXTENT: 四十三卷
+:END:
+
+別集二卷
+外集二卷
+附錄一卷
+**** responsible:
+***** 柳宗元
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 童宗說
+:PROPERTIES:
+:FUNCTION: 注釋
+:DYNASTY: 宋
+:END:
+
+***** 張敦頤
+:PROPERTIES:
+:FUNCTION: 音辯
+:DYNASTY: 宋
+:END:
+
+***** 潘緯
+:PROPERTIES:
+:FUNCTION: 音義
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏元刊本
+:END:
+
+
+*** SB14n147 劉夢得文集
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+外集十卷
+**** responsible:
+***** 劉禹錫
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏武進董氏景宋刊本
+:END:
+
+
+*** SB14n148 呂和叔文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 呂溫
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏述古堂景宋鈔本
+:END:
+
+
+*** SB14n149 唐張司業詩集
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB4b0064
+:END:
+
+**** responsible:
+***** 張籍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明刊本
+:END:
+
+
+*** SB14n150 皇甫持正文集
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB4b0065
+:END:
+
+**** responsible:
+***** 皇甫湜
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊本
+:END:
+
+
+*** SB14n151 李文
+:PROPERTIES:
+:EXTENT: 十八卷
+:ZB_ID:    ZB4b0066
+:END:
+
+**** responsible:
+***** 李翱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏成化十一年刊本
+:END:
+
+
+*** SB14n152 歐陽行周文集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0067
+:END:
+
+**** responsible:
+***** 歐陽詹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  平湖葛氏傳樸堂藏正德中刊本
+:END:
+
+
+*** SB14n153 孟東野詩集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0069
+:END:
+
+**** responsible:
+***** 孟郊
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  杭州葉氏藏弘治十二年刊本
+:END:
+
+
+*** SB14n154 唐賈浪仙長江集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 賈島
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明翻宋本
+:END:
+
+
+*** SB14n155 歌詩編
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 李賀
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏金刊本
+:END:
+
+
+*** SB14n156 沈下賢文集
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB4b0075
+:END:
+
+**** responsible:
+***** 沈亞之
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明翻宋刊本
+:END:
+
+
+*** SB14n157 李文饒文集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+別集十卷
+外集四卷
+補一卷
+**** responsible:
+***** 李德裕
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB14n158 元氏長慶集
+:PROPERTIES:
+:EXTENT: 六十卷
+:ZB_ID:    ZB4b0078
+:END:
+
+集外文章一卷
+坿校文一卷
+**** responsible:
+***** 元稹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校文
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏嘉靖三十一年董子刊本
+:END:
+
+
+*** SB14n159 白氏文集
+:PROPERTIES:
+:EXTENT: 七十一卷
+:ZB_ID:    ZB4b0079
+:END:
+
+**** responsible:
+***** 白居易
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏日本活字印本
+:END:
+
+
+*** SB14n160 樊川文集
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB4b0082
+:END:
+
+外集一卷
+別集一卷
+**** responsible:
+***** 杜牧
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏明翻宋刊本
+:END:
+
+
+*** SB14n161 姚少監詩集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0083
+:END:
+
+**** responsible:
+***** 姚合
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明鈔本
+:END:
+
+
+*** SB14n162 唐李義山詩集
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB4b0084
+:END:
+
+**** responsible:
+***** 李商隱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏嘉靖二十九年毗陵蔣氏刊本
+:END:
+
+
+*** SB14n163 李義山文集
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB4b0086
+:END:
+
+**** responsible:
+***** 李商隱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏舊鈔本
+:END:
+
+
+*** SB14n164 溫庭筠詩集
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+別集一卷
+**** responsible:
+***** 溫庭筠
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏述古堂景宋鈔本
+:END:
+
+
+*** SB14n165 丁卯集
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB4b0088
+:END:
+
+**** responsible:
+***** 許渾
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟歸止庵藏景宋鈔本
+:END:
+
+
+*** SB14n166 唐劉蛻集
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+**** responsible:
+***** 劉蛻
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏天啓閒吳馡刊本
+:END:
+
+
+*** SB14n167 唐孫樵集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 孫樵
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏天啓閒吳馡刊本
+:END:
+
+
+*** SB14n168 李羣玉詩集
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB4b0090
+:END:
+
+後集五卷
+**** responsible:
+***** 李羣玉
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上元鄧氏羣碧樓藏宋刊本
+:END:
+
+
+*** SB14n169 碧雲集
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+**** responsible:
+***** 李中
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 南唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上元鄧氏羣碧樓藏宋刊本
+:END:
+
+
+*** SB14n170 唐李推官披沙集
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+**** responsible:
+***** 李咸用
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上元鄧氏羣碧樓藏宋刊本
+:END:
+
+
+*** SB14n171 皮日休文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 皮日休
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  湘潭袁氏藏明刊本
+:END:
+
+
+*** SB14n172 唐甫里先生文集
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB4b0097
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 陸龜蒙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏黃蕘圃校明鈔本
+:END:
+
+
+*** SB14n173 玉川子詩集
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+外集一卷
+**** responsible:
+***** 盧仝
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏舊鈔本
+:END:
+
+
+*** SB14n174 司空表聖文集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0100
+:END:
+
+**** responsible:
+***** 司空圖
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏舊鈔本
+:END:
+
+
+*** SB14n175 司空表聖詩集
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+**** responsible:
+***** 司空圖
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  海鹽涉園張氏藏唐音統籤本
+:END:
+
+
+*** SB14n176 玉山樵人集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+香奩集一卷
+**** responsible:
+***** 韓偓
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏舊鈔本
+:END:
+
+
+*** SB14n177 桂苑筆耕集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 崔致遠
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏高麗舊刊本
+:END:
+
+
+*** SB14n178 唐黃先生文集
+:PROPERTIES:
+:EXTENT: 八卷
+:END:
+
+附錄一卷
+**** responsible:
+***** 黃滔
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 閩縣李氏觀槿齋藏萬曆刊本
+:END:
+
+
+*** SB14n179 甲乙集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 羅隱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB14n180 白蓮集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0108
+:END:
+
+坿風騷旨格一卷
+**** responsible:
+***** 釋齊己
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏景明鈔本
+:END:
+
+
+*** SB14n181 禪月集
+:PROPERTIES:
+:EXTENT: 二十五卷
+:ZB_ID:    ZB4b0109
+:END:
+
+**** responsible:
+***** 釋貫休
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  武昌徐氏藏景宋鈔本
+:END:
+
+
+*** SB14n182 浣花集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0110
+:END:
+
+補遺一卷
+**** responsible:
+***** 韋莊
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏明朱子儋刊本
+:END:
+
+
+*** SB14n183 廣成集
+:PROPERTIES:
+:EXTENT: 十七卷
+:ZB_ID:    ZB5b0321
+:END:
+
+**** responsible:
+***** 杜光庭
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 前蜀
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  北京白雲觀藏正統道藏本
+:END:
+
+/tmp/sys/KR4-titles.txt:ZB4b0111	廣成集
+
+*** SB14n184 徐公文集
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+**** responsible:
+***** 徐鉉
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏黃蕘圃校宋鈔本
+:END:
+
+
+*** SB14n185 河東先生集
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB4b0113
+:END:
+
+**** responsible:
+***** 柳開
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏鈔本
+:END:
+
+
+*** SB14n186 王黃州小畜集
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB4b0118
+:END:
+
+坿札記一卷
+**** responsible:
+***** 王禹偁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰札記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏經鉏堂鈔本
+:END:
+
+
+*** SB14n187 王黃州小畜外集殘
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+**** responsible:
+***** 王禹偁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏景宋鈔本
+:END:
+
+
+*** SB14n188 宋林和靖先生詩集
+:PROPERTIES:
+:EXTENT: 四卷
+:ZB_ID:    ZB4b0121
+:END:
+
+補一卷
+**** responsible:
+***** 林逋
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏景鈔本
+:END:
+
+
+*** SB14n189 河南穆公集
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+遺事一卷
+坿校補一卷
+**** responsible:
+***** 穆修
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 撰校補
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 杭州葉氏藏述古堂景宋鈔本
+:END:
+
+
+*** SB14n190 范文正公集
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB4b0132
+:END:
+
+別集四卷
+政府奏議二卷
+尺牘三卷
+坿年譜一卷
+坿年譜補遺一卷
+坿言行拾遺錄四卷
+坿鄱陽遺事錄一卷
+坿又附錄十三種
+**** responsible:
+***** 范仲淹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 樓鑰
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 宋
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰補遺
+:DYNASTY: □
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰言行拾遺事錄
+:DYNASTY: 元
+:END:
+
+***** 陳貽範
+:PROPERTIES:
+:FUNCTION: 撰鄱陽遺事錄
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏明翻天曆本
+:END:
+
+
+*** SB14n191 河南先生文集
+:PROPERTIES:
+:EXTENT: 二十八卷
+:ZB_ID:    ZB4b0133
+:END:
+
+**** responsible:
+***** 尹洙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏春岑閣鈔本
+:END:
+
+
+*** SB14n192 蘇學士文集
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB4b0140
+:END:
+
+坿校語一卷
+**** responsible:
+***** 蘇舜欽
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 何焯
+:PROPERTIES:
+:FUNCTION: 撰校語
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏康熙刊本
+:END:
+
+
+*** SB14n193 溫國文正公文集
+:PROPERTIES:
+:EXTENT: 八十卷
+:END:
+
+**** responsible:
+***** 司馬光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏紹興刊本
+:END:
+
+
+*** SB14n194 直講李先生文集
+:PROPERTIES:
+:EXTENT: 三十七卷
+:END:
+
+外集三卷
+坿年譜一卷
+門人錄一卷
+**** responsible:
+***** 李覯
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰年譜門人錄
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏明刊本
+:END:
+
+
+*** SB14n195 陳眉公先生訂正丹淵集
+:PROPERTIES:
+:EXTENT: 四十卷
+:ZB_ID:    ZB4b0153
+:END:
+
+拾遺二卷
+坿年譜一卷
+**** responsible:
+***** 文同
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 家誠之
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明汲古閣刊本
+:END:
+
+
+*** SB14n196 南豐先生元豐類蒿
+:PROPERTIES:
+:EXTENT: 五十卷
+:ZB_ID:    ZB4b0159
+:END:
+
+附錄一卷
+**** responsible:
+***** 曾鞏
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 烏程蔣氏密韻樓藏元刊本
+:END:
+
+
+*** SB14n197 宛陵先生集
+:PROPERTIES:
+:EXTENT: 六十卷
+:ZB_ID:    ZB4b0161
+:END:
+
+拾遺一卷
+附錄一卷
+**** responsible:
+***** 梅堯臣
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏萬曆閒梅氏祠堂刊本
+:END:
+
+
+*** SB14n198 伊川擊壤集
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB5d0060
+:END:
+
+集外詩一卷
+**** responsible:
+***** 邵雍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏成化刊黑口本
+:END:
+
+
+*** SB14n199 歐陽文忠公集
+:PROPERTIES:
+:EXTENT: 一百五十三卷
+:ZB_ID:    ZB4b0174
+:END:
+
+附錄五卷
+坿廬陵歐陽文忠公年譜一卷
+**** responsible:
+***** 歐陽脩
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 胡柯
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏元刊本
+:END:
+
+
+*** SB14n200 嘉祐集
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB4b0177
+:END:
+
+**** responsible:
+***** 蘇洵
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏景宋鈔本
+:END:
+
+
+*** SB14n201 臨川先生文集
+:PROPERTIES:
+:EXTENT: 一百卷
+:ZB_ID:    ZB4b0178
+:END:
+
+**** responsible:
+***** 王安石
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明刊本
+:END:
+
+
+*** SB14n202 增刊校正王狀元集註分類東坡先生詩
+:PROPERTIES:
+:EXTENT: 二十五卷
+:END:
+
+坿紀年錄一卷
+**** responsible:
+***** 蘇軾
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 王十朋
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 宋
+:END:
+
+***** 傅藻
+:PROPERTIES:
+:FUNCTION: 撰紀年錄
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 南海潘氏藏宋務本堂刊本
+:END:
+
+
+*** SB14n203 經進東坡文集事略
+:PROPERTIES:
+:EXTENT: 六十卷
+:END:
+
+**** responsible:
+***** 蘇軾
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 郎曄
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程張氏南海潘氏合藏宋刊本
+:END:
+
+
+*** SB14n204 欒城集
+:PROPERTIES:
+:EXTENT: 五十卷
+:ZB_ID:    ZB4b0185
+:END:
+
+後集二十四卷
+三集十卷
+**** responsible:
+***** 蘇轍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏明活字印本
+:END:
+
+
+*** SB14n205 欒城應詔集
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+**** responsible:
+***** 蘇軾
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏景宋舊鈔本
+:END:
+
+
+*** SB14n206 豫章黃先生文集
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB4b0279
+:END:
+
+**** responsible:
+***** 黃庭堅
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  嘉興沈氏藏宋刊本
+:END:
+
+
+*** SB14n207 后山詩註
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB4b0189
+:END:
+
+**** responsible:
+***** 任淵
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏高麗活字印本
+:END:
+
+
+*** SB14n208 張右史文集
+:PROPERTIES:
+:EXTENT: 六十卷
+:END:
+
+**** responsible:
+***** 張耒
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏舊鈔本
+:END:
+
+
+*** SB14n209 淮海集
+:PROPERTIES:
+:EXTENT: 四十卷
+:ZB_ID:    ZB4b0191
+:END:
+
+後集六卷
+長短句三卷
+**** responsible:
+***** 秦觀
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽涉園張氏藏嘉靖中刊小字本
+:END:
+
+
+*** SB14n210 石門文字禪
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB6q0193
+:END:
+
+**** responsible:
+***** 釋惠洪
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明徑山寺刊本
+:END:
+
+/tmp/sys/KR4-titles.txt:ZB4b0195	石門文字禪
+
+*** SB14n211 濟北晁先生雞肋集
+:PROPERTIES:
+:EXTENT: 七十卷
+:ZB_ID:    ZB4b0205
+:END:
+
+**** responsible:
+***** 晁補之
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明刊詩瘦閣翻宋本
+:END:
+
+
+*** SB14n212 浮溪集
+:PROPERTIES:
+:EXTENT: 三十二卷
+:ZB_ID:    ZB4b0244
+:END:
+
+**** responsible:
+***** 汪藻
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏武英殿聚珍版本
+:END:
+
+
+*** SB14n213 增廣箋註簡齋詩集
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+無住詞一卷
+**** responsible:
+***** 陳與義
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 胡稺
+:PROPERTIES:
+:FUNCTION: 箋注
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB14n214 簡齋詩外集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+**** responsible:
+***** 陳與義
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏舊鈔本
+:END:
+
+
+*** SB14n215 于湖居士文集
+:PROPERTIES:
+:EXTENT: 四十卷
+:ZB_ID:    ZB4b0313
+:END:
+
+附錄一卷
+**** responsible:
+***** 張孝祥
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 慈谿李氏藏宋刊本
+:END:
+
+
+*** SB14n216 晦菴先生朱文公文集
+:PROPERTIES:
+:EXTENT: 一百卷
+:ZB_ID:    ZB4b0323
+:END:
+
+續集十一卷
+別集十卷
+目錄二卷
+**** responsible:
+***** 朱熹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏嘉靖刊本
+:END:
+
+
+*** SB14n217 止齋先生文集
+:PROPERTIES:
+:EXTENT: 五十二卷
+:ZB_ID:    ZB4b0330
+:END:
+
+附錄一卷
+**** responsible:
+***** 陳傅良
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳興劉氏嘉業堂藏正德閒林長蘩溫州刊本
+:END:
+
+
+*** SB14n218 梅溪先生廷試策奏議
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB4b0332d
+:END:
+
+詩文前集二十卷
+後集二十九卷
+附錄一卷
+**** responsible:
+***** 王十朋
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏正統閒劉謙溫州刊本
+:END:
+
+
+*** SB14n219 攻媿集
+:PROPERTIES:
+:EXTENT: 一百十二卷
+:ZB_ID:    ZB4b0340
+:END:
+
+**** responsible:
+***** 樓鑰
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏武英殿聚珍版本
+:END:
+
+
+*** SB14n220 象山先生全集
+:PROPERTIES:
+:EXTENT: 三十六卷
+:ZB_ID:    ZB4b0350
+:END:
+
+**** responsible:
+***** 陸九淵
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏嘉靖刊本
+:END:
+
+
+*** SB14n221 盤洲文集
+:PROPERTIES:
+:EXTENT: 八十卷
+:ZB_ID:    ZB4b0358
+:END:
+
+附錄一卷
+拾遺一卷
+坿札記一卷
+**** responsible:
+***** 洪适
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰札記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏景宋鈔本
+:END:
+
+
+*** SB14n222 石湖居士詩集
+:PROPERTIES:
+:EXTENT: 三十四卷
+:ZB_ID:    ZB4b0362
+:END:
+
+**** responsible:
+***** 范成大
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏愛汝堂刊本
+:END:
+
+
+*** SB14n223 誠齋集
+:PROPERTIES:
+:EXTENT: 一百三十三卷
+:ZB_ID:    ZB4b0363
+:END:
+
+**** responsible:
+***** 楊萬里
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江陰繆氏藝風堂藏景宋鈔本
+:END:
+
+
+*** SB14n224 渭南文集
+:PROPERTIES:
+:EXTENT: 五十卷
+:ZB_ID:    ZB4b0365
+:END:
+
+**** responsible:
+***** 陸游
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明華氏活字印本
+:END:
+
+
+*** SB14n225 澗谷精選陸放翁詩集前集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+須溪精選後集八卷
+別集一卷
+**** responsible:
+***** 陸游
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 羅椅
+:PROPERTIES:
+:FUNCTION: 選前集
+:DYNASTY: 宋
+:END:
+
+***** 劉辰翁
+:PROPERTIES:
+:FUNCTION: 選後集
+:DYNASTY: 宋
+:END:
+
+***** 劉景寅
+:PROPERTIES:
+:FUNCTION: 選別集
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 劉氏嘉業堂藏弘治十年刊本
+:END:
+
+
+*** SB14n226 水心先生文集
+:PROPERTIES:
+:EXTENT: 二十九卷
+:ZB_ID:    ZB4b0369
+:END:
+
+**** responsible:
+***** 葉適
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+  烏程劉氏嘉業堂藏明黎諒刊 
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  黑口本
+:END:
+
+
+*** SB14n227 重校鶴山先生大全文集
+:PROPERTIES:
+:EXTENT: 一百十卷
+:ZB_ID:    ZB4b0399
+:END:
+
+**** responsible:
+***** 魏了翁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程劉氏嘉業堂藏宋中刊本
+:END:
+
+
+*** SB14n228 西山先生眞文忠公文集
+:PROPERTIES:
+:EXTENT: 五十一卷
+:ZB_ID:    ZB4b0400
+:END:
+
+**** responsible:
+***** 眞德秀
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏正德中刊本
+:END:
+
+
+*** SB14n229 白石道人詩集
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB4b0403
+:END:
+
+集外詩一卷
+詩說一卷
+歌曲四卷
+歌曲別集一卷
+附錄一卷
+**** responsible:
+***** 姜夔
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏江都陸氏刊本
+:END:
+
+
+*** SB14n230 後村先生大全集
+:PROPERTIES:
+:EXTENT: 一百九十六卷
+:ZB_ID:    ZB4b0434
+:END:
+
+**** responsible:
+***** 劉克莊
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏景印舊鈔本
+:END:
+
+
+*** SB14n231 文山先生全集
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB4b0458
+:END:
+
+**** responsible:
+***** 文天祥
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程許氏藏明刊本
+:END:
+
+
+*** SB14n232 閑閑老人滏水文集
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB4b0509
+:END:
+
+**** responsible:
+***** 趙秉文
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 金
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  湘潭袁氏藏汲古閣精鈔本
+:END:
+
+
+*** SB14n233 滹南遺老集
+:PROPERTIES:
+:EXTENT: 四十五卷
+:ZB_ID:    ZB4b0510
+:END:
+
+續一卷
+**** responsible:
+***** 王若虛
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 金
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏舊鈔本
+:END:
+
+
+*** SB14n234 遺山先生文集
+:PROPERTIES:
+:EXTENT: 四十卷
+:ZB_ID:    ZB4b0512
+:END:
+
+附錄一卷
+**** responsible:
+***** 元好問
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 金
+:END:
+
+***** 儲瓘
+:PROPERTIES:
+:FUNCTION: 輯坿錄
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 烏程蔣氏密韻樓藏弘治中刊本
+:END:
+
+
+*** SB14n235 湛然居士文集
+:PROPERTIES:
+:EXTENT: 十四卷
+:ZB_ID:    ZB4b0513
+:END:
+
+**** responsible:
+***** 耶律楚材
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏景元鈔本
+:END:
+
+
+*** SB14n236 剡源戴先生文集
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB4b0523
+:END:
+
+**** responsible:
+***** 戴表元
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏萬曆中刊本
+:END:
+
+
+*** SB14n237 松雪齋文集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0537
+:END:
+
+詩文外集一卷
+**** responsible:
+***** 趙孟頫
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏元沈伯玉刊本
+:END:
+
+
+*** SB14n238 靜修先生文集
+:PROPERTIES:
+:EXTENT: 二十二卷
+:ZB_ID:    ZB4b0546
+:END:
+
+**** responsible:
+***** 劉因
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏元宗文堂刊本
+:END:
+
+
+*** SB14n239 秋澗先生大全集
+:PROPERTIES:
+:EXTENT: 一百卷
+:ZB_ID:    ZB4b0556
+:END:
+
+附錄一卷
+**** responsible:
+***** 王惲
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏弘治翻元本
+:END:
+
+
+*** SB14n240 淸容居士集
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+**** responsible:
+***** 袁桷
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏元刊本
+:END:
+
+
+*** SB14n241 牧庵集
+:PROPERTIES:
+:EXTENT: 三十六卷
+:ZB_ID:    ZB4b0557
+:END:
+
+坿年譜一卷
+**** responsible:
+***** 姚燧
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+***** 劉致
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏武英殿聚珍版本
+:END:
+
+
+*** SB14n242 道園學古錄
+:PROPERTIES:
+:EXTENT: 五十卷
+:ZB_ID:    ZB4b0586
+:END:
+
+**** responsible:
+***** 虞集
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏明刊本
+:END:
+
+
+*** SB14n243 翰林楊仲弘詩
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB4b0588
+:END:
+
+**** responsible:
+***** 楊載
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏嘉靖十五年翁氏刊本
+:END:
+
+
+*** SB14n244 揭文安公全集
+:PROPERTIES:
+:EXTENT: 十四卷
+:END:
+
+補遺一卷
+**** responsible:
+***** 揭傒斯
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 烏程蔣氏密韻樓藏孔葒谷鈔本
+:END:
+
+
+*** SB14n245 范德機詩集
+:PROPERTIES:
+:EXTENT: 七卷
+:ZB_ID:    ZB4b0589
+:END:
+
+**** responsible:
+***** 范梈
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏景元鈔本
+:END:
+
+
+*** SB14n246 淵穎吳先生集
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB4b0594
+:END:
+
+附錄一卷
+坿札記一卷
+**** responsible:
+***** 吳萊
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+***** 林志烜
+:PROPERTIES:
+:FUNCTION: 撰札記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 蕭山朱氏翼盦藏元刊本
+:END:
+
+
+*** SB14n247 金華黃先生文集
+:PROPERTIES:
+:EXTENT: 四十三卷
+:END:
+
+坿札記一卷
+**** responsible:
+***** 黃溍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰札記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏上元宗氏日本岩崎氏靜嘉堂文庫藏元刊本
+:END:
+
+
+*** SB14n248 圭齋文集
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB4b0596
+:END:
+
+**** responsible:
+***** 歐陽玄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏成化中刊黑口本
+:END:
+
+
+*** SB14n249 柳待制文集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+附錄一卷
+**** responsible:
+***** 柳貫
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江陰繆氏藝風堂藏至正刊本
+:END:
+
+
+*** SB14n250 薩天錫詩集
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+**** responsible:
+***** 薩都剌
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏弘治中刊黑口本
+:END:
+
+
+*** SB14n251 句曲外史貞居先生詩集
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+**** responsible:
+***** 張雨
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏景鈔元刊本
+:END:
+
+
+*** SB14n252 九靈山房集
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB4b0659
+:END:
+
+**** responsible:
+***** 戴良
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏正統中刊黑口本
+:END:
+
+
+*** SB14n253 倪雲林先生詩集
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+附錄一卷
+**** responsible:
+***** 倪瓚
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 秀水沈氏藏天順中刊本
+:END:
+
+
+*** SB14n254 東維子文集
+:PROPERTIES:
+:EXTENT: 三十一卷
+:ZB_ID:    ZB4b0674
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 楊維楨
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+***** 傅增湘
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏鳴野山房舊鈔本
+:END:
+
+
+*** SB14n255 鐵崖先生古樂府
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0675
+:END:
+
+鐵雅先生復古詩集六卷
+**** responsible:
+***** 楊維楨
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏成化中刊本
+:END:
+
+
+*** SB14n256 宋學士文集
+:PROPERTIES:
+:EXTENT: 七十五卷
+:END:
+
+**** responsible:
+***** 宋濂
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  侯官李氏觀槿齋藏正德中刊本
+:END:
+
+
+*** SB14n257 太師誠意伯劉文成公集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 劉基
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程許氏藏明刊本
+:END:
+
+
+*** SB14n258 淸江貝先生文集
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+詩集十卷
+詩餘一卷
+**** responsible:
+***** 貝瓊
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 烏程許氏藏洪武中刊本
+:END:
+
+
+*** SB14n259 蘇平仲文集
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB4b0703
+:END:
+
+**** responsible:
+***** 蘇伯衡
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上元鄧氏羣碧樓藏正統七年刊本
+:END:
+
+
+*** SB14n260 高太史大全集
+:PROPERTIES:
+:EXTENT: 十八卷
+:END:
+
+**** responsible:
+***** 高啓
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏景泰閒徐庸刊本
+:END:
+
+
+*** SB14n261 高太史鳧藻集
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+扣舷集一卷
+**** responsible:
+***** 高啓
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏正統九年長洲刊本
+:END:
+
+
+*** SB14n262 遜志齋集
+:PROPERTIES:
+:EXTENT: 二十四卷
+:ZB_ID:    ZB4b0750
+:END:
+
+附錄一卷
+**** responsible:
+***** 方孝孺
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏嘉靖四十年刊本
+:END:
+
+
+*** SB14n263 匏翁家藏集
+:PROPERTIES:
+:EXTENT: 七十七卷
+:END:
+
+補遺一卷
+**** responsible:
+***** 吳寬
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏正德中刊本
+:END:
+
+
+*** SB14n264 王文成公全書
+:PROPERTIES:
+:EXTENT: 三十八卷
+:ZB_ID:    ZB4b0833
+:END:
+
+**** responsible:
+***** 王守仁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏隆慶中刊本
+:END:
+
+
+*** SB14n265 重刊荊川先生文集
+:PROPERTIES:
+:EXTENT: 十七卷
+:ZB_ID:    ZB4b0866
+:END:
+
+新刊外集三卷
+**** responsible:
+***** 唐順之
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏萬曆刊本
+:END:
+
+
+*** SB14n266 震川先生集
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB4b0891
+:END:
+
+別集十卷
+**** responsible:
+***** 歸有光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏康熙中刊本
+:END:
+
+
+*** SB14n267 亭林詩集
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+校補一卷
+文集六卷
+**** responsible:
+***** 顧炎武
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 輯詩集校補
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏康熙中刊本
+:END:
+
+
+*** SB14n268 亭林餘集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+**** responsible:
+***** 顧炎武
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏誦芬樓刊本
+:END:
+
+
+*** SB14n269 南雷文案
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+外卷一卷
+吾悔集四卷
+撰杖集一卷
+子劉子行狀二卷
+南雷詩曆三卷
+坿學箕初稿二卷
+**** responsible:
+***** 黃宗羲
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 男黃百家
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓無錫孫氏小綠天藏原刊本
+:END:
+
+
+*** SB14n270 薑齋詩文集
+:PROPERTIES:
+:EXTENT: 二十八卷
+:END:
+
+**** responsible:
+***** 王夫之
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏船山遺書本
+:END:
+
+
+*** SB14n271 牧齋初學集
+:PROPERTIES:
+:EXTENT: 一百十卷
+:END:
+
+**** responsible:
+***** 錢謙益
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏崇禎十六年刊本
+:END:
+
+
+*** SB14n272 牧齋有學集
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+補一卷
+坿校勘記一卷
+**** responsible:
+***** 錢謙益
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 姜殿揚
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏康熙三年初刻本
+:END:
+
+
+*** SB14n273 梅村家藏藁
+:PROPERTIES:
+:EXTENT: 五十八卷
+:ZB_ID:    ZB4b0926
+:END:
+
+詩補遺一卷
+文補遺一卷
+坿梅村先生年譜四卷
+世系一卷
+**** responsible:
+***** 吳偉業
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 顧師軾
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏武進董氏新刊本
+:END:
+
+
+*** SB14n274 漁洋山人精華錄
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0932
+:END:
+
+**** responsible:
+***** 王士禎
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 林佶
+:PROPERTIES:
+:FUNCTION: 編
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏侯官林佶鈔刊本
+:END:
+
+
+*** SB14n275 堯峰文鈔
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+**** responsible:
+***** 汪琬
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏侯官林佶鈔刊本
+:END:
+
+
+*** SB14n276 曝書亭集
+:PROPERTIES:
+:EXTENT: 八十卷
+:ZB_ID:    ZB4b0937
+:END:
+
+附錄一卷
+坿笛漁小槀十卷
+**** responsible:
+***** 朱彝尊
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 男朱昆田
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n277 陳迦陵文集
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+儷體文集十卷
+湖海樓詩集八卷
+迦陵詞全集三十卷
+**** responsible:
+***** 陳維崧
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏患立堂刊本
+:END:
+
+
+*** SB14n278 敬業堂詩集
+:PROPERTIES:
+:EXTENT: 五十卷
+:ZB_ID:    ZB4b0955
+:END:
+
+續集六卷
+**** responsible:
+***** 查愼行
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n279 望溪先生文集
+:PROPERTIES:
+:EXTENT: 十八卷
+:ZB_ID:    ZB4b0956
+:END:
+
+集外文十卷
+集外文補遺二卷
+坿年譜一卷
+年譜附錄一卷
+**** responsible:
+***** 方苞
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 蘇惇元
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏戴氏刊本
+:END:
+
+
+*** SB14n280 樊榭山房
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0960
+:END:
+
+續集十卷
+文集八卷
+集外詩三卷
+又一卷
+集外詞四卷
+又一卷
+集外曲二卷
+**** responsible:
+***** 厲鶚
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏振綺堂刊本
+:END:
+
+
+*** SB14n281 惜抱軒文集
+:PROPERTIES:
+:EXTENT: 十六卷
+:END:
+
+詩集十卷
+**** responsible:
+***** 姚鼐
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n282 戴東原集
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+坿年譜一卷
+覆校札記一卷
+**** responsible:
+***** 戴震
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 段玉裁
+:PROPERTIES:
+:FUNCTION: 撰年譜覆校札記
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏經韻樓刊本
+:END:
+
+
+*** SB14n283 鮚埼亭集
+:PROPERTIES:
+:EXTENT: 三十八卷
+:END:
+
+外編五十卷
+坿全謝山先生經史問答十卷
+年譜一卷
+**** responsible:
+***** 全祖望
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 董秉純
+:PROPERTIES:
+:FUNCTION: 撰年譜
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n284 鮚埼亭詩集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 全祖望
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏舊鈔本
+:END:
+
+
+*** SB14n285 洪北江詩文集
+:PROPERTIES:
+:EXTENT: 六十六卷
+:END:
+
+坿年譜一卷
+**** responsible:
+***** 洪亮吉
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 呂培
+:PROPERTIES:
+:FUNCTION: 等撰年譜
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n286 孫淵如詩文集
+:PROPERTIES:
+:EXTENT: 二十一卷
+:END:
+
+坿長離閣集一卷
+**** responsible:
+***** 孫星衍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 王采薇
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n287 抱經堂文集
+:PROPERTIES:
+:EXTENT: 三十四卷
+:END:
+
+**** responsible:
+***** 盧文弨
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  閩縣李氏觀槿齋藏嘉慶二年刊本
+:END:
+
+
+*** SB14n288 潛研堂文集
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+詩集十卷
+詩續集十卷
+**** responsible:
+***** 錢大昕
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏潛研堂全書本
+:END:
+
+
+*** SB14n289 述學內篇
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+外篇一卷
+補遺一卷
+別錄一卷
+坿春秋述義一卷
+**** responsible:
+***** 汪中
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 無錫孫氏小綠天藏汪氏精刊本
+:END:
+
+
+*** SB14n290 容甫先生遺詩
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+補遺一卷
+附錄一卷
+**** responsible:
+***** 汪中
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 無錫孫氏小綠天藏汪氏精刊本
+:END:
+
+
+*** SB14n291 揅經室一集
+:PROPERTIES:
+:EXTENT: 十四卷
+:END:
+
+二集八卷
+三集五卷
+四集二卷
+詩十一卷
+續集九卷
+外集五卷
+**** responsible:
+***** 阮元
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n292 大雲山房文稿初集
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+二集四卷
+言事二卷
+補編一卷
+**** responsible:
+***** 惲敬
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏同治中刊本
+:END:
+
+
+*** SB14n293 定盦文集
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+續集四卷
+補五卷
+**** responsible:
+***** 龔自珍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏吳氏刊本
+:END:
+
+
+*** SB14n294 定盦文集補編
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 龔自珍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏朱氏刊本
+:END:
+
+
+*** SB14n295 茗柯文初編
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+二編二卷
+三編一卷
+四編一卷
+**** responsible:
+***** 張惠言
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏刊本
+:END:
+
+
+*** SB14n296 茗柯文補編
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+外編二卷
+**** responsible:
+***** 張惠言
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上元宗氏藏刊本
+:END:
+
+
+*** SB14n297 曾文正公詩集
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+文集三卷
+**** responsible:
+***** 曾國藩
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏原刊本
+:END:
+
+
+*** SB14n298 六臣註文選
+:PROPERTIES:
+:EXTENT: 六十卷
+:ZB_ID:    ZB4c0002
+:END:
+
+**** responsible:
+***** 昭明太子蕭統
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 梁
+:END:
+
+***** 李善
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 呂延濟
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 劉良
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 張銑
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 呂向
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 李周翰
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏宋刊本
+:END:
+
+
+*** SB14n299 玉臺新詠
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4c0004
+:END:
+
+**** responsible:
+***** 徐陵
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 陳
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏明五雲溪館活字印本
+:END:
+
+
+*** SB14n300 中興閒氣集
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB4c0011
+:END:
+
+坿校文一卷
+**** responsible:
+***** 高仲武
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 唐
+:END:
+
+***** 何焯
+:PROPERTIES:
+:FUNCTION: 撰校文
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 秀水沈氏藏明翻宋刊本
+:END:
+
+
+*** SB14n301 河岳英靈集
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB4c0008
+:END:
+
+坿校文一卷
+**** responsible:
+***** 殷璠
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 唐
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 撰校文
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 秀水沈氏藏明翻宋刊本
+:END:
+
+
+*** SB14n302 國秀集
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB4c0009
+:END:
+
+**** responsible:
+***** 芮挺章
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江南圖書館藏明刊本
+:END:
+
+
+*** SB14n303 才調集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4c0018
+:END:
+
+**** responsible:
+***** 韋穀
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 前蜀
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  德化李氏藏述古堂景宋鈔本
+:END:
+
+
+*** SB14n304 古文苑
+:PROPERTIES:
+:EXTENT: 二十一卷
+:ZB_ID:    ZB4c0020
+:END:
+
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: □
+:END:
+
+***** 章樵
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  杭州蔣氏藏成化十八年刊本
+:END:
+
+
+*** SB14n305 重校正唐文粹
+:PROPERTIES:
+:EXTENT: 一百卷
+:ZB_ID:    ZB4c0022
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 姚鉉
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+***** 林志烜
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏嘉靖中刊本
+:END:
+
+
+*** SB14n306 西崑詶唱集
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB4c0023
+:END:
+
+**** responsible:
+***** 楊億
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  江安傅氏雙鑑樓藏嘉靖中刊本
+:END:
+
+
+*** SB14n307 樂府詩集
+:PROPERTIES:
+:EXTENT: 一百卷
+:ZB_ID:    ZB4c0032
+:END:
+
+**** responsible:
+***** 郭茂倩
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏汲古閣刊本
+:END:
+
+
+*** SB14n308 皇朝文鑑
+:PROPERTIES:
+:EXTENT: 一百五十卷
+:END:
+
+**** responsible:
+***** 呂祖謙
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB14n309 中州集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4c0065
+:END:
+
+中州樂府一卷
+**** responsible:
+***** 元好問
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 金
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 誦芬室景元刊本
+:END:
+
+
+*** SB14n310 谷音
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+**** responsible:
+***** 杜本
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏舊鈔本
+:END:
+
+
+*** SB14n311 河汾諸老詩集
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB4c0069
+:END:
+
+坿校語一卷
+**** responsible:
+***** 房祺
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 元
+:END:
+
+***** 孫毓修
+:PROPERTIES:
+:FUNCTION: 撰校語
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 烏程劉氏嘉業堂藏景元鈔本
+:END:
+
+
+*** SB14n312 國朝文類
+:PROPERTIES:
+:EXTENT: 七十卷
+:END:
+
+**** responsible:
+***** 蘇天爵
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  上海涵芬樓藏至正二年杭州路西湖書院刊本
+:END:
+
+
+*** SB14n313 皇元風雅前集
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+後集六卷
+**** responsible:
+***** 傅習
+:PROPERTIES:
+:FUNCTION: 輯前集
+:DYNASTY: 元
+:END:
+
+***** 孫存吾
+:PROPERTIES:
+:FUNCTION: 輯後集
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 上海涵芬樓藏高麗翻元刊本
+:END:
+
+
+*** SB14n314 皇明文衡
+:PROPERTIES:
+:EXTENT: 一百卷
+:END:
+
+**** responsible:
+***** 程敏政
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏嘉靖閒盧煥刊本
+:END:
+
+
+*** SB14n315 文心雕龍
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4d0001
+:END:
+
+**** responsible:
+***** 劉勰
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 梁
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  嘉靖刊本
+:END:
+
+
+*** SB14n316 唐詩紀事
+:PROPERTIES:
+:EXTENT: 八十一卷
+:ZB_ID:    ZB4d0024
+:END:
+
+**** responsible:
+***** 計有功
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  嘉靖中錢塘洪氏校刊本
+:END:
+
+
+*** SB14n317 增修詩話總龜
+:PROPERTIES:
+:EXTENT: 四十八卷
+:ZB_ID:    ZB4d0012
+:END:
+
+後集五十卷
+**** responsible:
+***** 阮閱
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 嘉靖中中月窓道人校刊本
+:END:
+
+
+*** SB14n318 花閒集
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+補二卷
+**** responsible:
+***** 趙崇祚
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 後蜀
+:END:
+
+***** 溫博
+:PROPERTIES:
+:FUNCTION: 輯補
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 杭州葉氏藏萬曆三十年玄覽齋刊本
+:END:
+
+
+*** SB14n319 樂府雅詩
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB4e0062
+:END:
+
+拾遺二卷
+**** responsible:
+***** 曾慥
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 鈔校本
+:END:
+
+
+*** SB14n320 唐宋諸賢絕妙詞選
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4e0065
+:END:
+
+**** responsible:
+***** 黃昇
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  明刊本
+:END:
+
+
+*** SB14n321 中興以來絕妙詞選
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 黃昇
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏明翻宋刊本
+:END:
+
+
+*** SB14n322 增修箋註妙選羣英草堂詩餘前後集
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  杭州葉氏藏明刊本
+:END:
+
+
+*** SB14n323 朝野新聲太平樂府
+:PROPERTIES:
+:EXTENT: 九卷
+:END:
+
+**** responsible:
+***** 楊朝英
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION:  烏程蔣氏密韻樓藏元刊本
+:END:
+
+
+* 四部叢刊續編 
+
+  張元濟 等輯
+
+ 民國二十三年 
+ 上海商務印書館 景印本
+ 510册 
+
+
+** 經部
+*** SB21n324 儀禮疏
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+**** responsible:
+***** 賈公彥
+:PROPERTIES:
+:FUNCTION: 等撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 汪閬原覆宋景刊本
+:END:
+
+
+*** SB21n325 春秋正義
+:PROPERTIES:
+:EXTENT: 三十六卷
+:END:
+
+**** responsible:
+***** 孔穎達
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏日本覆印景鈔正宗寺本
+:END:
+
+
+*** SB21n326 爾雅疏
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 邢昺
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+*** SB21n327 周易傳
+:PROPERTIES:
+:EXTENT: 十一卷
+:ZB_ID:    ZB1a0023
+:END:
+
+卽漢上易傳
+**** responsible:
+***** 朱震
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 國立北平圖書館藏宋刊本
+:END:
+
+
+*** SB21n328 周易要義
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB1a0053
+:END:
+
+**** responsible:
+***** 魏了翁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+*** SB21n329 呂氏家塾讀詩記
+:PROPERTIES:
+:EXTENT: 三十二卷
+:ZB_ID:    ZB1c0011
+:END:
+
+**** responsible:
+***** 呂祖謙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB21n330 禮記要義
+:PROPERTIES:
+:EXTENT: 三十三卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 魏了翁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+*** SB21n331 春秋傳
+:PROPERTIES:
+:EXTENT: 三十卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+     :PROPERTIES:
+     :ZB_ID:    ZB1e0029
+     :END:
+***** 胡安國
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB21n332 東萊呂太史春秋左傳類編
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 呂祖謙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 胡文楷
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏舊鈔本
+:END:
+
+
+*** SB21n333 公是先生七經小傳
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB1g0004
+:END:
+
+**** responsible:
+***** 劉敝
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 天祿琳瑯舊藏宋刊本
+:END:
+
+
+*** SB21n334 讀四書叢說
+:PROPERTIES:
+:EXTENT: 
+:ZB_ID:    ZB1h0029
+:END:
+讀大學叢說一卷
+讀中庸叢說二卷
+讀論語叢說三卷
+讀孟子叢說二卷
+**** responsible:
+***** 許謙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏元刊本
+:END:
+
+
+*** SB21n335 羣經音辨
+:PROPERTIES:
+:EXTENT: 七卷
+:ZB_ID:    ZB1j0007
+:END:
+
+**** responsible:
+***** 賈昌朝
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照東京靜嘉堂文庫景宋鈔本
+:END:
+
+
+*** SB21n336 急就篇
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB1j0014
+:END:
+
+**** responsible:
+***** 史游
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 顏師古
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏明鈔本
+:END:
+
+
+*** SB21n337 汗簡
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB1j0023
+:END:
+
+**** responsible:
+***** 郭忠恕
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 後周
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏馮已蒼手鈔本
+:END:
+
+
+*** SB21n338 龍龕手鑑
+:PROPERTIES:
+:EXTENT: 四卷
+:ZB_ID:    ZB1j0033
+:END:
+
+**** responsible:
+***** 釋行均
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 遼
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏宋刊本
+:END:
+
+
+*** SB21n339 切韻指掌圖
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB1j0053
+:END:
+
+檢例一卷
+**** responsible:
+***** 司馬光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB21n340 附釋文互註禮部韻略
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB1j0055
+:END:
+
+條式一卷
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+** 史部
+*** SB22n341 貞觀政要
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB2e0006
+:END:
+
+**** responsible:
+***** 吳兢
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 戈直
+:PROPERTIES:
+:FUNCTION: 集論
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 成化中刊本
+:END:
+
+
+*** SB22n342 盡言集
+:PROPERTIES:
+:EXTENT: 十三卷
+:ZB_ID:    ZB2f0013
+:END:
+
+**** responsible:
+***** 劉安世
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏隆慶中覆宋刊本
+:END:
+
+
+*** SB22n343 孔氏祖庭廣記
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+**** responsible:
+***** 孔元措
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 金
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏蒙古刊本
+:END:
+
+
+*** SB22n344 漢丞相諸葛忠武侯傳
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB2g0013
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 張栻
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳興劉氏嘉業堂藏宋刊本
+:END:
+
+
+*** SB22n345 南唐書
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB2i0017
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 馬令
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 明刊本
+:END:
+
+
+*** SB22n346 南唐書
+:PROPERTIES:
+:EXTENT: 十八卷
+:ZB_ID:    ZB2i0018
+:END:
+
+坿音釋一卷
+坿校勘記一卷
+**** responsible:
+***** 陸游
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 戚光
+:PROPERTIES:
+:FUNCTION: 撰音釋
+:DYNASTY: 元
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 明錢叔寶手鈔本
+:END:
+
+
+*** SB22n347 吳越備史
+:PROPERTIES:
+:EXTENT: 四卷
+:ZB_ID:    ZB2i0019
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 范坰
+:PROPERTIES:
+:FUNCTION: 同撰
+:DYNASTY: 宋
+:END:
+
+***** 林禹
+:PROPERTIES:
+:FUNCTION: 同撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳枚菴手鈔本
+:END:
+
+
+*** SB22n348 大淸一統志
+:PROPERTIES:
+:EXTENT: 五百六十卷
+:ZB_ID:    ZB2k0009
+:END:
+
+坿索引
+
+**** responsible:
+***** 闕名
+
+:PROPERTIES:
+:FUNCTION: 勅撰 
+:DYNASTY: 淸
+:DATE: 嘉慶二十五年
+:END:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰索引
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 淸史館進呈鈔本
+:END:
+
+
+*** SB22n349 麟臺故事殘
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB2l0003
+:END:
+
+坿校記一卷
+**** responsible:
+***** 程俱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 明景宋鈔本
+:END:
+
+
+*** SB22n350 作邑自箴
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 李元弼
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏景鈔淳熙本
+:END:
+
+
+*** SB22n351 金石錄
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB2n0013
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 趙明誠
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏呂無黨手鈔本
+:END:
+
+
+** 子部
+*** SB23n352 張子語錄
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+後錄二卷
+坿校勘記一卷
+**** responsible:
+***** 張載
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB23n353 龜山先生語錄
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+後錄二卷
+坿校勘記一卷
+**** responsible:
+***** 楊時
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB23n354 程氏家塾讀書分年日程
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+綱領一卷
+**** responsible:
+***** 程端禮
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏元刊本
+:END:
+
+
+*** SB23n355 棠陰比事
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3c0008
+:END:
+
+**** responsible:
+***** 桂萬榮
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏景元鈔本
+:END:
+
+
+*** SB23n356 圖畫見聞誌
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB3h0018
+:END:
+
+**** responsible:
+***** 郭若虛
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊配元鈔本
+:END:
+
+
+*** SB23n357 法書攷
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB3h0039
+:END:
+
+**** responsible:
+***** 盛熙明
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 鈔本
+:END:
+
+
+*** SB23n358 嘯堂集古錄
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3h0083
+:END:
+
+**** responsible:
+***** 王俅
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 蕭山朱氏藏宋刊本
+:END:
+
+
+*** SB23n359 飲膳正要
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+**** responsible:
+***** 忽思慧
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照東京岩崎氏靜嘉堂文庫藏明刊本
+:END:
+
+
+*** SB23n360 容齋隨筆
+:PROPERTIES:
+:EXTENT: 十六卷
+:ZB_ID:    ZB3j0038
+:END:
+
+續筆十六卷
+三筆十六卷
+四筆十六卷
+五筆十卷
+**** responsible:
+***** 洪邁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+*** SB23n361 夢溪筆談
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB3j0091
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 沈括
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 明刊本
+:END:
+
+
+*** SB23n362 愧郯錄
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB3j0123
+:END:
+
+**** responsible:
+***** 岳珂
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB23n363 雲谿友議
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB3l0013
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 范攄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB23n364 雲仙雜記
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3l0015
+:END:
+
+**** responsible:
+***** 馮贄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB23n365 揮麈前錄
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+後錄十一卷
+第三錄三卷
+餘話二卷
+**** responsible:
+***** 王明淸
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 汲古閣景宋鈔本
+:END:
+
+
+*** SB23n366 淸波雜志
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 周煇
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB23n367 桯史
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB3l0067
+:END:
+
+**** responsible:
+***** 岳珂
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏元刊本
+:END:
+
+
+*** SB23n368 括異志
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 張師正
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB23n369 續幽怪錄
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 李復言
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏南宋書棚本
+:END:
+
+
+** 集部
+*** SB24n370 東皐子集
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB4b0017
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 王績
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明鈔本
+:END:
+
+
+*** SB24n371 宋之問集
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 宋之問
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n372 鄭守愚文集
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+卽雲臺編
+坿校勘記一卷
+**** responsible:
+***** 鄭谷
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 胡文楷
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 蕭山朱氏藏宋刊本
+:END:
+
+
+*** SB24n373 朱慶餘詩集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 朱慶餘
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB24n374 周賀詩集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 周賀
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB24n375 李丞相詩集
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 李建勳
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 南唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB24n376 雪竇顯和尚明覺大師頌古集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+拈古一卷
+瀑泉集一卷
+祖英集二卷
+**** responsible:
+***** 釋重顯
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB24n377 山谷外集詩注
+:PROPERTIES:
+:EXTENT: 十四卷
+:ZB_ID:    ZB4b0187b
+:END:
+
+**** responsible:
+***** 史容
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照日本帝室圖書寮藏元刊本
+:END:
+
+
+*** SB24n378 嵩山文集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+坿卷三負薪對校勘表一卷
+**** responsible:
+***** 晁說之
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘表
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 舊鈔本
+:END:
+
+
+*** SB24n379 北山小集
+:PROPERTIES:
+:EXTENT: 四十卷
+:ZB_ID:    ZB4b0253
+:END:
+
+**** responsible:
+***** 程俱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏景宋鈔本
+:END:
+
+
+*** SB24n380 沈忠敏公龜谿集
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB4b0264
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 沈與求
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏明刊本
+:END:
+
+
+*** SB24n381 韋齋集
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB4b0268
+:END:
+
+坿玉瀾集一卷
+**** responsible:
+***** 朱松
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 弟朱槹
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n382 東萊先生詩集
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB4b0292
+:END:
+
+**** responsible:
+***** 呂本中
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照東京內閣文庫藏宋刊本
+:END:
+
+
+*** SB24n383 范香溪先生文集
+:PROPERTIES:
+:EXTENT: 二十二卷
+:ZB_ID:    ZB4b0308
+:END:
+
+坿范豪齋先生遺文一卷
+范楊溪先生遺文一卷
+**** responsible:
+***** 范浚
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 姪范端臣
+:PROPERTIES:
+:FUNCTION: 撰蒙齋先生遺文
+:DYNASTY: 宋
+:END:
+
+***** 姪范端杲
+:PROPERTIES:
+:FUNCTION: 撰楊溪先生遺文
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n384 石屏詩集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0374
+:END:
+
+**** responsible:
+***** 戴復古
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏弘治中刊本
+:END:
+
+
+*** SB24n385 平齋文集
+:PROPERTIES:
+:EXTENT: 三十二卷
+:ZB_ID:    ZB4b0405
+:END:
+
+**** responsible:
+***** 洪咨夔
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB24n386 梅亭先生四六標準
+:PROPERTIES:
+:EXTENT: 四十卷
+:END:
+
+**** responsible:
+***** 李劉
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照東京內閣文庫藏宋刊本
+:END:
+
+
+*** SB24n387 三山鄭菊山先生淸雋集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+所南翁一百二十圖詩集一卷
+錦錢餘笑二十四首一卷
+鄭所南先生文集一卷
+坿校勘記一卷
+
+***** 鄭思肖
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 鄭起
+:PROPERTIES:
+:FUNCTION: 撰淸雋集
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 侯官林佶手鈔本
+:END:
+
+
+*** SB24n388 先天集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 許月卿
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江蘇省立國學圖書館藏嘉靖中刊本
+:END:
+
+
+*** SB24n389 疊山集
+:PROPERTIES:
+:EXTENT: 十六卷
+:END:
+
+**** responsible:
+***** 謝枋得
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n390 蕭氷厓詩集拾遺
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+**** responsible:
+***** 蕭立
+:PROPERTIES:
+:FUNCTION: 等撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n391 許白雲先生文集
+:PROPERTIES:
+:EXTENT: 四卷
+:ZB_ID:    ZB4b0552
+:END:
+
+**** responsible:
+***** 許謙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏正統中刊本
+:END:
+
+
+*** SB24n392 存復齋文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 朱德潤
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n393 靑陽先生文集
+:PROPERTIES:
+:EXTENT: 九卷
+:END:
+
+**** responsible:
+***** 余闕
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n394 蛻菴詩
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 張翥
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB24n395 張光弼詩集
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+**** responsible:
+***** 張昱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明鈔本
+:END:
+
+
+*** SB24n396 茗齋集
+:PROPERTIES:
+:EXTENT: 二十三卷
+:END:
+
+坿明詩九卷
+**** responsible:
+***** 彭孫貽
+:PROPERTIES:
+:FUNCTION: 撰併輯坿錄
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏刊本手稿本及鈔本
+:END:
+
+
+*** SB24n397 雍熙樂府
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 郭勛
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 國立北平圖書館藏嘉靖中刊本
+:END:
+
+
+*** SB24n398 白雪齋選訂樂府吳騷合編
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 張楚叔
+:PROPERTIES:
+:FUNCTION: 同輯
+:DYNASTY: 明
+:END:
+
+***** 張旭初
+:PROPERTIES:
+:FUNCTION: 同輯
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 固安劉氏藏崇禎中刊本
+:END:
+
+# finished check to here.
+* 四部叢刊三編 
+  張元濟 撰
+ 民國二十四年二十五年 
+ 上海商務印書館 
+ 景印本&nbsp;
+ 500册 
+** 經部
+*** SB31n399 尚書正義
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 孔穎達
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 日本覆印宋本
+:END:
+
+
+*** SB31n400 禮記正義殘
+:PROPERTIES:
+:EXTENT: 九卷
+:END:
+
+**** responsible:
+***** 孔穎達
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 日本景印舊鈔本及宋刊本
+:END:
+
+
+*** SB31n401 周易鄭康成注
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB1a0002
+:END:
+
+**** responsible:
+***** 鄭玄
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 王應麟
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 元刊本
+:END:
+
+
+*** SB31n402 詩本義
+:PROPERTIES:
+:EXTENT: 十五卷
+:ZB_ID:    ZB1c0003
+:END:
+
+鄭氏詩譜補亡一卷
+**** responsible:
+***** 歐陽脩
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳潘氏滂憙齋藏宋刊本
+:END:
+
+
+*** SB31n403 詩集傳
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 朱熹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照東京靜嘉堂文庫藏宋本
+:END:
+
+
+*** SB31n404 析城鄭氏家塾重校三禮圖
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB1d0069
+:END:
+
+**** responsible:
+***** 聶嵩義
+:PROPERTIES:
+:FUNCTION: 集注
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 蒙古刊本
+:END:
+
+
+*** SB31n405 中庸說殘
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+**** responsible:
+***** 張九成
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園照存京都東福寺藏宋槧本
+:END:
+
+
+*** SB31n406 張狀元孟子傳殘
+:PROPERTIES:
+:EXTENT: 二十九卷
+:ZB_ID:    ZB1h0009
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 張九成
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園照存吳潘氏滂憙齋宋刊本
+:END:
+
+
+*** SB31n407 復古編
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB1j0028
+:END:
+
+**** responsible:
+***** 張有
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 景宋精鈔本
+:END:
+
+
+*** SB31n408 班馬字類
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB1j0029
+:END:
+
+坿補遺
+坿校勘記一卷
+**** responsible:
+***** 婁機
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 李曾伯
+:PROPERTIES:
+:FUNCTION: 撰補遺
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 汲古閣景宋鈔本
+:END:
+
+
+** 史部
+*** SB32n409 新唐書糾謬
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB2a0028
+:END:
+
+**** responsible:
+***** 吳縝
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏明刊本
+:END:
+
+
+*** SB32n410 編年通載殘
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 章衡
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+*** SB32n411 太宗皇帝實錄殘
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 錢若水
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏宋館閣鈔本常熟瞿氏藏舊鈔本宋鈔本
+:END:
+
+
+*** ?SB32n412 元朝秘史
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+續集二卷
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 元鈔本
+:END:
+
+
+*** ?SB32n413 明史鈔略殘
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+**** responsible:
+***** 莊廷鑨
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳潘氏蘧盦藏石門呂氏鈔本
+:END:
+
+
+*** ?SB32n414 罪惟錄
+:PROPERTIES:
+:EXTENT: 九十卷
+:END:
+
+**** responsible:
+***** 查繼佐
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳興劉氏嘉業堂藏手稿本
+:END:
+
+
+*** ?SB32n415 東山國語不分卷
+**** responsible:
+***** 查繼佐
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+***** 沈仲方
+:PROPERTIES:
+:FUNCTION: 補述
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海寧張氏鐵如意館傅錄本
+:END:
+
+
+*** SB32n416 弔伐錄
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB2e0016
+:END:
+
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 金
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏錢遵王鈔本
+:END:
+
+
+*** SB32n417 三輔黃圖
+:PROPERTIES:
+:EXTENT: 六卷
+:ZB_ID:    ZB2k0001
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 元刊本
+:END:
+
+
+*** ?SB32n418 天下郡國利病書不分卷
+坿顧亭林先生年譜一卷
+**** responsible:
+***** 顧炎武
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+***** 錢邦彥
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 崑山圖書館藏稿本
+:END:
+
+
+*** SB32n419 洛陽伽藍記
+:PROPERTIES:
+:EXTENT: 五卷
+:ZB_ID:    ZB6r0127
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 楊衒之
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 後魏
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 明如隱堂本
+:END:
+
+/tmp/sys/KR2-titles.txt:ZB2k0091	洛陽伽藍記
+
+*** ?SB32n420 爲政忠告
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+**** responsible:
+***** 張養浩
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 元刊本
+:END:
+
+
+*** SB32n421 故唐律疏義
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB2m0054
+:END:
+
+坿律音義一卷
+坿校勘記一卷
+**** responsible:
+***** 長孫無忌
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+***** 孫奭
+:PROPERTIES:
+:FUNCTION: 等撰律音義
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳潘氏滂憙齋藏宋刊本
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 音義用景宋鈔本
+:END:
+
+
+*** ?SB32n422 昭德先生邵齋讀書志
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+後志二卷
+坿附志一卷
+**** responsible:
+***** 晁公武
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 趙希弁
+:PROPERTIES:
+:FUNCTION: 重編併撰附志後志
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 故宮博物院圖書館藏淳祐中袁州刊本
+:END:
+
+
+*** SB32n423 隸釋
+:PROPERTIES:
+:EXTENT: 二十七卷
+:ZB_ID:    ZB2n0017
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 洪适
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 固安劉氏藏萬曆中刊本
+:END:
+
+
+*** SB32n424 淳化祕閣法帖考正
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB2n0044
+:END:
+
+**** responsible:
+***** 王澍
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 淸
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 壽孫氏小墨妙亭藏原刊本
+:END:
+
+
+** 子部
+*** SB33n425 潛虛
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB3g0005
+:END:
+
+坿潛虛發微論一卷
+**** responsible:
+***** 司馬光
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張敦實
+:PROPERTIES:
+:FUNCTION: 撰坿錄
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB33n426 野菜博錄
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB3d0009
+:END:
+
+**** responsible:
+***** 鮑山
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 國立北平圖書館藏明刊本
+:END:
+
+
+*** ?SB33n427 圖畫攷
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+**** responsible:
+***** 盛熙明
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 傅錄常熟瞿氏鐵琴銅劍樓藏鈔本
+:END:
+
+
+*** SB33n428 獨斷
+:PROPERTIES:
+:EXTENT: 二卷
+:ZB_ID:    ZB3j0024
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 蔡邕
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 漢
+:END:
+
+***** 張濟元
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏弘治十六年刊本
+:END:
+
+
+*** SB33n429 古今註
+:PROPERTIES:
+:EXTENT: 三卷
+:ZB_ID:    ZB3j0025
+:END:
+
+坿校記一卷
+**** responsible:
+***** 崔豹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 晉
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+*** ?SB33n430 困學紀聞
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 王應麟
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏元刊本
+:END:
+
+
+*** SB33n431 墨莊漫錄
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB3j0111
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 張邦基
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏明鈔本
+:END:
+
+
+*** SB33n432 太平御覽
+:PROPERTIES:
+:EXTENT: 一千卷
+:ZB_ID:    ZB3k0012
+:END:
+
+**** responsible:
+***** 李昉
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照日本帝室圖書寮京都東福寺東京靜嘉堂文庫藏宋刊本
+:END:
+
+/tmp/sys/KR5-titles.txt:ZB5g0039	太平御覽
+
+*** SB33n433 小字錄
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB3k0035
+:END:
+
+**** responsible:
+***** 陳思
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明活字印本
+:END:
+
+
+*** ?SB33n434 丞相魏公譚訓
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 蘇象先
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏舊鈔本
+:END:
+
+
+*** SB33n435 南村輟耕錄
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB3l0078
+:END:
+
+**** responsible:
+***** 陶宗儀
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳潘氏滂憙齋藏元刊本
+:END:
+
+
+*** SB33n436 景德傳燈錄
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB6q0003
+:END:
+
+**** responsible:
+***** 釋道原
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+     《四部叢刊三編》 volumes 380~389。三十卷，常熟瞿氏鐵琴銅劍樓藏宋刊本
+     cf: http://library.ctext.org/s0030380/s0030380_0004.png
+     http://download.ctext.org/en/s0010042.djvu
+     (nicht: http://download.ctext.org/en/s0030380.djvu)
+
+***** ZHONGHUA
+:PROPERTIES:
+:EDITION:     趙城金藏 本
+:END:
+(zhonghua)
+     http://library.ctext.org/s1350693/s1350693_0002.png
+
+*** SB33n437 文始眞經
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+坿校勘記一卷
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB33n438 通玄眞經
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 徐靈府
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+*** SB33n439 新雕洞靈眞經
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 王士元
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 何粲
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
+** 集部
+*** SB34n440 唐皇甫冉詩集
+:PROPERTIES:
+:EXTENT: 七卷
+:END:
+
+唐皇甫曾詩集一卷
+補遺一卷
+坿校勘記一卷
+**** responsible:
+***** 皇甫冉
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 皇甫曾
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
+
+*** SB34n441 梨嶽詩集
+:PROPERTIES:
+:EXTENT: 一卷
+:END:
+
+附錄一卷
+補遺一卷
+**** responsible:
+***** 李頻
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 明鈔本
+:END:
+
+
+*** SB34n442 胡曾詠史詩
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+**** responsible:
+***** 胡曾
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 陳蓋
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: □
+:END:
+
+***** 米崇吉
+:PROPERTIES:
+:FUNCTION: 評注
+:DYNASTY: □
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏景宋鈔本
+:END:
+
+
+*** SB34n443 唐秘書省正字先輩徐公釣磯文集
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+補一卷
+坿校勘記一卷
+**** responsible:
+***** 徐夤
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 錢遵王精王精鈔本
+:END:
+
+
+*** SB34n444 史愍公詩集
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 寇準
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 明刊本
+:END:
+
+
+*** SB34n445 鐔津文集
+:PROPERTIES:
+:EXTENT: 二十二卷
+:ZB_ID:    ZB6r0148
+:END:
+
+**** responsible:
+***** 釋契嵩
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏弘治十二年刊本
+:END:
+
+/tmp/sys/KR4-titles.txt:ZB4b0138	鐔津集
+
+*** SB34n446 參寥子詩集
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB4b0193
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 釋道潛
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+*** SB34n447 沈氏三先生文集
+:PROPERTIES:
+:EXTENT: 六十一卷
+:END:
+
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 浙江省立圖書館藏明覆宋本
+:END:
+
+
+*** SB34n448 眉山唐先生文集
+:PROPERTIES:
+:EXTENT: 三十卷
+:ZB_ID:    ZB4b0230
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 唐庚
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張濟元
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 閩侯龔氏大通樓藏舊鈔本
+:END:
+
+
+*** SB34n449 華陽集
+:PROPERTIES:
+:EXTENT: 四十卷
+:ZB_ID:    ZB4b0256
+:END:
+
+**** responsible:
+***** 張綱
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 國立北平圖書館藏明刊本
+:END:
+
+
+*** SB34n450 頤堂先生文集
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+**** responsible:
+***** 王灼
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江南圖書館藏宋本
+:END:
+
+
+*** SB34n451 默堂先生文集
+:PROPERTIES:
+:EXTENT: 二十二卷
+:ZB_ID:    ZB4b0304
+:END:
+
+**** responsible:
+***** 陳淵
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 國立北平圖書館藏景宋鈔本
+:END:
+
+
+*** SB34n452 翠微南征錄
+:PROPERTIES:
+:EXTENT: 十一卷
+:ZB_ID:    ZB4b0412
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 華岳
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 舊鈔本
+:END:
+
+
+*** SB34n453 有宋福建莆陽黃仲元四如先生文藳
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+**** responsible:
+***** 黃仲元
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 國立北平圖書館蔵嘉靖中刊本
+:END:
+
+
+*** SB34n454 吾汶蒿
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0500
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 王炎午
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏明鈔本
+:END:
+
+
+*** SB34n455 龜巢藁
+:PROPERTIES:
+:EXTENT: 二十卷
+:ZB_ID:    ZB4b0651
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 謝應芳
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏鈔本
+:END:
+
+
+*** SB34n456 夷白齋藁
+:PROPERTIES:
+:EXTENT: 三十五卷
+:ZB_ID:    ZB4b0678
+:END:
+
+外集一卷
+補遺一卷
+坿校勘記一卷
+**** responsible:
+***** 陳基
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+***** 胡文楷
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明鈔本
+:END:
+
+
+*** SB34n457 蟻術詩選
+:PROPERTIES:
+:EXTENT: 八卷
+:END:
+
+詞選四卷
+**** responsible:
+***** 邵亭貞
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 詩選明刊本
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 詞選故宮博物院圖書館藏宛委別藏本
+:END:
+
+
+*** SB34n458 密菴詩藁
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+文藁五卷
+**** responsible:
+***** 謝肅
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏洪武中刊本
+:END:
+
+
+*** SB34n459 眉菴集
+:PROPERTIES:
+:EXTENT: 十二卷
+:ZB_ID:    ZB4b0717
+:END:
+
+補遺一卷
+**** responsible:
+***** 楊基
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 武進陶氏涉園藏成化中刊本
+:END:
+
+
+*** SB34n460 靜居集
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+**** responsible:
+***** 張雨
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏成化中刊本
+:END:
+
+
+*** SB34n461 北郭集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0719
+:END:
+
+補遺一卷
+**** responsible:
+***** 徐賁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 江安傅氏雙鑑樓藏成化中刊本
+:END:
+
+
+*** SB34n462 蚓竅集
+:PROPERTIES:
+:EXTENT: 十卷
+:ZB_ID:    ZB4b0727
+:END:
+
+**** responsible:
+***** 管時敏
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 國立北平圖書館藏永樂中刊本
+:END:
+
+
+*** SB34n463 白沙子
+:PROPERTIES:
+:EXTENT: 八卷
+:ZB_ID:    ZB4b0784
+:END:
+
+**** responsible:
+***** 陳獻章
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 東莞莫氏五十萬卷樓藏嘉靖中刊本
+:END:
+
+
+*** SB34n464 居易堂集
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+集外詩文一卷
+**** responsible:
+***** 徐枋
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+***** 王大隆
+:PROPERTIES:
+:FUNCTION: 輯集外詩文
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 固安劉氏藏原刊本
+:END:
+
+
+*** SB34n465 竇氏聯珠集
+:PROPERTIES:
+:EXTENT: 一卷
+:ZB_ID:    ZB4c0017
+:END:
+
+**** responsible:
+***** 竇常
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 竇牟
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 竇羣
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 竇庠
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 竇鞏
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 褚藏言
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳興劉氏嘉業堂藏宋刊本
+:END:
+
+
+*** SB34n466 山谷琴趣外篇
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 黃庭堅
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏宋刊本
+:END:
+
+
+*** SB34n467 虛齋樂府
+:PROPERTIES:
+:EXTENT: 二卷
+:END:
+
+**** responsible:
+***** 趙以夫
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 黃蕘圃顧千里校景宋鈔本
+:END:
+
+
+*** SB34n468 梨園按試樂府新聲
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+坿校記一卷
+**** responsible:
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 輯
+:DYNASTY: 元
+:END:
+
+***** 盧前
+:PROPERTIES:
+:FUNCTION: 撰校記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏元刊本
+:END:
+
+
