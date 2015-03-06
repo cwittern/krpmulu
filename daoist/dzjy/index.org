@@ -6,7 +6,6 @@
 #+COLUMNS: %35ITEM %10CT %5TAGS %10EXTENT %10LODGE %15KZ %10DZ
 #+DATE: 2015-02-08
 
-
 * JY001 元始無量度人上品妙經  Yuanshi wuliang duren shangpin miaojing :can:
 :PROPERTIES:
 :EXTENT:  61 juan
@@ -14,11 +13,9 @@
 :KZ:  1: 411-59, 2: 463-850, 3: 853-946
 :CT:  1
 :DZ: DZ0001 / JY001
-:testx: yes
 :END:
 元始無量度人上品妙經 
 DZJ0: [[dzjy:JY001/JY001_01.txt][JY001 元始無量度人上品妙經 ]]
-DZ:   [[dz:DZ0001/DZ0001-000.txt][DZ0001 元始無量度人上品妙經 ]]
 ** Work notes
 *** split to juan, added diffs from
     Kaixi-DZ, Hongkong-DZ, Taiwan-DZ
@@ -34,7 +31,6 @@ DZ:   [[dz:DZ0001/DZ0001-000.txt][DZ0001 元始無量度人上品妙經 ]]
 :END:
 太上洞玄靈寶無量度人上品妙經註
 DZJ0: [[dzjy:JY002/JY002_01.txt][JY002 太上洞玄靈寶無量度人上品妙經註]]
-DZ:   [[dz:DZ0091/DZ0091-000.txt][DZ0091 太上洞玄靈寶無量度人上品妙經註]]
 ** Work notes
 
 ** Comments
@@ -49,23 +45,20 @@ xu (SEC 1) in KX version at the end.
 :END:
 元始無量度人上品經法
 DZJ0: [[dzjy:JY003/JY003_01.txt][JY003 元始無量度人上品經法]]
-DZ:   [[dz:DZ0093/DZ0093-000.txt][DZ0093 元始無量度人上品經法]]
 ** Work notes
 
 ** Comments
 
-* *JY004 元始天尊說無上內祕真藏經 Yuanshi tianzun shuo wushang neibi zhenzang jing :can:
+* JY004* 元始天尊說無上內祕真藏經 Yuanshi tianzun shuo wushang neibi zhenzang jing :can:
 :PROPERTIES:
 :EXTENT:  59 fols.
 :LODGE:  氐 1
 :KZ:  3: 1065-94
 :CT:  4
 :DZ: DZ0004 / JY004
-:testx: yes
 :END:
 元始天尊說無上內祕真藏經
 DZJ0: [[dzjy:JY004/JY004_01.txt][JY004 元始天尊說無上內祕真藏經]]
-DZ:   [[dz:DZ0004/DZ0004-000.txt][DZ0004 元始天尊說無上內祕真藏經]]
 ** Work notes
 
 ** Comments
@@ -80,7 +73,6 @@ DZ:   [[dz:DZ0004/DZ0004-000.txt][DZ0004 元始天尊說無上內祕真藏經]]
 :END:
 元始說先天道德經註解
 DZJ0: [[dzjy:JY005/JY005_01.txt][JY005 元始說先天道德經註解]]
-DZ:   [[dz:DZ0003/DZ0003-000.txt][DZ0003 元始說先天道德經註解]]
 ** Work notes
 
 ** Comments
@@ -131,7 +123,6 @@ DZJY: [[dzjy:JY008/JY008_01.txt][JY008 元始大洞玉經]]
 :END:
 大乘妙林經 
 DZJ0: [[dzjy:JY009/JY009_01.txt][JY009 大乘妙林經 ]]
-DZ:   [[dz:DZ1398/DZ1398-000.txt][DZ1398 大乘妙林經 ]]
 ** Work notes
 
 ** Comments
@@ -146,7 +137,6 @@ DZ:   [[dz:DZ1398/DZ1398-000.txt][DZ1398 大乘妙林經 ]]
 :END:
 太上昇玄說消災護命妙經註 
 DZJ0: [[dzjy:JY010/JY010_01.txt][JY010 太上昇玄說消災護命妙經註 ]]
-DZ:   [[dz:DZ0100/DZ0100-000.txt][DZ0100 太上昇玄說消災護命妙經註 ]]
 ** Work notes
 
 ** Comments
@@ -161,7 +151,6 @@ DZ:   [[dz:DZ0100/DZ0100-000.txt][DZ0100 太上昇玄說消災護命妙經註 ]]
 :END:
 元始天尊說生天得道經 
 DZJ0: [[dzjy:JY011/JY011_01.txt][JY011 元始天尊說生天得道經 ]]
-DZ:   [[dz:DZ0024/DZ0024-000.txt][DZ0024 元始天尊說生天得道經 ]]
 ** Work notes
 
 ** Comments
@@ -176,7 +165,6 @@ DZ:   [[dz:DZ0024/DZ0024-000.txt][DZ0024 元始天尊說生天得道經 ]]
 :END:
 元始天尊說得道了身經 
 DZJ0: [[dzjy:JY012/JY012_01.txt][JY012 元始天尊說得道了身經 ]]
-DZ:   [[dz:DZ0025/DZ0025-000.txt][DZ0025 元始天尊說得道了身經 ]]
 ** Work notes
 
 ** Comments
@@ -203,12 +191,11 @@ DZJY: [[dzjy:JY013/JY013_01.txt][JY013 元始上帝毘盧遮耶說大洞救劫�
 :END:
 元始天尊說藥王救八十一難真經
 DZJ0: [[dzjy:JY014/JY014_01.txt][JY014 元始天尊說藥王救八十一難真經]]
-DZ:   [[dz:DZ1444/DZ1444-000.txt][DZ1444 元始天尊說藥王救八十一難真經]]
 ** Work notes
 
 ** Comments
 
-* *JY015 元始消劫梓潼本願真經  Yuanshi xiaojie zitong benyuan zhenjing :can:
+* JY015* 元始消劫梓潼本願真經  Yuanshi xiaojie zitong benyuan zhenjing :can:
 :PROPERTIES:
 :EXTENT:  9 fols.
 :LODGE:  氐 5
@@ -218,7 +205,6 @@ DZ:   [[dz:DZ1444/DZ1444-000.txt][DZ1444 元始天尊說藥王救八十一難真
 :END:
 元始消劫梓潼本願真經 
 DZJ0: [[dzjy:JY015/JY015_01.txt][JY015 元始消劫梓潼本願真經 ]]
-DZ:   [[dz:DZ0029/DZ0029-000.txt][DZ0029 元始消劫梓潼本願真經 ]]
 ** Work notes
 
 ** Comments
@@ -233,7 +219,6 @@ DZ:   [[dz:DZ0029/DZ0029-000.txt][DZ0029 元始消劫梓潼本願真經 ]]
 :END:
 元始天尊說東嶽化身濟生拔罪保命妙經 
 DZJ0: [[dzjy:JY016/JY016_01.txt][JY016 元始天尊說東嶽化身濟生拔罪保命妙經 ]]
-DZ:   [[dz:DZ1441/DZ1441-000.txt][DZ1441 元始天尊說東嶽化身濟生拔罪保命妙經 ]]
 ** Work notes
 
 ** Comments
@@ -248,7 +233,6 @@ DZ:   [[dz:DZ1441/DZ1441-000.txt][DZ1441 元始天尊說東嶽化身濟生拔罪
 :END:
 碧霞元君護國庇民普濟保生妙經 
 DZJ0: [[dzjy:JY017/JY017_01.txt][JY017 碧霞元君護國庇民普濟保生妙經 ]]
-DZ:   [[dz:DZ1445/DZ1445-000.txt][DZ1445 碧霞元君護國庇民普濟保生妙經 ]]
 ** Work notes
 
 ** Comments
@@ -263,7 +247,6 @@ DZ:   [[dz:DZ1445/DZ1445-000.txt][DZ1445 碧霞元君護國庇民普濟保生妙
 :END:
 太上大道玉清經
 DZJ0: [[dzjy:JY018/JY018_01.txt][JY018 太上大道玉清經]]
-DZ:   [[dz:DZ1312/DZ1312-000.txt][DZ1312 太上大道玉清經]]
 ** Work notes
 
 ** Comments
@@ -278,7 +261,6 @@ DZ:   [[dz:DZ1312/DZ1312-000.txt][DZ1312 太上大道玉清經]]
 :END:
 太上中道妙法蓮華經 
 DZJ0: [[dzjy:JY019/JY019_01.txt][JY019 太上中道妙法蓮華經 ]]
-DZ:   [[dz:DZ1432/DZ1432-000.txt][DZ1432 太上中道妙法蓮華經 ]]
 ** Work notes
 
 ** Comments
@@ -293,7 +275,6 @@ DZ:   [[dz:DZ1432/DZ1432-000.txt][DZ1432 太上中道妙法蓮華經 ]]
 :END:
 洞玄靈寶自然九天生神章經解義 
 DZJ0: [[dzjy:JY020/JY020_01.txt][JY020 洞玄靈寶自然九天生神章經解義 ]]
-DZ:   [[dz:DZ0396/DZ0396-000.txt][DZ0396 洞玄靈寶自然九天生神章經解義 ]]
 ** Work notes
 
 ** Comments
@@ -308,7 +289,6 @@ DZ:   [[dz:DZ0396/DZ0396-000.txt][DZ0396 洞玄靈寶自然九天生神章經解
 :END:
 洞玄靈寶自然九天生神玉章經解 
 DZJ0: [[dzjy:JY021/JY021_01.txt][JY021 洞玄靈寶自然九天生神玉章經解 ]]
-DZ:   [[dz:DZ0397/DZ0397-000.txt][DZ0397 洞玄靈寶自然九天生神玉章經解 ]]
 ** Work notes
 
 ** Comments
@@ -323,7 +303,6 @@ DZ:   [[dz:DZ0397/DZ0397-000.txt][DZ0397 洞玄靈寶自然九天生神玉章經
 :END:
 洞玄靈寶自然九天生神章經注 
 DZJ0: [[dzjy:JY022/JY022_01.txt][JY022 洞玄靈寶自然九天生神章經注 ]]
-DZ:   [[dz:DZ0398/DZ0398-000.txt][DZ0398 洞玄靈寶自然九天生神章經注 ]]
 ** Work notes
 
 ** Comments
@@ -338,7 +317,6 @@ DZ:   [[dz:DZ0398/DZ0398-000.txt][DZ0398 洞玄靈寶自然九天生神章經注
 :END:
 太上洞玄靈寶天尊說救苦妙經 
 DZJ0: [[dzjy:JY023/JY023_01.txt][JY023 太上洞玄靈寶天尊說救苦妙經 ]]
-DZ:   [[dz:DZ0399/DZ0399-000.txt][DZ0399 太上洞玄靈寶天尊說救苦妙經 ]]
 ** Work notes
 
 ** Comments
@@ -353,7 +331,6 @@ DZ:   [[dz:DZ0399/DZ0399-000.txt][DZ0399 太上洞玄靈寶天尊說救苦妙經
 :END:
 洞玄靈寶八仙王教誡經 
 DZJ0: [[dzjy:JY024/JY024_01.txt][JY024 洞玄靈寶八仙王教誡經 ]]
-DZ:   [[dz:DZ1112/DZ1112-000.txt][DZ1112 洞玄靈寶八仙王教誡經 ]]
 ** Work notes
 
 ** Comments
@@ -368,7 +345,6 @@ DZ:   [[dz:DZ1112/DZ1112-000.txt][DZ1112 洞玄靈寶八仙王教誡經 ]]
 :END:
 太上洞玄靈寶國王行道經 
 DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
-DZ:   [[dz:DZ1113/DZ1113-000.txt][DZ1113 太上洞玄靈寶國王行道經 ]]
 ** Work notes
 
 ** Comments
@@ -383,7 +359,6 @@ DZ:   [[dz:DZ1113/DZ1113-000.txt][DZ1113 太上洞玄靈寶國王行道經 ]]
 :END:
 太上金匱玉鏡修真指玄妙經 
 DZJ0: [[dzjy:JY026/JY026_01.txt][JY026 太上金匱玉鏡修真指玄妙經 ]]
-DZ:   [[dz:DZ0353/DZ0353-000.txt][DZ0353 太上金匱玉鏡修真指玄妙經 ]]
 ** Work notes
 
 ** Comments
@@ -398,7 +373,6 @@ DZ:   [[dz:DZ0353/DZ0353-000.txt][DZ0353 太上金匱玉鏡修真指玄妙經 ]]
 :END:
 太上洞玄靈寶福日妙經 
 DZJ0: [[dzjy:JY027/JY027_01.txt][JY027 太上洞玄靈寶福日妙經 ]]
-DZ:   [[dz:DZ0355/DZ0355-000.txt][DZ0355 太上洞玄靈寶福日妙經 ]]
 ** Work notes
 
 ** Comments
@@ -413,7 +387,6 @@ DZ:   [[dz:DZ0355/DZ0355-000.txt][DZ0355 太上洞玄靈寶福日妙經 ]]
 :END:
 太上靈寶天尊說禳災度厄經 
 DZJ0: [[dzjy:JY028/JY028_01.txt][JY028 太上靈寶天尊說禳災度厄經 ]]
-DZ:   [[dz:DZ0357/DZ0357-000.txt][DZ0357 太上靈寶天尊說禳災度厄經 ]]
 ** Work notes
 
 ** Comments
@@ -428,7 +401,6 @@ DZ:   [[dz:DZ0357/DZ0357-000.txt][DZ0357 太上靈寶天尊說禳災度厄經 ]]
 :END:
 太上神咒延壽妙經 
 DZJ0: [[dzjy:JY029/JY029_01.txt][JY029 太上神咒延壽妙經 ]]
-DZ:   [[dz:DZ0358/DZ0358-000.txt][DZ0358 太上神咒延壽妙經 ]]
 ** Work notes
 
 ** Comments
@@ -443,7 +415,6 @@ DZ:   [[dz:DZ0358/DZ0358-000.txt][DZ0358 太上神咒延壽妙經 ]]
 :END:
 太上洞淵說請雨龍王經
 DZJ0: [[dzjy:JY030/JY030_01.txt][JY030 太上洞淵說請雨龍王經]]
-DZ:   [[dz:DZ0362/DZ0362-000.txt][DZ0362 太上洞淵說請雨龍王經]]
 ** Work notes
 
 ** Comments
@@ -458,7 +429,6 @@ DZ:   [[dz:DZ0362/DZ0362-000.txt][DZ0362 太上洞淵說請雨龍王經]]
 :END:
 太上洞玄寶元上經 
 DZJ0: [[dzjy:JY031/JY031_01.txt][JY031 太上洞玄寶元上經 ]]
-DZ:   [[dz:DZ0368/DZ0368-000.txt][DZ0368 太上洞玄寶元上經 ]]
 ** Work notes
 
 ** Comments
@@ -474,7 +444,6 @@ DZ:   [[dz:DZ0368/DZ0368-000.txt][DZ0368 太上洞玄寶元上經 ]]
 :END:
 太上洞玄靈寶淨供妙經
 DZJ0: [[dzjy:JY032/JY032_01.txt][JY032 太上洞玄靈寶淨供妙經]]
-DZ:   [[dz:DZ0376/DZ0376-000.txt][DZ0376 太上洞玄靈寶淨供妙經]]
 ** Work notes
 
 ** Comments
@@ -489,7 +458,6 @@ DZ:   [[dz:DZ0376/DZ0376-000.txt][DZ0376 太上洞玄靈寶淨供妙經]]
 :END:
 太上靈寶洪福滅罪像名經
 DZJ0: [[dzjy:JY033/JY033_01.txt][JY033 太上靈寶洪福滅罪像名經]]
-DZ:   [[dz:DZ0377/DZ0377-000.txt][DZ0377 太上靈寶洪福滅罪像名經]]
 ** Work notes
 
 ** Comments
@@ -504,7 +472,6 @@ DZ:   [[dz:DZ0377/DZ0377-000.txt][DZ0377 太上靈寶洪福滅罪像名經]]
 :END:
 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒
 DZJ0: [[dzjy:JY034/JY034_01.txt][JY034 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒]]
-DZ:   [[dz:DZ0386/DZ0386-000.txt][DZ0386 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒]]
 ** Work notes
 
 ** Comments
@@ -519,7 +486,6 @@ DZ:   [[dz:DZ0386/DZ0386-000.txt][DZ0386 太上洞淵三昧帝心光明正印太
 :END:
 洞玄靈寶定觀經註
 DZJ0: [[dzjy:JY035/JY035_01.txt][JY035 洞玄靈寶定觀經註]]
-DZ:   [[dz:DZ0400/DZ0400-000.txt][DZ0400 洞玄靈寶定觀經註]]
 ** Work notes
 
 ** Comments
@@ -534,7 +500,6 @@ DZ:   [[dz:DZ0400/DZ0400-000.txt][DZ0400 洞玄靈寶定觀經註]]
 :END:
 太上洞玄靈寶開演祕密藏經 
 DZJ0: [[dzjy:JY036/JY036_01.txt][JY036 太上洞玄靈寶開演祕密藏經 ]]
-DZ:   [[dz:DZ0329/DZ0329-000.txt][DZ0329 太上洞玄靈寶開演祕密藏經 ]]
 ** Work notes
 
 ** Comments
@@ -549,7 +514,6 @@ DZ:   [[dz:DZ0329/DZ0329-000.txt][DZ0329 太上洞玄靈寶開演祕密藏經 ]]
 :END:
 洞玄靈寶諸天世界造化經 
 DZJ0: [[dzjy:JY037/JY037_01.txt][JY037 洞玄靈寶諸天世界造化經 ]]
-DZ:   [[dz:DZ0321/DZ0321-000.txt][DZ0321 洞玄靈寶諸天世界造化經 ]]
 ** Work notes
 
 ** Comments
@@ -564,7 +528,6 @@ DZ:   [[dz:DZ0321/DZ0321-000.txt][DZ0321 洞玄靈寶諸天世界造化經 ]]
 :END:
 太上洞玄靈寶十號功德因緣妙經 
 DZJ0: [[dzjy:JY038/JY038_01.txt][JY038 太上洞玄靈寶十號功德因緣妙經 ]]
-DZ:   [[dz:DZ0337/DZ0337-000.txt][DZ0337 太上洞玄靈寶十號功德因緣妙經 ]]
 ** Work notes
 
 ** Comments
@@ -579,12 +542,11 @@ DZ:   [[dz:DZ0337/DZ0337-000.txt][DZ0337 太上洞玄靈寶十號功德因緣妙
 :END:
 太上洞玄靈寶真文要解上經 
 DZJ0: [[dzjy:JY039/JY039_01.txt][JY039 太上洞玄靈寶真文要解上經 ]]
-DZ:   [[dz:DZ0330/DZ0330-000.txt][DZ0330 太上洞玄靈寶真文要解上經 ]]
 ** Work notes
 
 ** Comments
 
-* *JY040 太上洞玄靈寶業報因緣經  Taishang dongxuan lingbao yebao yinyuan jing :can:
+* JY040* 太上洞玄靈寶業報因緣經  Taishang dongxuan lingbao yebao yinyuan jing :can:
 :PROPERTIES:
 :EXTENT:  10 fols.
 :LODGE:  房 6
@@ -594,7 +556,6 @@ DZ:   [[dz:DZ0330/DZ0330-000.txt][DZ0330 太上洞玄靈寶真文要解上經 ]]
 :END:
 太上洞玄靈寶業報因緣經 
 DZJ0: [[dzjy:JY040/JY040_01.txt][JY040 太上洞玄靈寶業報因緣經 ]]
-DZ:   [[dz:DZ0336/DZ0336-000.txt][DZ0336 太上洞玄靈寶業報因緣經 ]]
 ** Work notes
 [2011-05-24T15:57:37+0900]
 -- only juan 4 existing
@@ -610,7 +571,6 @@ DZ:   [[dz:DZ0336/DZ0336-000.txt][DZ0336 太上洞玄靈寶業報因緣經 ]]
 :END:
 太上洞玄靈寶出家因緣經 
 DZJ0: [[dzjy:JY041/JY041_01.txt][JY041 太上洞玄靈寶出家因緣經 ]]
-DZ:   [[dz:DZ0339/DZ0339-000.txt][DZ0339 太上洞玄靈寶出家因緣經 ]]
 ** Work notes
 
 ** Comments
@@ -625,7 +585,6 @@ DZ:   [[dz:DZ0339/DZ0339-000.txt][DZ0339 太上洞玄靈寶出家因緣經 ]]
 :END:
 太上洞玄靈寶法燭經 
 DZJ0: [[dzjy:JY042/JY042_01.txt][JY042 太上洞玄靈寶法燭經 ]]
-DZ:   [[dz:DZ0349/DZ0349-000.txt][DZ0349 太上洞玄靈寶法燭經 ]]
 ** Work notes
 
 ** Comments
@@ -640,7 +599,6 @@ DZ:   [[dz:DZ0349/DZ0349-000.txt][DZ0349 太上洞玄靈寶法燭經 ]]
 :END:
 太上靈寶智慧觀身經 
 DZJ0: [[dzjy:JY043/JY043_01.txt][JY043 太上靈寶智慧觀身經 ]]
-DZ:   [[dz:DZ0350/DZ0350-000.txt][DZ0350 太上靈寶智慧觀身經 ]]
 ** Work notes
 
 ** Comments
@@ -655,7 +613,6 @@ DZ:   [[dz:DZ0350/DZ0350-000.txt][DZ0350 太上靈寶智慧觀身經 ]]
 :END:
 太一救苦護身妙經 
 DZJ0: [[dzjy:JY044/JY044_01.txt][JY044 太一救苦護身妙經 ]]
-DZ:   [[dz:DZ0351/DZ0351-000.txt][DZ0351 太一救苦護身妙經 ]]
 ** Work notes
 
 ** Comments
@@ -682,7 +639,6 @@ DZJY: [[dzjy:JY045/JY045_01.txt][JY045 太上玄元道德經解]]
 :END:
 太上道德真經四子古道集解 
 DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
-DZ:   [[dz:DZ0684/DZ0684-000.txt][DZ0684 太上道德真經四子古道集解 ]]
 ** Work notes
 後序 in KX version after the xu (SEC 1)
 ** Comments
@@ -709,7 +665,6 @@ DZJY: [[dzjy:JY047/JY047_01.txt][JY047 太上道德寶章翼]]
 :END:
 太上道德真經章句訓頌 
 DZJ0: [[dzjy:JY048/JY048_01.txt][JY048 太上道德真經章句訓頌 ]]
-DZ:   [[dz:DZ0698/DZ0698-000.txt][DZ0698 太上道德真經章句訓頌 ]]
 ** Work notes
 
 ** Comments
@@ -724,7 +679,6 @@ DZ:   [[dz:DZ0698/DZ0698-000.txt][DZ0698 太上道德真經章句訓頌 ]]
 :END:
 太上道德真經集註 
 DZJ0: [[dzjy:JY049/JY049_01.txt][JY049 太上道德真經集註 ]]
-DZ:   [[dz:DZ0707/DZ0707-000.txt][DZ0707 太上道德真經集註 ]]
 ** Work notes
 
 ** Comments
@@ -740,7 +694,6 @@ DZ:   [[dz:DZ0707/DZ0707-000.txt][DZ0707 太上道德真經集註 ]]
 :END:
 太上道德真經集註釋文 
 DZJ0: [[dzjy:JY050/JY050_01.txt][JY050 太上道德真經集註釋文 ]]
-DZ:   [[dz:DZ0708/DZ0708-000.txt][DZ0708 太上道德真經集註釋文 ]]
 ** Work notes
 
 ** Comments
@@ -756,7 +709,6 @@ DZ:   [[dz:DZ0708/DZ0708-000.txt][DZ0708 太上道德真經集註釋文 ]]
 :END:
 太上道德真經集註雜說 
 DZJ0: [[dzjy:JY051/JY051_01.txt][JY051 太上道德真經集註雜說 ]]
-DZ:   [[dz:DZ0709/DZ0709-000.txt][DZ0709 太上道德真經集註雜說 ]]
 ** Work notes
 
 ** Comments
@@ -773,7 +725,7 @@ DZJY: [[dzjy:JY052/JY052_01.txt][JY052 道德經釋辭]]
 
 ** Comments
 
-* *JY053 道德真經註  Daode zhenjing zhu :can:
+* JY053* 道德真經註  Daode zhenjing zhu :can:
 :PROPERTIES:
 :EXTENT:  4 juan
 :LODGE:  心 10 
@@ -784,7 +736,6 @@ DZJY: [[dzjy:JY052/JY052_01.txt][JY052 道德經釋辭]]
 :END:
 道德真經註 
 DZJ0: [[dzjy:JY053/JY053_01.txt][JY053 道德真經註 ]]
-DZ:   [[dz:DZ0704/DZ0704-000.txt][DZ0704 道德真經註 ]]
 ** Work notes
 
 ** Comments
@@ -812,7 +763,6 @@ DZJY: [[dzjy:JY054/JY054_01.txt][JY054 太上老君說常清靜真經]]
 :END:
 太上老君說常清靜經註 
 DZJ0: [[dzjy:JY055/JY055_01.txt][JY055 太上老君說常清靜經註 ]]
-DZ:   [[dz:DZ0755/DZ0755-000.txt][DZ0755 太上老君說常清靜經註 ]]
 ** Work notes
 
 ** Comments
@@ -840,12 +790,11 @@ DZJY: [[dzjy:JY056/JY056_01.txt][JY056 太上道德大天尊說道元一氣經]]
 :END:
 太清中黃真經 
 DZJ0: [[dzjy:JY057/JY057_01.txt][JY057 太清中黃真經 ]]
-DZ:   [[dz:DZ0817/DZ0817-000.txt][DZ0817 太清中黃真經 ]]
 ** Work notes
 
 ** Comments
 
-* *JY058 太上赤文洞古經註  Taishang chiwen donggu jing zhu :can:
+* JY058* 太上赤文洞古經註  Taishang chiwen donggu jing zhu :can:
 :PROPERTIES:
 :EXTENT:  5 fols.
 :LODGE:  尾 1
@@ -856,7 +805,6 @@ DZ:   [[dz:DZ0817/DZ0817-000.txt][DZ0817 太清中黃真經 ]]
 :END:
 太上赤文洞古經註 
 DZJ0: [[dzjy:JY058/JY058_01.txt][JY058 太上赤文洞古經註 ]]
-DZ:   [[dz:DZ0106/DZ0106-000.txt][DZ0106 太上赤文洞古經註 ]]
 ** Work notes
 
 ** Comments
@@ -872,7 +820,6 @@ DZ:   [[dz:DZ0106/DZ0106-000.txt][DZ0106 太上赤文洞古經註 ]]
 :END:
 太上大通經註 
 DZJ0: [[dzjy:JY059/JY059_01.txt][JY059 太上大通經註 ]]
-DZ:   [[dz:DZ0105/DZ0105-000.txt][DZ0105 太上大通經註 ]]
 ** Work notes
 
 ** Comments
@@ -888,7 +835,6 @@ DZ:   [[dz:DZ0105/DZ0105-000.txt][DZ0105 太上大通經註 ]]
 :END:
 太上老君內日用妙經 
 DZJ0: [[dzjy:JY060/JY060_01.txt][JY060 太上老君內日用妙經 ]]
-DZ:   [[dz:DZ0645/DZ0645-000.txt][DZ0645 太上老君內日用妙經 ]]
 ** Work notes
 
 ** Comments
@@ -904,7 +850,6 @@ DZ:   [[dz:DZ0645/DZ0645-000.txt][DZ0645 太上老君內日用妙經 ]]
 :END:
 太上老君外日用妙經 
 DZJ0: [[dzjy:JY061/JY061_01.txt][JY061 太上老君外日用妙經 ]]
-DZ:   [[dz:DZ0646/DZ0646-000.txt][DZ0646 太上老君外日用妙經 ]]
 ** Work notes
 
 ** Comments
@@ -920,7 +865,6 @@ DZ:   [[dz:DZ0646/DZ0646-000.txt][DZ0646 太上老君外日用妙經 ]]
 :END:
 老子說五廚經註 
 DZJ0: [[dzjy:JY062/JY062_01.txt][JY062 老子說五廚經註 ]]
-DZ:   [[dz:DZ0763/DZ0763-000.txt][DZ0763 老子說五廚經註 ]]
 ** Work notes
 
 ** Comments
@@ -936,7 +880,6 @@ DZ:   [[dz:DZ0763/DZ0763-000.txt][DZ0763 老子說五廚經註 ]]
 :END:
 太上老君內觀經 
 DZJ0: [[dzjy:JY063/JY063_01.txt][JY063 太上老君內觀經 ]]
-DZ:   [[dz:DZ0641/DZ0641-000.txt][DZ0641 太上老君內觀經 ]]
 ** Work notes
 
 ** Comments
@@ -952,7 +895,6 @@ DZ:   [[dz:DZ0641/DZ0641-000.txt][DZ0641 太上老君內觀經 ]]
 :END:
 太上老君說了心經
 DZJ0: [[dzjy:JY064/JY064_01.txt][JY064 太上老君說了心經]]
-DZ:   [[dz:DZ0642/DZ0642-000.txt][DZ0642 太上老君說了心經]]
 ** Work notes
 
 ** Comments
@@ -968,7 +910,6 @@ DZ:   [[dz:DZ0642/DZ0642-000.txt][DZ0642 太上老君說了心經]]
 :END:
 太上內丹守一真定經 
 DZJ0: [[dzjy:JY065/JY065_01.txt][JY065 太上內丹守一真定經 ]]
-DZ:   [[dz:DZ0644/DZ0644-000.txt][DZ0644 太上內丹守一真定經 ]]
 ** Work notes
 
 ** Comments
@@ -984,7 +925,6 @@ DZ:   [[dz:DZ0644/DZ0644-000.txt][DZ0644 太上內丹守一真定經 ]]
 :END:
 太上說轉輪五道宿命因緣經 
 DZJ0: [[dzjy:JY066/JY066_01.txt][JY066 太上說轉輪五道宿命因緣經 ]]
-DZ:   [[dz:DZ0647/DZ0647-000.txt][DZ0647 太上說轉輪五道宿命因緣經 ]]
 ** Work notes
 
 ** Comments
@@ -1000,7 +940,6 @@ DZ:   [[dz:DZ0647/DZ0647-000.txt][DZ0647 太上說轉輪五道宿命因緣經 ]]
 :END:
 太上老君內丹經 
 DZJ0: [[dzjy:JY067/JY067_01.txt][JY067 太上老君內丹經 ]]
-DZ:   [[dz:DZ0643/DZ0643-000.txt][DZ0643 太上老君內丹經 ]]
 ** Work notes
 
 ** Comments
@@ -1015,7 +954,6 @@ DZ:   [[dz:DZ0643/DZ0643-000.txt][DZ0643 太上老君內丹經 ]]
 :END:
 太上妙始經 
 DZJ0: [[dzjy:JY068/JY068_01.txt][JY068 太上妙始經 ]]
-DZ:   [[dz:DZ0658/DZ0658-000.txt][DZ0658 太上妙始經 ]]
 ** Work notes
 
 ** Comments
@@ -1030,7 +968,6 @@ DZ:   [[dz:DZ0658/DZ0658-000.txt][DZ0658 太上妙始經 ]]
 :END:
 太上浩元經
 DZJ0: [[dzjy:JY069/JY069_01.txt][JY069 太上浩元經]]
-DZ:   [[dz:DZ0659/DZ0659-000.txt][DZ0659 太上浩元經]]
 ** Work notes
 
 ** Comments
@@ -1045,7 +982,6 @@ DZ:   [[dz:DZ0659/DZ0659-000.txt][DZ0659 太上浩元經]]
 :END:
 太上無極大道自然真一五稱符經  
 DZJ0: [[dzjy:JY070/JY070_01.txt][JY070 太上無極大道自然真一五稱符經  ]]
-DZ:   [[dz:DZ0671/DZ0671-000.txt][DZ0671 太上無極大道自然真一五稱符經  ]]
 ** Work notes
 
 ** Comments
@@ -1061,7 +997,6 @@ DZ:   [[dz:DZ0671/DZ0671-000.txt][DZ0671 太上無極大道自然真一五稱符
 :END:
 枕中經 
 DZJ0: [[dzjy:JY071/JY071_01.txt][JY071 枕中經 ]]
-DZ:   [[dz:DZ1422/DZ1422-000.txt][DZ1422 枕中經 ]]
 ** Work notes
    The text ends in the middle of the page, without a blank, so the last page of this text is repeated at the beginning of the next text.
 ** Comments
@@ -1077,7 +1012,6 @@ DZ:   [[dz:DZ1422/DZ1422-000.txt][DZ1422 枕中經 ]]
 :END:
 太清元道真經 
 DZJ0: [[dzjy:JY072/JY072_01.txt][JY072 太清元道真經 ]]
-DZ:   [[dz:DZ1423/DZ1423-000.txt][DZ1423 太清元道真經 ]]
 ** Work notes
    The text begins in the middle of the page, without a blank, so the first page of this text is repeated from the end of the last text.
 
@@ -1093,7 +1027,6 @@ DZ:   [[dz:DZ1423/DZ1423-000.txt][DZ1423 太清元道真經 ]]
 :END:
 太上老君太素經 
 DZJ0: [[dzjy:JY073/JY073_01.txt][JY073 太上老君太素經 ]]
-DZ:   [[dz:DZ1424/DZ1424-000.txt][DZ1424 太上老君太素經 ]]
 ** Work notes
 
 ** Comments
@@ -1134,7 +1067,7 @@ DZJY: [[dzjy:JY076/JY076_01.txt][JY076 黃庭外景經]]
 
 ** Comments
 
-* *JY077 太上黃庭內景玉經  Taishang huangting neijing yujing :can:
+* JY077* 太上黃庭內景玉經  Taishang huangting neijing yujing :can:
 :PROPERTIES:
 :EXTENT:  23 fols.
 :LODGE:  中尾 2 
@@ -1144,7 +1077,6 @@ DZJY: [[dzjy:JY076/JY076_01.txt][JY076 黃庭外景經]]
 :END:
 太上黃庭內景玉經 
 DZJ0: [[dzjy:JY077/JY077_01.txt][JY077 太上黃庭內景玉經 ]]
-DZ:   [[dz:DZ0402/DZ0402-000.txt][DZ0402 太上黃庭內景玉經 ]]
 ** Work notes
 
 ** Comments
@@ -1159,7 +1091,6 @@ DZ:   [[dz:DZ0402/DZ0402-000.txt][DZ0402 太上黃庭內景玉經 ]]
 :END:
 太上黃庭外景經 
 DZJY: [[dzjy:JY078/JY078_01.txt][JY078 太上黃庭外景經 ]]
-DZ:   [[dz:DZ0263/DZ0263l-000.txt][DZ0263l 修真十書黃庭外景玉經注 ]]
 
 ** Work notes
 
@@ -1175,7 +1106,6 @@ DZ:   [[dz:DZ0263/DZ0263l-000.txt][DZ0263l 修真十書黃庭外景玉經注 ]]
 :END:
 太上黃庭中景經 
 DZJ0: [[dzjy:JY079/JY079_01.txt][JY079 太上黃庭中景經 ]]
-DZ:   [[dz:DZ1401/DZ1401-000.txt][DZ1401 太上黃庭中景經 ]]
 ** Work notes
 
 ** Comments
@@ -1190,7 +1120,6 @@ DZ:   [[dz:DZ1401/DZ1401-000.txt][DZ1401 太上黃庭中景經 ]]
 :END:
 太上洞真賢門經 
 DZJ0: [[dzjy:JY080/JY080_01.txt][JY080 太上洞真賢門經 ]]
-DZ:   [[dz:DZ0061/DZ0061-000.txt][DZ0061 太上洞真賢門經 ]]
 ** Work notes
 
 ** Comments
@@ -1236,7 +1165,6 @@ DZJY: [[dzjy:JY082/JY082_01.txt][JY082 太上感應篇集注]]
 :END:
 猶龍傳
 DZJ0: [[dzjy:JY083/JY083_01.txt][JY083 猶龍傳]]
-DZ:   [[dz:DZ0774/DZ0774-000.txt][DZ0774 猶龍傳]]
 ** Work notes
 
 ** Comments
@@ -1251,7 +1179,6 @@ DZ:   [[dz:DZ0774/DZ0774-000.txt][DZ0774 猶龍傳]]
 :END:
 西昇經 
 DZJ0: [[dzjy:JY084/JY084_01.txt][JY084 西昇經 ]]
-DZ:   [[dz:DZ0666/DZ0666-000.txt][DZ0666 西昇經 ]]
 ** Work notes
 
 ** Comments
@@ -1266,7 +1193,6 @@ DZ:   [[dz:DZ0666/DZ0666-000.txt][DZ0666 西昇經 ]]
 :END:
 太上老君年譜要略 
 DZJ0: [[dzjy:JY085/JY085_01.txt][JY085 太上老君年譜要略 ]]
-DZ:   [[dz:DZ0771/DZ0771-000.txt][DZ0771 太上老君年譜要略 ]]
 ** Work notes
 
 ** Comments
@@ -1281,7 +1207,6 @@ DZ:   [[dz:DZ0771/DZ0771-000.txt][DZ0771 太上老君年譜要略 ]]
 :END:
 混元聖紀 
 DZJ0: [[dzjy:JY086/JY086_01.txt][JY086 混元聖紀 ]]
-DZ:   [[dz:DZ0770/DZ0770-000.txt][DZ0770 混元聖紀 ]]
 ** Work notes
 
 ** Comments
@@ -1312,12 +1237,11 @@ DZJY: [[dzjy:JY087/JY087_01.txt][JY087 高上玉皇本行集經]]
 :END:
 高上玉皇本行集經 
 DZJ0: [[dzjy:JY088/JY088_01.txt][JY088 高上玉皇本行集經 ]]
-DZ:   [[dz:DZ0011/DZ0011-000.txt][DZ0011 高上玉皇本行集經 ]]
 ** Work notes
 
 ** Comments
 
-* *JY089 高上玉皇本行集經註解  Gaoshang yuhuang benxing jijing zhujie :can:
+* JY089* 高上玉皇本行集經註解  Gaoshang yuhuang benxing jijing zhujie :can:
 :PROPERTIES:
 :EXTENT:  3 juan
 :LODGE:  箕 5-7
@@ -1327,7 +1251,6 @@ DZ:   [[dz:DZ0011/DZ0011-000.txt][DZ0011 高上玉皇本行集經 ]]
 :END:
 高上玉皇本行集經註解 
 DZJ0: [[dzjy:JY089/JY089_01.txt][JY089 高上玉皇本行集經註解 ]]
-DZ:   [[dz:DZ1440/DZ1440-000.txt][DZ1440 高上玉皇本行集經註解 ]]
 ** Work notes
 
 ** Comments
@@ -1407,7 +1330,6 @@ DZJY: [[dzjy:JY094/JY094_01.txt][JY094 玉皇心印經]]
 :END:
 胎息經註 
 DZJ0: [[dzjy:JY095/JY095_01.txt][JY095 胎息經註 ]]
-DZ:   [[dz:DZ0130/DZ0130-000.txt][DZ0130 胎息經註 ]]
 ** Work notes
 
 ** Comments
@@ -1422,7 +1344,6 @@ DZ:   [[dz:DZ0130/DZ0130-000.txt][DZ0130 胎息經註 ]]
 :END:
 玉皇宥罪錫福寶懺
 DZJ0: [[dzjy:JY096/JY096_01.txt][JY096 玉皇宥罪錫福寶懺]]
-DZ:   [[dz:DZ0193/DZ0193-000.txt][DZ0193 玉皇宥罪錫福寶懺]]
 ** Work notes
 
 ** Comments
@@ -1437,7 +1358,6 @@ DZ:   [[dz:DZ0193/DZ0193-000.txt][DZ0193 玉皇宥罪錫福寶懺]]
 :END:
 玉皇十七慈光燈儀 
 DZJ0: [[dzjy:JY097/JY097_01.txt][JY097 玉皇十七慈光燈儀 ]]
-DZ:   [[dz:DZ0197/DZ0197-000.txt][DZ0197 玉皇十七慈光燈儀 ]]
 ** Work notes
 
 ** Comments
@@ -1540,7 +1460,6 @@ KX103_p0077_05	䶻䶻志心皈命禮
 :END:
 太上玄靈北斗本命延生真經 
 DZJ0: [[dzjy:JY103/JY103_01.txt][JY103 太上玄靈北斗本命延生真經 ]]
-DZ:   [[dz:DZ0622/DZ0622-000.txt][DZ0622 太上玄靈北斗本命延生真經 ]]
 ** Work notes
 
 ** Comments
@@ -1555,7 +1474,6 @@ DZ:   [[dz:DZ0622/DZ0622-000.txt][DZ0622 太上玄靈北斗本命延生真經 ]]
 :END:
 太上說南斗六司延壽度人妙經 
 DZJ0: [[dzjy:JY104/JY104_01.txt][JY104 太上說南斗六司延壽度人妙經 ]]
-DZ:   [[dz:DZ0624/DZ0624-000.txt][DZ0624 太上說南斗六司延壽度人妙經 ]]
 ** Work notes
 
 ** Comments
@@ -1570,7 +1488,6 @@ DZ:   [[dz:DZ0624/DZ0624-000.txt][DZ0624 太上說南斗六司延壽度人妙經
 :END:
 太上說東斗主算護命妙經 
 DZJ0: [[dzjy:JY105/JY105_01.txt][JY105 太上說東斗主算護命妙經 ]]
-DZ:   [[dz:DZ0625/DZ0625-000.txt][DZ0625 太上說東斗主算護命妙經 ]]
 ** Work notes
 
 ** Comments
@@ -1585,7 +1502,6 @@ DZ:   [[dz:DZ0625/DZ0625-000.txt][DZ0625 太上說東斗主算護命妙經 ]]
 :END:
 太上說西斗記名護身妙經 
 DZJ0: [[dzjy:JY106/JY106_01.txt][JY106 太上說西斗記名護身妙經 ]]
-DZ:   [[dz:DZ0626/DZ0626-000.txt][DZ0626 太上說西斗記名護身妙經 ]]
 ** Work notes
 
 ** Comments
@@ -1600,7 +1516,6 @@ DZ:   [[dz:DZ0626/DZ0626-000.txt][DZ0626 太上說西斗記名護身妙經 ]]
 :END:
 太上說中斗大魁保命妙經 (
 DZJ0: [[dzjy:JY107/JY107_01.txt][JY107 太上說中斗大魁保命妙經 (]]
-DZ:   [[dz:DZ0627/DZ0627-000.txt][DZ0627 太上說中斗大魁保命妙經 (]]
 ** Work notes
 
 ** Comments
@@ -1615,7 +1530,6 @@ DZ:   [[dz:DZ0627/DZ0627-000.txt][DZ0627 太上說中斗大魁保命妙經 (]]
 :END:
 太上玄靈北斗本命延生真經註解 
 DZJ0: [[dzjy:JY108/JY108_01.txt][JY108 太上玄靈北斗本命延生真經註解 ]]
-DZ:   [[dz:DZ0751/DZ0751-000.txt][DZ0751 太上玄靈北斗本命延生真經註解 ]]
 ** Work notes
 
 ** Comments
@@ -1666,7 +1580,6 @@ DZJY: [[dzjy:JY111/JY111_01.txt][JY111 浮黎鼻祖金華祕訣]]
 :END:
 金碧古文龍虎上經 
 DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
-DZ:   [[dz:DZ0996/DZ0996-000.txt][DZ0996 金碧古文龍虎上經 ]]
 ** Work notes
 
 ** Comments
@@ -1706,7 +1619,6 @@ DZJY: [[dzjy:JY114/JY114_01.txt][JY114 唱道真言]]
 :END:
 黃帝陰符經十真集解
 DZJ0: [[dzjy:JY115/JY115_01.txt][JY115 黃帝陰符經十真集解]]
-DZ:   [[dz:DZ0111/DZ0111-000.txt][DZ0111 黃帝陰符經十真集解]]
 ** Work notes
 *** DONE find out if there is a xu at the end missing (we have images?)
     CLOSED: [2012-12-12 Wed 16:40]
@@ -1735,7 +1647,6 @@ DZJY: [[dzjy:JY116/JY116_01.txt][JY116 黃帝陰符經]]
 :END:
 黃帝陰符經註
 DZJ0: [[dzjy:JY117/JY117_01.txt][JY117 黃帝陰符經註]]
-DZ:   [[dz:DZ0116/DZ0116-000.txt][DZ0116 黃帝陰符經註]]
 ** Work notes
 
 ** Comments
@@ -1763,7 +1674,6 @@ DZJY: [[dzjy:JY118/JY118_01.txt][JY118 黃帝陰符經]]
 :END:
 黃帝陰符經頌 
 DZJ0: [[dzjy:JY119/JY119_01.txt][JY119 黃帝陰符經頌 ]]
-DZ:   [[dz:DZ0311/DZ0311-000.txt][DZ0311 黃帝陰符經頌 ]]
 ** Work notes
 
 ** Comments
@@ -1791,7 +1701,6 @@ DZJY: [[dzjy:JY120/JY120_01.txt][JY120 陰符玄解]]
 :END:
 洞真太上太霄琅書
 DZJ0: [[dzjy:JY121/JY121_01.txt][JY121 洞真太上太霄琅書]]
-DZ:   [[dz:DZ1352/DZ1352-000.txt][DZ1352 洞真太上太霄琅書]]
 ** Work notes
 
 ** Comments
@@ -1807,7 +1716,6 @@ DZ:   [[dz:DZ1352/DZ1352-000.txt][DZ1352 洞真太上太霄琅書]]
 :END:
 高上神霄玉清真王紫書大法 
 DZJ0: [[dzjy:JY122/JY122_01.txt][JY122 高上神霄玉清真王紫書大法 ]]
-DZ:   [[dz:DZ1219/DZ1219-000.txt][DZ1219 高上神霄玉清真王紫書大法 ]]
 ** Work notes
 *** add missing text, give to Akioka?
     CLOSED: [2012-03-28 Wed 13:13]
@@ -1825,7 +1733,6 @@ DZ:   [[dz:DZ1219/DZ1219-000.txt][DZ1219 高上神霄玉清真王紫書大法 ]]
 :END:
 洞真太上三元流珠經 
 DZJ0: [[dzjy:JY123/JY123_01.txt][JY123 洞真太上三元流珠經 ]]
-DZ:   [[dz:DZ1318/DZ1318-000.txt][DZ1318 洞真太上三元流珠經 ]]
 ** Work notes
 
 ** Comments
@@ -1841,7 +1748,6 @@ DZ:   [[dz:DZ1318/DZ1318-000.txt][DZ1318 洞真太上三元流珠經 ]]
 :END:
 長生胎元神用經 
 DZJ0: [[dzjy:JY124/JY124_01.txt][JY124 長生胎元神用經 ]]
-DZ:   [[dz:DZ1405/DZ1405-000.txt][DZ1405 長生胎元神用經 ]]
 ** Work notes
 
 ** Comments
@@ -1857,7 +1763,6 @@ DZ:   [[dz:DZ1405/DZ1405-000.txt][DZ1405 長生胎元神用經 ]]
 :END:
 洞真西王母寶神起居經 
 DZJ0: [[dzjy:JY125/JY125_01.txt][JY125 洞真西王母寶神起居經 ]]
-DZ:   [[dz:DZ1319/DZ1319-000.txt][DZ1319 洞真西王母寶神起居經 ]]
 ** Work notes
 
 ** Comments
@@ -1873,7 +1778,6 @@ DZ:   [[dz:DZ1319/DZ1319-000.txt][DZ1319 洞真西王母寶神起居經 ]]
 :END:
 洞真上清青要紫書金根眾經 
 DZJ0: [[dzjy:JY126/JY126_01.txt][JY126 洞真上清青要紫書金根眾經 ]]
-DZ:   [[dz:DZ1315/DZ1315-000.txt][DZ1315 洞真上清青要紫書金根眾經 ]]
 ** Work notes
 
 ** Comments
@@ -1889,7 +1793,6 @@ DZ:   [[dz:DZ1315/DZ1315-000.txt][DZ1315 洞真上清青要紫書金根眾經 ]]
 :END:
 七元真人說神真靈符經 
 DZJ0: [[dzjy:JY127/JY127_01.txt][JY127 七元真人說神真靈符經 ]]
-DZ:   [[dz:DZ1420/DZ1420-000.txt][DZ1420 七元真人說神真靈符經 ]]
 ** Work notes
 
 ** Comments
@@ -1905,7 +1808,6 @@ DZ:   [[dz:DZ1420/DZ1420-000.txt][DZ1420 七元真人說神真靈符經 ]]
 :END:
 太上紫微中天七元真經 
 DZJ0: [[dzjy:JY128/JY128_01.txt][JY128 太上紫微中天七元真經 ]]
-DZ:   [[dz:DZ1421/DZ1421-000.txt][DZ1421 太上紫微中天七元真經 ]]
 ** Work notes
 
 ** Comments
@@ -1921,7 +1823,6 @@ DZ:   [[dz:DZ1421/DZ1421-000.txt][DZ1421 太上紫微中天七元真經 ]]
 :END:
 中天紫微星真寶懺 
 DZJ0: [[dzjy:JY129/JY129_01.txt][JY129 中天紫微星真寶懺 ]]
-DZ:   [[dz:DZ1450/DZ1450-000.txt][DZ1450 中天紫微星真寶懺 ]]
 ** Work notes
 
 ** Comments
@@ -1960,7 +1861,6 @@ DZJY: [[dzjy:JY131/JY131_01.txt][JY131 玉樞寶經]]
 :END:
 南華真經註疏
 DZJ0: [[dzjy:JY132/JY132_01.txt][JY132 南華真經註疏]]
-DZ:   [[dz:DZ0745/DZ0745-000.txt][DZ0745 南華真經註疏]]
 ** Work notes
 
 ** Comments
@@ -1983,7 +1883,7 @@ DZJY: [[dzjy:JY133/JY133_01.txt][JY133 南華真經註疏]]
     charcount 16692
 ** Comments
 
-* **JY134 文始真經  Wenshi zhenjing :can:
+* JY134** 文始真經  Wenshi zhenjing :can:
 :PROPERTIES:
 :EXTENT:  2 juan
 :LODGE:  女 1
@@ -1993,7 +1893,6 @@ DZJY: [[dzjy:JY133/JY133_01.txt][JY133 南華真經註疏]]
 :END:
 文始真經 
 DZJ0: [[dzjy:JY134/JY134_01.txt][JY134 文始真經 ]]
-DZ:   [[dz:DZ0728/DZ0728-000.txt][DZ0728 文始真經 ]]
 ** Work notes
 ##treated as :excan:
 
@@ -2009,7 +1908,6 @@ DZ:   [[dz:DZ0728/DZ0728-000.txt][DZ0728 文始真經 ]]
 :END:
 沖虛至德真經解 
 DZJ0: [[dzjy:JY135/JY135_01.txt][JY135 沖虛至德真經解 ]]
-DZ:   [[dz:DZ0730/DZ0730-000.txt][DZ0730 沖虛至德真經解 ]]
 ** Work notes
 *** DONE img missing
     CLOSED: [2011-10-26 Wed 13:37]
@@ -2027,7 +1925,6 @@ added these two files from the CTDZJY files
 :END:
 通玄真經 
 DZJ0: [[dzjy:JY136/JY136_01.txt][JY136 通玄真經 ]]
-DZ:   [[dz:DZ0746/DZ0746-000.txt][DZ0746 通玄真經 ]]
 ** Work notes
 
 ** Comments
@@ -2042,7 +1939,6 @@ DZ:   [[dz:DZ0746/DZ0746-000.txt][DZ0746 通玄真經 ]]
 :END:
 洞靈真經 
 DZJ0: [[dzjy:JY137/JY137_01.txt][JY137 洞靈真經 ]]
-DZ:   [[dz:DZ0747/DZ0747-000.txt][DZ0747 洞靈真經 ]]
 ** Work notes
 
 ** Comments
@@ -2057,7 +1953,6 @@ DZ:   [[dz:DZ0747/DZ0747-000.txt][DZ0747 洞靈真經 ]]
 :END:
 太極葛仙公傳 
 DZJ0: [[dzjy:JY138/JY138_01.txt][JY138 太極葛仙公傳 ]]
-DZ:   [[dz:DZ0450/DZ0450-000.txt][DZ0450 太極葛仙公傳 ]]
 ** Work notes
 
 ** Comments
@@ -2086,7 +1981,7 @@ DZJY: [[dzjy:JY140/JY140_01.txt][JY140 參同契分章註]]
 
 ** Comments
 
-* *JY141 參同契  Cantong qi :can:
+* JY141* 參同契  Cantong qi :can:
 :PROPERTIES:
 :EXTENT:  3 juan
 :LODGE:  虛 4 
@@ -2096,7 +1991,6 @@ DZJY: [[dzjy:JY140/JY140_01.txt][JY140 參同契分章註]]
 :END:
 參同契 
 DZJ0: [[dzjy:JY141/JY141_01.txt][JY141 參同契 ]]
-DZ:   [[dz:DZ1007/DZ1007-000.txt][DZ1007 參同契 ]]
 ** Work notes
 
 ** Comments
@@ -2123,12 +2017,11 @@ DZJY: [[dzjy:JY142/JY142_01.txt][JY142 入藥鏡]]
 :END:
 淮南鴻烈解 
 DZJ0: [[dzjy:JY143/JY143_01.txt][JY143 淮南鴻烈解 ]]
-DZ:   [[dz:DZ1184/DZ1184-000.txt][DZ1184 淮南鴻烈解 ]]
 ** Work notes
 
 ** Comments
 
-* *JY144 抱朴子內篇  Baopu zi neipian :can:
+* JY144* 抱朴子內篇  Baopu zi neipian :can:
 :PROPERTIES:
 :EXTENT:  168 fols.
 :LODGE:  虛 9
@@ -2138,12 +2031,11 @@ DZ:   [[dz:DZ1184/DZ1184-000.txt][DZ1184 淮南鴻烈解 ]]
 :END:
 抱朴子內篇 
 DZJ0: [[dzjy:JY144/JY144_01.txt][JY144 抱朴子內篇 ]]
-DZ:   [[dz:DZ1185/DZ1185-000.txt][DZ1185 抱朴子內篇 ]]
 ** Work notes
 
 ** Comments
 
-* *JY145 抱朴子外篇  Baopu zi waipian :can:
+* JY145* 抱朴子外篇  Baopu zi waipian :can:
 :PROPERTIES:
 :EXTENT:  17 fols.
 :LODGE:  虛 9
@@ -2153,7 +2045,6 @@ DZ:   [[dz:DZ1185/DZ1185-000.txt][DZ1185 抱朴子內篇 ]]
 :END:
 抱朴子外篇 
 DZJ0: [[dzjy:JY145/JY145_01.txt][JY145 抱朴子外篇 ]]
-DZ:   [[dz:DZ1187/DZ1187-000.txt][DZ1187 抱朴子外篇 ]]
 ** Work notes
  - the DZJY version has only juan 1 and 50 of the DZ version.   
 ** Comments
@@ -2168,12 +2059,11 @@ DZ:   [[dz:DZ1187/DZ1187-000.txt][DZ1187 抱朴子外篇 ]]
 :END:
 葛仙翁肘後備急方 
 DZJ0: [[dzjy:JY146/JY146_01.txt][JY146 葛仙翁肘後備急方 ]]
-DZ:   [[dz:DZ1306/DZ1306-000.txt][DZ1306 葛仙翁肘後備急方 ]]
 ** Work notes
 
 ** Comments
 
-* *JY147 孫真人備急千金要方  Sun zhenren beiji qianjin yaofang :can:
+* JY147* 孫真人備急千金要方  Sun zhenren beiji qianjin yaofang :can:
 :PROPERTIES:
 :EXTENT:  5 juan
 :LODGE:  續虛
@@ -2183,7 +2073,6 @@ DZ:   [[dz:DZ1306/DZ1306-000.txt][DZ1306 葛仙翁肘後備急方 ]]
 :END:
 孫真人備急千金要方 
 DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
-DZ:   [[dz:DZ1163/DZ1163-000.txt][DZ1163 孫真人備急千金要方 ]]
 ** Work notes
    The DZ version has 95 juan
 ** Comments
@@ -2198,12 +2087,11 @@ DZ:   [[dz:DZ1163/DZ1163-000.txt][DZ1163 孫真人備急千金要方 ]]
 :END:
 靈寶畢法
 DZJ0: [[dzjy:JY148/JY148_01.txt][JY148 靈寶畢法]]
-DZ:   [[dz:DZ1191/DZ1191-000.txt][DZ1191 靈寶畢法]]
 ** Work notes
 
 ** Comments
 
-* **JY149 鍾呂傳道集  Zhong lü chuandao ji :can:
+* JY149** 鍾呂傳道集  Zhong lü chuandao ji :can:
 :PROPERTIES:
 :EXTENT:  60 fols.
 :LODGE:  危 2 
@@ -2213,7 +2101,6 @@ DZ:   [[dz:DZ1191/DZ1191-000.txt][DZ1191 靈寶畢法]]
 :END:
 鍾呂傳道集 
 DZJY: [[dzjy:JY149/JY149_01.txt][JY149 鍾呂傳道集 ]]
-DZ:   [[dz:DZ0263/DZ0263c-000.txt][DZ0263c 修真十書鐘呂傳道集]]
 ** Work notes
 
 ##treated as :excan:
@@ -2239,7 +2126,7 @@ DZJY: [[dzjy:JY150/JY150_01.txt][JY150 銅符鐵券]]
 
 ** Comments
 
-* *JY151 石函記 Shihan ji :can:
+* JY151* 石函記 Shihan ji :can:
 :PROPERTIES:
 :EXTENT:  34 fols.
 :LODGE:  危 3 
@@ -2249,7 +2136,6 @@ DZJY: [[dzjy:JY150/JY150_01.txt][JY150 銅符鐵券]]
 :END:
 石函記
 DZJ0: [[dzjy:JY151/JY151_01.txt][JY151 石函記]]
-DZ:   [[dz:DZ0951/DZ0951-000.txt][DZ0951 石函記]]
 ** Work notes
 
 ** Comments
@@ -2274,7 +2160,7 @@ JY152_Xu* DZ0559
     CLOSED: [2013-04-09 Tue 17:31]
 ** Comments
 
-* **JY153 化書 Huashu :excan:
+* JY153** 化書 Huashu :excan:
 :PROPERTIES:
 :EXTENT:  1+2+100 fols.
 :LODGE:  危 5
@@ -2303,7 +2189,7 @@ DZJY: [[dzjy:JY154/JY154_01.txt][JY154 葛仙翁太極沖玄至道心傳]]
 
 ** Comments
 
-* *JY155 黃石公素書 Huangshi gong sushu :can:
+* JY155* 黃石公素書 Huangshi gong sushu :can:
 :PROPERTIES:
 :EXTENT:  6  fols.
 :LODGE:  危 7
@@ -2313,12 +2199,11 @@ DZJY: [[dzjy:JY154/JY154_01.txt][JY154 葛仙翁太極沖玄至道心傳]]
 :END:
 黃石公素書
 DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
-DZ:   [[dz:DZ1179/DZ1179-000.txt][DZ1179 黃石公素書]]
 ** Work notes
 
 ** Comments
 
-* *JY156 劉子 Liuzi :can:
+* JY156* 劉子 Liuzi :can:
 :PROPERTIES:
 :EXTENT:  13 fols.
 :LODGE:  危 7 
@@ -2328,7 +2213,6 @@ DZ:   [[dz:DZ1179/DZ1179-000.txt][DZ1179 黃石公素書]]
 :END:
 劉子
 DZJ0: [[dzjy:JY156/JY156_01.txt][JY156 劉子]]
-DZ:   [[dz:DZ1030/DZ1030-000.txt][DZ1030 劉子]]
 ** Work notes
    DZ version has 10 juan, DZJY only 2.
 ** Comments
@@ -2344,7 +2228,6 @@ DZ:   [[dz:DZ1030/DZ1030-000.txt][DZ1030 劉子]]
 :END:
 玄真子 
 DZJ0: [[dzjy:JY157/JY157_01.txt][JY157 玄真子 ]]
-DZ:   [[dz:DZ1029/DZ1029-000.txt][DZ1029 玄真子 ]]
 ** Work notes
 
 ** Comments
@@ -2360,7 +2243,6 @@ DZ:   [[dz:DZ1029/DZ1029-000.txt][DZ1029 玄真子 ]]
 :END:
 天隱子 
 DZJ0: [[dzjy:JY158/JY158_01.txt][JY158 天隱子 ]]
-DZ:   [[dz:DZ1026/DZ1026-000.txt][DZ1026 天隱子 ]]
 ** Work notes
 
 ** Comments
@@ -2541,7 +2423,7 @@ DZJY: [[dzjy:JY172/JY172_01.txt][JY172 東園語錄]]
 
 ** Comments
 
-* *JY173 至真歌 Zhizhen ge :can:
+* JY173* 至真歌 Zhizhen ge :can:
 :PROPERTIES:
 :EXTENT:  3 fols.
 :LODGE:  奎 1
@@ -2551,12 +2433,11 @@ DZJY: [[dzjy:JY172/JY172_01.txt][JY172 東園語錄]]
 :END:
 至真歌
 DZJ0: [[dzjy:JY173/JY173_01.txt][JY173 至真歌]]
-DZ:   [[dz:DZ1257/DZ1257-000.txt][DZ1257 至真歌]]
 ** Work notes
 
 ** Comments
 
-* *JY174 玉清金笥青華祕文金寶內鍊丹法  Yuqing jinsi qinghua biwen jinbao neilian danfai :can:
+* JY174* 玉清金笥青華祕文金寶內鍊丹法  Yuqing jinsi qinghua biwen jinbao neilian danfai :can:
 :PROPERTIES:
 :EXTENT:  34 fols.
 :LODGE:  奎 1
@@ -2567,7 +2448,6 @@ DZ:   [[dz:DZ1257/DZ1257-000.txt][DZ1257 至真歌]]
 :END:
 玉清金笥青華祕文金寶內鍊丹法 
 DZJ0: [[dzjy:JY174/JY174_01.txt][JY174 玉清金笥青華祕文金寶內鍊丹法 ]]
-DZ:   [[dz:DZ0240/DZ0240-000.txt][DZ0240 玉清金笥青華祕文金寶內鍊丹法 ]]
 ** Work notes
 
 ** Comments
@@ -2582,12 +2462,11 @@ DZ:   [[dz:DZ0240/DZ0240-000.txt][DZ0240 玉清金笥青華祕文金寶內鍊丹
 :END:
 悟真篇三注 
 DZJ0: [[dzjy:JY175/JY175_01.txt][JY175 悟真篇三注 ]]
-DZ:   [[dz:DZ0142/DZ0142-000.txt][DZ0142 悟真篇三注 ]]
 ** Work notes
 ##treated as :excan:
 ** Comments
 
-* *JY176 悟真篇拾遺  Wuzhen pian shiyi :can:
+* JY176* 悟真篇拾遺  Wuzhen pian shiyi :can:
 :PROPERTIES:
 :EXTENT:  17 fols.
 :LODGE:  奎 2
@@ -2597,13 +2476,12 @@ DZ:   [[dz:DZ0142/DZ0142-000.txt][DZ0142 悟真篇三注 ]]
 :END:
 悟真篇拾遺 
 DZJ0: [[dzjy:JY176/JY176_01.txt][JY176 悟真篇拾遺 ]]
-DZ:   [[dz:DZ0144/DZ0144-000.txt][DZ0144 悟真篇拾遺 ]]
 ** Work notes
 ##treated as :excan:
 
 ** Comments
 
-* *JY177 悟真篇直指詳說  Wuzhen pian zhizhi xiangshuo :can:
+* JY177* 悟真篇直指詳說  Wuzhen pian zhizhi xiangshuo :can:
 :PROPERTIES:
 :EXTENT:  9 fols.
 :LODGE:  奎 2
@@ -2613,7 +2491,6 @@ DZ:   [[dz:DZ0144/DZ0144-000.txt][DZ0144 悟真篇拾遺 ]]
 :END:
 悟真篇直指詳說 
 DZJ0: [[dzjy:JY177/JY177_01.txt][JY177 悟真篇直指詳說 ]]
-DZ:   [[dz:DZ0143/DZ0143-000.txt][DZ0143 悟真篇直指詳說 ]]
 ** Work notes
 
 ** Comments
@@ -2630,7 +2507,7 @@ DZJY: [[dzjy:JY178/JY178_01.txt][JY178 金丹四百字]]
 
 ** Comments
 
-* *JY179 石橋歌  Shiqiao ge :can:
+* JY179* 石橋歌  Shiqiao ge :can:
 :PROPERTIES:
 :EXTENT:  1 fol.
 :LODGE:  奎 2
@@ -2640,7 +2517,6 @@ DZJY: [[dzjy:JY178/JY178_01.txt][JY178 金丹四百字]]
 :END:
 石橋歌 
 DZJ0: [[dzjy:JY179/JY179_01.txt][JY179 石橋歌 ]]
-DZ:   [[dz:DZ0141/DZ0141-000.txt][DZ0141 石橋歌 ]]
 ** Work notes
 This is only a small section of DZ0141, also in DZ1258
 see: [[mandoku:dz:DZ1258:320459a11][諸真內丹集要 DZ1258:320459a11]]
@@ -2669,7 +2545,6 @@ DZJY: [[dzjy:JY180/JY180_01.txt][JY180 悟真篇闡幽]]
 :END:
 還源篇 
 DZJ0: [[dzjy:JY181/JY181_01.txt][JY181 還源篇 ]]
-DZ:   [[dz:DZ1091/DZ1091-000.txt][DZ1091 還源篇 ]]
 ** Work notes
 
 ** Comments
@@ -2684,12 +2559,11 @@ DZ:   [[dz:DZ1091/DZ1091-000.txt][DZ1091 還源篇 ]]
 :END:
 還丹復命篇 
 DZJ0: [[dzjy:JY182/JY182_01.txt][JY182 還丹復命篇 ]]
-DZ:   [[dz:DZ1088/DZ1088-000.txt][DZ1088 還丹復命篇 ]]
 ** Work notes
 
 ** Comments
 
-* *JY183 泥洹集  Nihuan ji :can:
+* JY183* 泥洹集  Nihuan ji :can:
 :PROPERTIES:
 :EXTENT:  26 fols.
 :LODGE:  奎 4
@@ -2699,7 +2573,6 @@ DZ:   [[dz:DZ1088/DZ1088-000.txt][DZ1088 還丹復命篇 ]]
 :END:
 泥洹集 
 DZJ0: [[dzjy:JY183/JY183_01.txt][JY183 泥洹集 ]]
-DZ:   [[dz:DZ1090/DZ1090-000.txt][DZ1090 泥洹集 ]]
 ** Work notes
 
 ** Comments
@@ -2714,7 +2587,6 @@ DZ:   [[dz:DZ1090/DZ1090-000.txt][DZ1090 泥洹集 ]]
 :END:
 析疑指迷論 
 DZJ0: [[dzjy:JY184/JY184_01.txt][JY184 析疑指迷論 ]]
-DZ:   [[dz:DZ0276/DZ0276-000.txt][DZ0276 析疑指迷論 ]]
 ** Work notes
 
 ** Comments
@@ -2731,7 +2603,7 @@ DZJY: [[dzjy:JY185/JY185_01.txt][JY185 瓊琯白真人集]]
 
 ** Comments
 
-* *JY186 海瓊白真君語錄  Haiqiong bai zhenjun yulu :can:
+* JY186* 海瓊白真君語錄  Haiqiong bai zhenjun yulu :can:
 :PROPERTIES:
 :EXTENT:  45 fols.
 :LODGE:  婁 7
@@ -2741,7 +2613,6 @@ DZJY: [[dzjy:JY185/JY185_01.txt][JY185 瓊琯白真人集]]
 :END:
 海瓊白真君語錄 
 DZJ0: [[dzjy:JY186/JY186_01.txt][JY186 海瓊白真君語錄 ]]
-DZ:   [[dz:DZ1307/DZ1307-000.txt][DZ1307 海瓊白真君語錄 ]]
 ** Work notes
 JY version ends at [[mandoku:dz:DZ1307:330132a13][海瓊白真人語録 DZ1307:330132a13]]
 ** Comments
@@ -2756,7 +2627,6 @@ JY version ends at [[mandoku:dz:DZ1307:330132a13][海瓊白真人語録 DZ1307:3
 :END:
 重陽全真集 
 DZJ0: [[dzjy:JY187/JY187_01.txt][JY187 重陽全真集 ]]
-DZ:   [[dz:DZ1153/DZ1153-000.txt][DZ1153 重陽全真集 ]]
 ** Work notes
 
 ** Comments
@@ -2774,7 +2644,6 @@ but <pb:CK-KZ_JY187_p0003a> seems to be 3a of SEC 1...¶
 :END:
 重陽教化集 
 DZJ0: [[dzjy:JY188/JY188_01.txt][JY188 重陽教化集 ]]
-DZ:   [[dz:DZ1154/DZ1154-000.txt][DZ1154 重陽教化集 ]]
 ** Work notes
 
 ** Comments
@@ -2789,7 +2658,6 @@ DZ:   [[dz:DZ1154/DZ1154-000.txt][DZ1154 重陽教化集 ]]
 :END:
 重陽分梨十化集 
 DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
-DZ:   [[dz:DZ1155/DZ1155-000.txt][DZ1155 重陽分梨十化集 ]]
 ** Work notes
 
 ** Comments
@@ -2804,7 +2672,6 @@ DZ:   [[dz:DZ1155/DZ1155-000.txt][DZ1155 重陽分梨十化集 ]]
 :END:
 立教十五論 
 DZJ0: [[dzjy:JY190/JY190_01.txt][JY190 立教十五論 ]]
-DZ:   [[dz:DZ1233/DZ1233-000.txt][DZ1233 立教十五論 ]]
 ** Work notes
 
 ** Comments
@@ -2819,7 +2686,6 @@ DZ:   [[dz:DZ1233/DZ1233-000.txt][DZ1233 立教十五論 ]]
 :END:
 丹陽真人直言
 DZJ0: [[dzjy:JY191/JY191_01.txt][JY191 丹陽真人直言]]
-DZ:   [[dz:DZ1234/DZ1234-000.txt][DZ1234 丹陽真人直言]]
 ** Work notes
 
 ** Comments
@@ -2865,12 +2731,11 @@ DZJY: [[dzjy:JY193/JY193_01.txt][JY193 五篇靈文]]
 :END:
 長春真人西游記
 DZJ0: [[dzjy:JY194/JY194_01.txt][JY194 長春真人西游記]]
-DZ:   [[dz:DZ1429/DZ1429-000.txt][DZ1429 長春真人西游記]]
 ** Work notes
 
 ** Comments
 
-* *JY195 磻溪集  Panxi ji :can:
+* JY195* 磻溪集  Panxi ji :can:
 :PROPERTIES:
 :EXTENT:  85 fols.
 :LODGE:  胃 3
@@ -2880,7 +2745,6 @@ DZ:   [[dz:DZ1429/DZ1429-000.txt][DZ1429 長春真人西游記]]
 :END:
 磻溪集 
 DZJ0: [[dzjy:JY195/JY195_01.txt][JY195 磻溪集 ]]
-DZ:   [[dz:DZ1159/DZ1159-000.txt][DZ1159 磻溪集 ]]
 ** Work notes
 
 ** Comments
@@ -2895,7 +2759,6 @@ DZ:   [[dz:DZ1159/DZ1159-000.txt][DZ1159 磻溪集 ]]
 :END:
 仙樂集 
 DZJ0: [[dzjy:JY196/JY196_01.txt][JY196 仙樂集 ]]
-DZ:   [[dz:DZ1141/DZ1141-000.txt][DZ1141 仙樂集 ]]
 ** Work notes
 
 ** Comments
@@ -2910,7 +2773,6 @@ DZ:   [[dz:DZ1141/DZ1141-000.txt][DZ1141 仙樂集 ]]
 :END:
 無為清靜長生真人至真語錄 
 DZJ0: [[dzjy:JY197/JY197_01.txt][JY197 無為清靜長生真人至真語錄 ]]
-DZ:   [[dz:DZ1058/DZ1058-000.txt][DZ1058 無為清靜長生真人至真語錄 ]]
 ** Work notes
 
 ** Comments
@@ -2925,7 +2787,6 @@ DZ:   [[dz:DZ1058/DZ1058-000.txt][DZ1058 無為清靜長生真人至真語錄 ]]
 :END:
 水雲集 
 DZJ0: [[dzjy:JY198/JY198_01.txt][JY198 水雲集 ]]
-DZ:   [[dz:DZ1160/DZ1160-000.txt][DZ1160 水雲集 ]]
 ** Work notes
 
 ** Comments
@@ -2940,7 +2801,6 @@ DZ:   [[dz:DZ1160/DZ1160-000.txt][DZ1160 水雲集 ]]
 :END:
 洞玄金玉集 
 DZJ0: [[dzjy:JY199/JY199_01.txt][JY199 洞玄金玉集 ]]
-DZ:   [[dz:DZ1149/DZ1149-000.txt][DZ1149 洞玄金玉集 ]]
 ** Work notes
 
 ** Comments
@@ -2955,7 +2815,6 @@ DZ:   [[dz:DZ1149/DZ1149-000.txt][DZ1149 洞玄金玉集 ]]
 :END:
 漸悟集 
 DZJ0: [[dzjy:JY200/JY200_01.txt][JY200 漸悟集 ]]
-DZ:   [[dz:DZ1142/DZ1142-000.txt][DZ1142 漸悟集 ]]
 ** Work notes
 
 ** Comments
@@ -2970,7 +2829,6 @@ DZ:   [[dz:DZ1142/DZ1142-000.txt][DZ1142 漸悟集 ]]
 :END:
 丹陽神光燦 
 DZJ0: [[dzjy:JY201/JY201_01.txt][JY201 丹陽神光燦 ]]
-DZ:   [[dz:DZ1150/DZ1150-000.txt][DZ1150 丹陽神光燦 ]]
 ** Work notes
 
 ** Comments
@@ -2985,7 +2843,6 @@ DZ:   [[dz:DZ1150/DZ1150-000.txt][DZ1150 丹陽神光燦 ]]
 :END:
 丹陽真人語錄 
 DZJ0: [[dzjy:JY202/JY202_01.txt][JY202 丹陽真人語錄 ]]
-DZ:   [[dz:DZ1057/DZ1057-000.txt][DZ1057 丹陽真人語錄 ]]
 ** Work notes
 
 ** Comments
@@ -3024,7 +2881,6 @@ DZJY: [[dzjy:JY204/JY204_01.txt][JY204 孫不二元君傳述丹道祕書三卷]]
 :END:
 太古集 
 DZJ0: [[dzjy:JY205/JY205_01.txt][JY205 太古集 ]]
-DZ:   [[dz:DZ1161/DZ1161-000.txt][DZ1161 太古集 ]]
 ** Work notes
 
 ** Comments
@@ -3039,7 +2895,6 @@ DZ:   [[dz:DZ1161/DZ1161-000.txt][DZ1161 太古集 ]]
 :END:
 雲光集 
 DZJ0: [[dzjy:JY206/JY206_01.txt][JY206 雲光集 ]]
-DZ:   [[dz:DZ1152/DZ1152-000.txt][DZ1152 雲光集 ]]
 ** Work notes
 
 ** Comments
@@ -3054,7 +2909,6 @@ DZ:   [[dz:DZ1152/DZ1152-000.txt][DZ1152 雲光集 ]]
 :END:
 葆光集 
 DZJ0: [[dzjy:JY207/JY207_01.txt][JY207 葆光集 ]]
-DZ:   [[dz:DZ1146/DZ1146-000.txt][DZ1146 葆光集 ]]
 ** Work notes
 
 ** Comments
@@ -3071,27 +2925,23 @@ DZJY: [[dzjy:JY208/JY208_01.txt][JY208 金液還丹印證圖詩]]
 
 ** Comments
 
-* *JY209 金丹大要  Jindan dayao :can:
+* JY209* 金丹大要  Jindan dayao :can:
 :PROPERTIES:
 :EXTENT:  3 juan
 :LODGE:  昂 1-3
 :KZ:  16: 6975-7086
 :CT:  1067-1070
-:DZ: DZ1067, DZ1068, DZ1069, DZ1070 / JY209
+:DZ: DZ1067 , DZ1068, DZ1069, DZ1070 / JY209
 :END:
 金丹大要 
 DZJY: [[dzjy:JY209/JY209_01.txt][JY209 金丹大要 ]]
-DZ:   [[dz:DZ1067/DZ1067-000.txt][DZ1067 上陽子金丹大要]]
-DZ:   [[dz:DZ1068/DZ1068-000.txt][DZ1068 上陽子金丹大要圖]]
-DZ:   [[dz:DZ1069/DZ1069-000.txt][DZ1069 上陽子金丹大要列仙志]]
-DZ:   [[dz:DZ1070/DZ1070-000.txt][DZ1070 上陽子金丹大要仙派]]
 ** Work notes
 <2012-08-22 Mi>
  No electronic text!!??
 
 ** Comments
 
-* *JY210 金丹大成  Jindan dacheng :can:
+* JY210* 金丹大成  Jindan dacheng :can:
 :PROPERTIES:
 :EXTENT:  44 fols.
 :LODGE:  昂 4
@@ -3101,12 +2951,11 @@ DZ:   [[dz:DZ1070/DZ1070-000.txt][DZ1070 上陽子金丹大要仙派]]
 :END:
 金丹大成 
 DZJY: [[dzjy:JY210/JY210_01.txt][JY210 金丹大成 ]]
-DZ:   [[dz:DZ0263/DZ0263b-000.txt][DZ0263b 修真十書金丹大成集]]
 ** Work notes
 
 ** Comments
 
-* *JY211 規中指南  Guizhong zhinan :can:
+* JY211* 規中指南  Guizhong zhinan :can:
 :PROPERTIES:
 :EXTENT:  16 fols.
 :LODGE:  昂 5
@@ -3116,7 +2965,6 @@ DZ:   [[dz:DZ0263/DZ0263b-000.txt][DZ0263b 修真十書金丹大成集]]
 :END:
 規中指南 
 DZJ0: [[dzjy:JY211/JY211_01.txt][JY211 規中指南 ]]
-DZ:   [[dz:DZ0243/DZ0243-000.txt][DZ0243 規中指南 ]]
 ** Work notes
    - Xu not in DZ
 ** Comments
@@ -3131,7 +2979,6 @@ DZ:   [[dz:DZ0243/DZ0243-000.txt][DZ0243 規中指南 ]]
 :END:
 太玄寶典 
 DZJ0: [[dzjy:JY212/JY212_01.txt][JY212 太玄寶典 ]]
-DZ:   [[dz:DZ1034/DZ1034-000.txt][DZ1034 太玄寶典 ]]
 ** Work notes
 
 ** Comments
@@ -3146,7 +2993,6 @@ DZ:   [[dz:DZ1034/DZ1034-000.txt][DZ1034 太玄寶典 ]]
 :END:
 坐忘論 
 DZJ0: [[dzjy:JY213/JY213_01.txt][JY213 坐忘論 ]]
-DZ:   [[dz:DZ1036/DZ1036-000.txt][DZ1036 坐忘論 ]]
 ** Work notes
 
 ** Comments
@@ -3161,7 +3007,6 @@ DZ:   [[dz:DZ1036/DZ1036-000.txt][DZ1036 坐忘論 ]]
 :END:
 悟玄篇 
 DZJ0: [[dzjy:JY214/JY214_01.txt][JY214 悟玄篇 ]]
-DZ:   [[dz:DZ1046/DZ1046-000.txt][DZ1046 悟玄篇 ]]
 ** Work notes
 
 ** Comments
@@ -3176,7 +3021,6 @@ DZ:   [[dz:DZ1046/DZ1046-000.txt][DZ1046 悟玄篇 ]]
 :END:
 太虛心淵篇 
 DZJ0: [[dzjy:JY215/JY215_01.txt][JY215 太虛心淵篇 ]]
-DZ:   [[dz:DZ1047/DZ1047-000.txt][DZ1047 太虛心淵篇 ]]
 ** Work notes
 
 ** Comments
@@ -3191,7 +3035,6 @@ DZ:   [[dz:DZ1047/DZ1047-000.txt][DZ1047 太虛心淵篇 ]]
 :END:
 丹房奧論 
 DZJ0: [[dzjy:JY216/JY216_01.txt][JY216 丹房奧論 ]]
-DZ:   [[dz:DZ0920/DZ0920-000.txt][DZ0920 丹房奧論 ]]
 ** Work notes
 
 ** Comments
@@ -3206,7 +3049,6 @@ DZ:   [[dz:DZ0920/DZ0920-000.txt][DZ0920 丹房奧論 ]]
 :END:
 明真破妄章頌 
 DZJ0: [[dzjy:JY217/JY217_01.txt][JY217 明真破妄章頌 ]]
-DZ:   [[dz:DZ0979/DZ0979-000.txt][DZ0979 明真破妄章頌 ]]
 ** Work notes
 
 ** Comments
@@ -3221,7 +3063,6 @@ DZ:   [[dz:DZ0979/DZ0979-000.txt][DZ0979 明真破妄章頌 ]]
 :END:
 道法心傳 
 DZJ0: [[dzjy:JY218/JY218_01.txt][JY218 道法心傳 ]]
-DZ:   [[dz:DZ1253/DZ1253-000.txt][DZ1253 道法心傳 ]]
 ** Work notes
 
 ** Comments
@@ -3236,7 +3077,6 @@ DZ:   [[dz:DZ1253/DZ1253-000.txt][DZ1253 道法心傳 ]]
 :END:
 橐籥子 
 DZJ0: [[dzjy:JY219/JY219_01.txt][JY219 橐籥子 ]]
-DZ:   [[dz:DZ1188/DZ1188-000.txt][DZ1188 橐籥子 ]]
 ** Work notes
 
 ** Comments
@@ -3251,7 +3091,6 @@ DZ:   [[dz:DZ1188/DZ1188-000.txt][DZ1188 橐籥子 ]]
 :END:
 陰丹內篇 
 DZJ0: [[dzjy:JY220/JY220_01.txt][JY220 陰丹內篇 ]]
-DZ:   [[dz:DZ1189/DZ1189-000.txt][DZ1189 陰丹內篇 ]]
 ** Work notes
 
 ** Comments
@@ -3266,7 +3105,6 @@ DZ:   [[dz:DZ1189/DZ1189-000.txt][DZ1189 陰丹內篇 ]]
 :END:
 雲山集 
 DZJ0: [[dzjy:JY221/JY221_01.txt][JY221 雲山集 ]]
-DZ:   [[dz:DZ1140/DZ1140-000.txt][DZ1140 雲山集 ]]
 ** Work notes
 
 ** Comments
@@ -3281,7 +3119,6 @@ DZ:   [[dz:DZ1140/DZ1140-000.txt][DZ1140 雲山集 ]]
 :END:
 草堂集 
 DZJ0: [[dzjy:JY222/JY222_01.txt][JY222 草堂集 ]]
-DZ:   [[dz:DZ1143/DZ1143-000.txt][DZ1143 草堂集 ]]
 ** Work notes
 
 ** Comments
@@ -3296,7 +3133,6 @@ DZ:   [[dz:DZ1143/DZ1143-000.txt][DZ1143 草堂集 ]]
 :END:
 自然集 
 DZJ0: [[dzjy:JY223/JY223_01.txt][JY223 自然集 ]]
-DZ:   [[dz:DZ1144/DZ1144-000.txt][DZ1144 自然集 ]]
 ** Work notes
 
 ** Comments
@@ -3311,7 +3147,6 @@ DZ:   [[dz:DZ1144/DZ1144-000.txt][DZ1144 自然集 ]]
 :END:
 鳴真集 
 DZJ0: [[dzjy:JY224/JY224_01.txt][JY224 鳴真集 ]]
-DZ:   [[dz:DZ1145/DZ1145-000.txt][DZ1145 鳴真集 ]]
 ** Work notes
 
 ** Comments
@@ -3326,7 +3161,6 @@ DZ:   [[dz:DZ1145/DZ1145-000.txt][DZ1145 鳴真集 ]]
 :END:
 西雲集 
 DZJ0: [[dzjy:JY225/JY225_01.txt][JY225 西雲集 ]]
-DZ:   [[dz:DZ1147/DZ1147-000.txt][DZ1147 西雲集 ]]
 ** Work notes
 
 ** Comments
@@ -3341,7 +3175,6 @@ DZ:   [[dz:DZ1147/DZ1147-000.txt][DZ1147 西雲集 ]]
 :END:
 中和集 
 DZJ0: [[dzjy:JY226/JY226_01.txt][JY226 中和集 ]]
-DZ:   [[dz:DZ0249/DZ0249-000.txt][DZ0249 中和集 ]]
 ** Work notes
 
 ** Comments
@@ -3356,7 +3189,6 @@ DZ:   [[dz:DZ0249/DZ0249-000.txt][DZ0249 中和集 ]]
 :END:
 晉真人語錄 
 DZJ0: [[dzjy:JY227/JY227_01.txt][JY227 晉真人語錄 ]]
-DZ:   [[dz:DZ1056/DZ1056-000.txt][DZ1056 晉真人語錄 ]]
 ** Work notes
 
 ** Comments
@@ -3371,7 +3203,6 @@ DZ:   [[dz:DZ1056/DZ1056-000.txt][DZ1056 晉真人語錄 ]]
 :END:
 虛靜沖和先生徐神翁語錄 
 DZJ0: [[dzjy:JY228/JY228_01.txt][JY228 虛靜沖和先生徐神翁語錄 ]]
-DZ:   [[dz:DZ1251/DZ1251-000.txt][DZ1251 虛靜沖和先生徐神翁語錄 ]]
 ** Work notes
 
 ** Comments
@@ -3386,7 +3217,6 @@ DZ:   [[dz:DZ1251/DZ1251-000.txt][DZ1251 虛靜沖和先生徐神翁語錄 ]]
 :END:
 盤山棲雲王真人語錄 
 DZJ0: [[dzjy:JY229/JY229_01.txt][JY229 盤山棲雲王真人語錄 ]]
-DZ:   [[dz:DZ1059/DZ1059-000.txt][DZ1059 盤山棲雲王真人語錄 ]]
 ** Work notes
 
 ** Comments
@@ -3401,7 +3231,6 @@ DZ:   [[dz:DZ1059/DZ1059-000.txt][DZ1059 盤山棲雲王真人語錄 ]]
 :END:
 清和真人北游語錄 
 DZJ0: [[dzjy:JY230/JY230_01.txt][JY230 清和真人北游語錄 ]]
-DZ:   [[dz:DZ1310/DZ1310-000.txt][DZ1310 清和真人北游語錄 ]]
 ** Work notes
 
 ** Comments
@@ -3479,7 +3308,7 @@ DZJY: [[dzjy:JY236/JY236_01.txt][JY236 張三丰先生全集]]
 
 ** Comments
 
-* *JY237 真誥  Zhengao :can:
+* JY237* 真誥  Zhengao :can:
 :PROPERTIES:
 :EXTENT:  3 juan
 :LODGE:  觜 1-2, 觜 又2
@@ -3489,7 +3318,6 @@ DZJY: [[dzjy:JY236/JY236_01.txt][JY236 張三丰先生全集]]
 :END:
 真誥 
 DZJ0: [[dzjy:JY237/JY237_01.txt][JY237 真誥 ]]
-DZ:   [[dz:DZ1016/DZ1016-000.txt][DZ1016 真誥 ]]
 ** Work notes
 *** add text
     CLOSED: [2013-04-09 Tue 17:32]
@@ -3506,7 +3334,6 @@ text for CK-KZ237_02p106a.png is missing.
 :END:
 道樞 
 DZJ0: [[dzjy:JY238/JY238_01.txt][JY238 道樞 ]]
-DZ:   [[dz:DZ1017/DZ1017-000.txt][DZ1017 道樞 ]]
 ** Work notes
 *** DONE images not correct.
     CLOSED: [2012-12-12 Wed 16:42]
@@ -3524,12 +3351,11 @@ DZ:   [[dz:DZ1017/DZ1017-000.txt][DZ1017 道樞 ]]
 :END:
 洞玄靈寶真靈位業圖 
 DZJ0: [[dzjy:JY239/JY239_01.txt][JY239 洞玄靈寶真靈位業圖 ]]
-DZ:   [[dz:DZ0167/DZ0167-000.txt][DZ0167 洞玄靈寶真靈位業圖 ]]
 ** Work notes
 
 ** Comments
 
-* *JY240 鳴鶴餘音  Minghe yuyin :can:
+* JY240* 鳴鶴餘音  Minghe yuyin :can:
 :PROPERTIES:
 :EXTENT:  128 fols.
 :LODGE:  觜 8
@@ -3539,7 +3365,6 @@ DZ:   [[dz:DZ0167/DZ0167-000.txt][DZ0167 洞玄靈寶真靈位業圖 ]]
 :END:
 鳴鶴餘音 
 DZJ0: [[dzjy:JY240/JY240_01.txt][JY240 鳴鶴餘音 ]]
-DZ:   [[dz:DZ1100/DZ1100-000.txt][DZ1100 鳴鶴餘音 ]]
 ** Work notes
 
 ** Comments
@@ -3556,7 +3381,7 @@ DZJY: [[dzjy:JY241/JY241_01.txt][JY241 養真集]]
 
 ** Comments
 
-* *JY242 雲笈七籤  Yunji qiqian :can:
+* JY242* 雲笈七籤  Yunji qiqian :can:
 :PROPERTIES:
 :EXTENT:  13 juan
 :LODGE:  參 1-7, 井 1-6
@@ -3566,7 +3391,6 @@ DZJY: [[dzjy:JY241/JY241_01.txt][JY241 養真集]]
 :END:
 雲笈七籤 
 DZJ0: [[dzjy:JY242/JY242_01.txt][JY242 雲笈七籤 ]]
-DZ:   [[dz:DZ1032/DZ1032-000.txt][DZ1032 雲笈七籤 ]]
 ** JY242 Work notes
    juan 17, 39 seem to be missing quite some text...
    <2012-02-08 Wed>:
@@ -3658,7 +3482,6 @@ DZJY: [[dzjy:JY247/JY247_01.txt][JY247 三寶萬靈法懺]]
 :END:
 太上靈寶朝天謝罪法懺 
 DZJ0: [[dzjy:JY248/JY248_01.txt][JY248 太上靈寶朝天謝罪法懺 ]]
-DZ:   [[dz:DZ0189/DZ0189-000.txt][DZ0189 太上靈寶朝天謝罪法懺 ]]
 ** Work notes
 looks like there is some text before our text, which starts at SEC 1
 ** Comments
@@ -3738,7 +3561,7 @@ DZJY: [[dzjy:JY254/JY254_01.txt][JY254 文昌帝君本傳]]
 
 ** Comments
 
-* *JY255 文帝化書  Wendi huashu :can:
+* JY255* 文帝化書  Wendi huashu :can:
 :PROPERTIES:
 :EXTENT:  80 fols.
 :LODGE:  星 8
@@ -3748,7 +3571,6 @@ DZJY: [[dzjy:JY254/JY254_01.txt][JY254 文昌帝君本傳]]
 :END:
 文帝化書 
 DZJ0: [[dzjy:JY255/JY255_01.txt][JY255 文帝化書 ]]
-DZ:   [[dz:DZ0170/DZ0170-000.txt][DZ0170 文帝化書 ]]
 ** Work notes
 
 ** Comments
@@ -3849,18 +3671,16 @@ DZJY: [[dzjy:JY263/JY263_01.txt][JY263 太上玄門功課經]]
 
 ** Comments
 
-* *JY264 太上三元賜福赦罪解厄消災延生保命妙經  Taishang sanyuan cifu shezui jie’e xiaozai yansheng baoming miaojing :excan:
+* JY264* 太上三元賜福赦罪解厄消災延生保命妙經  Taishang sanyuan cifu shezui jie’e xiaozai yansheng baoming miaojing :excan:
 :PROPERTIES:
 :EXTENT:  11 fols.
 :LODGE:  張 1
 :KZ:  23: 10252-57
 :CT:  CT 1442 and CT 71
-:DZ: DZ1442, DZ0071 / JY264
+:DZ: DZ1442 , DZ0071 / JY264
 :END:
 太上三元賜福赦罪解厄消災延生保命妙經 
 DZJY: [[dzjy:JY264/JY264_01.txt][JY264 太上三元賜福赦罪解厄消災延生保命妙經 ]]
-DZ:  [[dz:DZ1442/DZ1442-000.txt][DZ1442 太上三元賜福赦罪解厄消災延生保命妙經 ]]
-DZ:  [[dz:DZ0071/DZ0071-000.txt][DZ0071 元始天尊說三官寶號經]]
 
 ** Work notes
 
@@ -3912,7 +3732,6 @@ DZJY: [[dzjy:JY267/JY267_01.txt][JY267 雅宜集]]
 :END:
 太上老君戒經 
 DZJ0: [[dzjy:JY268/JY268_01.txt][JY268 太上老君戒經 ]]
-DZ:   [[dz:DZ0784/DZ0784-000.txt][DZ0784 太上老君戒經 ]]
 ** Work notes
 
 *** it seems there are unrelated images at the end
@@ -3934,7 +3753,6 @@ CK-KZ_JY268_01p025a
 :END:
 太上洞真智慧上品大誡 
 DZJ0: [[dzjy:JY269/JY269_01.txt][JY269 太上洞真智慧上品大誡 ]]
-DZ:   [[dz:DZ0177/DZ0177-000.txt][DZ0177 太上洞真智慧上品大誡 ]]
 ** Work notes
 
 ** Comments
@@ -3949,7 +3767,6 @@ DZ:   [[dz:DZ0177/DZ0177-000.txt][DZ0177 太上洞真智慧上品大誡 ]]
 :END:
 三洞眾戒文 
 DZJ0: [[dzjy:JY270/JY270_01.txt][JY270 三洞眾戒文 ]]
-DZ:   [[dz:DZ0178/DZ0178-000.txt][DZ0178 三洞眾戒文 ]]
 ** Work notes
 
 ** Comments
@@ -3964,7 +3781,6 @@ DZ:   [[dz:DZ0178/DZ0178-000.txt][DZ0178 三洞眾戒文 ]]
 :END:
 太微靈書紫文仙忌真記上經 
 DZJ0: [[dzjy:JY271/JY271_01.txt][JY271 太微靈書紫文仙忌真記上經 ]]
-DZ:   [[dz:DZ0179/DZ0179-000.txt][DZ0179 太微靈書紫文仙忌真記上經 ]]
 ** Work notes
 
 ** Comments
@@ -3979,7 +3795,6 @@ DZ:   [[dz:DZ0179/DZ0179-000.txt][DZ0179 太微靈書紫文仙忌真記上經 ]]
 :END:
 虛皇天尊初真十戒文 
 DZJ0: [[dzjy:JY272/JY272_01.txt][JY272 虛皇天尊初真十戒文 ]]
-DZ:   [[dz:DZ0180/DZ0180-000.txt][DZ0180 虛皇天尊初真十戒文 ]]
 ** Work notes
 
 ** Comments
@@ -3994,7 +3809,6 @@ DZ:   [[dz:DZ0180/DZ0180-000.txt][DZ0180 虛皇天尊初真十戒文 ]]
 :END:
 太上九真妙戒金籙度命拔罪妙經 
 DZJ0: [[dzjy:JY273/JY273_01.txt][JY273 太上九真妙戒金籙度命拔罪妙經 ]]
-DZ:   [[dz:DZ0181/DZ0181-000.txt][DZ0181 太上九真妙戒金籙度命拔罪妙經 ]]
 ** Work notes
 
 ** Comments
@@ -4009,7 +3823,6 @@ DZ:   [[dz:DZ0181/DZ0181-000.txt][DZ0181 太上九真妙戒金籙度命拔罪妙
 :END:
 太上十二上品飛天法輪勸戒妙經 
 DZJ0: [[dzjy:JY274/JY274_01.txt][JY274 太上十二上品飛天法輪勸戒妙經 ]]
-DZ:   [[dz:DZ0182/DZ0182-000.txt][DZ0182 太上十二上品飛天法輪勸戒妙經 ]]
 ** Work notes
 
 ** Comments
@@ -4024,7 +3837,6 @@ DZ:   [[dz:DZ0182/DZ0182-000.txt][DZ0182 太上十二上品飛天法輪勸戒妙
 :END:
 太極真人說二十四門戒經 
 DZJ0: [[dzjy:JY275/JY275_01.txt][JY275 太極真人說二十四門戒經 ]]
-DZ:   [[dz:DZ0183/DZ0183-000.txt][DZ0183 太極真人說二十四門戒經 ]]
 ** Work notes
 
 ** Comments
@@ -4039,7 +3851,6 @@ DZ:   [[dz:DZ0183/DZ0183-000.txt][DZ0183 太極真人說二十四門戒經 ]]
 :END:
 全真清規 
 DZJ0: [[dzjy:JY276/JY276_01.txt][JY276 全真清規 ]]
-DZ:   [[dz:DZ1235/DZ1235-000.txt][DZ1235 全真清規 ]]
 ** Work notes
 
 ** Comments
@@ -4054,7 +3865,6 @@ DZ:   [[dz:DZ1235/DZ1235-000.txt][DZ1235 全真清規 ]]
 :END:
 三洞修道儀 
 DZJ0: [[dzjy:JY277/JY277_01.txt][JY277 三洞修道儀 ]]
-DZ:   [[dz:DZ1237/DZ1237-000.txt][DZ1237 三洞修道儀 ]]
 ** Work notes
 
 ** Comments
@@ -4083,7 +3893,7 @@ DZJY: [[dzjy:JY279/JY279_01.txt][JY279 警世功過格]]
 
 ** Comments
 
-* *JY280 要修科儀戒律鈔  Yaoxiu keyi jielü chao :can:
+* JY280* 要修科儀戒律鈔  Yaoxiu keyi jielü chao :can:
 :PROPERTIES:
 :EXTENT:  4 juan
 :LODGE:  張 4
@@ -4093,7 +3903,6 @@ DZJY: [[dzjy:JY279/JY279_01.txt][JY279 警世功過格]]
 :END:
 要修科儀戒律鈔 
 DZJ0: [[dzjy:JY280/JY280_01.txt][JY280 要修科儀戒律鈔 ]]
-DZ:   [[dz:DZ0463/DZ0463-000.txt][DZ0463 要修科儀戒律鈔 ]]
 ** Work notes
 
 ** Comments
@@ -4108,12 +3917,11 @@ DZ:   [[dz:DZ0463/DZ0463-000.txt][DZ0463 要修科儀戒律鈔 ]]
 :END:
 太上濟度章赦 
 DZJ0: [[dzjy:JY281/JY281_01.txt][JY281 太上濟度章赦 ]]
-DZ:   [[dz:DZ0316/DZ0316-000.txt][DZ0316 太上濟度章赦 ]]
 ** Work notes
 
 ** Comments
 
-* *JY282 無上黃籙大齋立成儀  Wushang huanglu dazhai licheng yi :can:
+* JY282* 無上黃籙大齋立成儀  Wushang huanglu dazhai licheng yi :can:
 :PROPERTIES:
 :EXTENT:  78 fols.
 :LODGE:  張 6
@@ -4123,7 +3931,6 @@ DZ:   [[dz:DZ0316/DZ0316-000.txt][DZ0316 太上濟度章赦 ]]
 :END:
 無上黃籙大齋立成儀 
 DZJ0: [[dzjy:JY282/JY282_01.txt][JY282 無上黃籙大齋立成儀 ]]
-DZ:   [[dz:DZ0508/DZ0508-000.txt][DZ0508 無上黃籙大齋立成儀 ]]
 ** Work notes
 ** Comments
    [2011-09-09T11:53:16+0900]
@@ -4139,7 +3946,6 @@ DZ:   [[dz:DZ0508/DZ0508-000.txt][DZ0508 無上黃籙大齋立成儀 ]]
 :END:
 紫皇鍊度玄科 
 DZJ0: [[dzjy:JY283/JY283_01.txt][JY283 紫皇鍊度玄科 ]]
-DZ:   [[dz:DZ1451/DZ1451-000.txt][DZ1451 紫皇鍊度玄科 ]]
 ** Work notes
 
 ** Comments
@@ -4154,7 +3960,6 @@ DZ:   [[dz:DZ1451/DZ1451-000.txt][DZ1451 紫皇鍊度玄科 ]]
 :END:
 神功妙濟真君禮文 
 DZJ0: [[dzjy:JY284/JY284_01.txt][JY284 神功妙濟真君禮文 ]]
-DZ:   [[dz:DZ0518/DZ0518-000.txt][DZ0518 神功妙濟真君禮文 ]]
 ** Work notes
 
 ** Comments
@@ -4205,12 +4010,11 @@ DZJY: [[dzjy:JY287/JY287_01.txt][JY287 中極戒]]
 :END:
 上清三尊譜錄 
 DZJ0: [[dzjy:JY288/JY288_01.txt][JY288 上清三尊譜錄 ]]
-DZ:   [[dz:DZ0164/DZ0164-000.txt][DZ0164 上清三尊譜錄 ]]
 ** Work notes
 
 ** Comments
 
-* *JY289 終南山祖庭仙真內傳  Zhongnan shan zuting xianzhen neizhuan :can:
+* JY289* 終南山祖庭仙真內傳  Zhongnan shan zuting xianzhen neizhuan :can:
 :PROPERTIES:
 :EXTENT:  55 fols.
 :LODGE:  翼 1
@@ -4220,7 +4024,6 @@ DZ:   [[dz:DZ0164/DZ0164-000.txt][DZ0164 上清三尊譜錄 ]]
 :END:
 終南山祖庭仙真內傳 
 DZJ0: [[dzjy:JY289/JY289_01.txt][JY289 終南山祖庭仙真內傳 ]]
-DZ:   [[dz:DZ0955/DZ0955-000.txt][DZ0955 終南山祖庭仙真內傳 ]]
 ** Work notes
 
 ** Comments
@@ -4235,7 +4038,6 @@ DZ:   [[dz:DZ0955/DZ0955-000.txt][DZ0955 終南山祖庭仙真內傳 ]]
 :END:
 終南山說經臺歷代真仙碑記 
 DZJ0: [[dzjy:JY290/JY290_01.txt][JY290 終南山說經臺歷代真仙碑記 ]]
-DZ:   [[dz:DZ0956/DZ0956-000.txt][DZ0956 終南山說經臺歷代真仙碑記 ]]
 ** Work notes
 
 ** Comments
@@ -4250,7 +4052,6 @@ DZ:   [[dz:DZ0956/DZ0956-000.txt][DZ0956 終南山說經臺歷代真仙碑記 ]]
 :END:
 西川青羊宮碑銘 
 DZJ0: [[dzjy:JY291/JY291_01.txt][JY291 西川青羊宮碑銘 ]]
-DZ:   [[dz:DZ0964/DZ0964-000.txt][DZ0964 西川青羊宮碑銘 ]]
 ** Work notes
 
 ** Comments
@@ -4265,7 +4066,6 @@ DZ:   [[dz:DZ0964/DZ0964-000.txt][DZ0964 西川青羊宮碑銘 ]]
 :END:
 玄元十子圖 
 DZJ0: [[dzjy:JY292/JY292_01.txt][JY292 玄元十子圖 ]]
-DZ:   [[dz:DZ0163/DZ0163-000.txt][DZ0163 玄元十子圖 ]]
 ** Work notes
 
 ** Comments
@@ -4304,7 +4104,6 @@ DZJY: [[dzjy:JY294/JY294_01.txt][JY294 青羊宮碑記]]
 :END:
 甘水仙源錄 
 DZJ0: [[dzjy:JY295/JY295_01.txt][JY295 甘水仙源錄 ]]
-DZ:   [[dz:DZ0973/DZ0973-000.txt][DZ0973 甘水仙源錄 ]]
 ** Work notes
 
 ** Comments
@@ -4319,7 +4118,6 @@ DZ:   [[dz:DZ0973/DZ0973-000.txt][DZ0973 甘水仙源錄 ]]
 :END:
 三洞群仙錄
 DZJ0: [[dzjy:JY296/JY296_01.txt][JY296 三洞群仙錄]]
-DZ:   [[dz:DZ1248/DZ1248-000.txt][DZ1248 三洞群仙錄]]
 ** Work notes
 ***     
     [2011-09-09T11:51:18+0900]
@@ -4348,12 +4146,11 @@ DZJY: [[dzjy:JY297/JY297_01.txt][JY297 華蓋山三仙真經]]
 :END:
 華蓋山浮邱王郭三真君事實 
 DZJ0: [[dzjy:JY298/JY298_01.txt][JY298 華蓋山浮邱王郭三真君事實 ]]
-DZ:   [[dz:DZ0778/DZ0778-000.txt][DZ0778 華蓋山浮邱王郭三真君事實 ]]
 ** Work notes
 
 ** Comments
 
-* **JY299 漢天師世家  Han tianshi shijia :can:
+* JY299** 漢天師世家  Han tianshi shijia :can:
 :PROPERTIES:
 :EXTENT:  9 juan
 :LODGE:  翼 7
@@ -4363,7 +4160,6 @@ DZ:   [[dz:DZ0778/DZ0778-000.txt][DZ0778 華蓋山浮邱王郭三真君事實 ]]
 :END:
 漢天師世家 
 DZJ0: [[dzjy:JY299/JY299_01.txt][JY299 漢天師世家 ]]
-DZ:   [[dz:DZ1462/DZ1462-000.txt][DZ1462 漢天師世家 ]]
 ** Work notes
 
 ** Comments
@@ -4378,7 +4174,6 @@ DZ:   [[dz:DZ1462/DZ1462-000.txt][DZ1462 漢天師世家 ]]
 :END:
 三十代天師虛靖真君語錄 
 DZJ0: [[dzjy:JY300/JY300_01.txt][JY300 三十代天師虛靖真君語錄 ]]
-DZ:   [[dz:DZ1249/DZ1249-000.txt][DZ1249 三十代天師虛靖真君語錄 ]]
 ** Work notes
 
 ** Comments
@@ -4393,7 +4188,6 @@ DZ:   [[dz:DZ1249/DZ1249-000.txt][DZ1249 三十代天師虛靖真君語錄 ]]
 :END:
 金蓮正宗記 
 DZJ0: [[dzjy:JY301/JY301_01.txt][JY301 金蓮正宗記 ]]
-DZ:   [[dz:DZ0173/DZ0173-000.txt][DZ0173 金蓮正宗記 ]]
 ** Work notes
 
 ** Comments
@@ -4408,7 +4202,6 @@ DZ:   [[dz:DZ0173/DZ0173-000.txt][DZ0173 金蓮正宗記 ]]
 :END:
 金蓮正宗仙源像傳 
 DZJ0: [[dzjy:JY302/JY302_01.txt][JY302 金蓮正宗仙源像傳 ]]
-DZ:   [[dz:DZ0174/DZ0174-000.txt][DZ0174 金蓮正宗仙源像傳 ]]
 ** Work notes
 
 ** Comments
@@ -4423,7 +4216,6 @@ DZ:   [[dz:DZ0174/DZ0174-000.txt][DZ0174 金蓮正宗仙源像傳 ]]
 :END:
 七真年譜
 DZJ0: [[dzjy:JY303/JY303_01.txt][JY303 七真年譜]]
-DZ:   [[dz:DZ0175/DZ0175-000.txt][DZ0175 七真年譜]]
 ** Work notes
 
 ** Comments
@@ -4438,7 +4230,6 @@ DZ:   [[dz:DZ0175/DZ0175-000.txt][DZ0175 七真年譜]]
 :END:
 洞天福地嶽瀆名山記 
 DZJ0: [[dzjy:JY304/JY304_01.txt][JY304 洞天福地嶽瀆名山記 ]]
-DZ:   [[dz:DZ0599/DZ0599-000.txt][DZ0599 洞天福地嶽瀆名山記 ]]
 ** Work notes
 
 ** Comments
@@ -4453,7 +4244,6 @@ DZ:   [[dz:DZ0599/DZ0599-000.txt][DZ0599 洞天福地嶽瀆名山記 ]]
 :END:
 南嶽/岳總勝集 
 DZJ0: [[dzjy:JY305/JY305_01.txt][JY305 南嶽/岳總勝集 ]]
-DZ:   [[dz:DZ0606/DZ0606-000.txt][DZ0606 南嶽/岳總勝集 ]]
 ** Work notes
 
 ** Comments
@@ -4468,7 +4258,6 @@ DZ:   [[dz:DZ0606/DZ0606-000.txt][DZ0606 南嶽/岳總勝集 ]]
 :END:
 梅仙觀記 
 DZJ0: [[dzjy:JY306/JY306_01.txt][JY306 梅仙觀記 ]]
-DZ:   [[dz:DZ0600/DZ0600-000.txt][DZ0600 梅仙觀記 ]]
 ** Work notes
 
 ** Comments
@@ -4483,7 +4272,6 @@ DZ:   [[dz:DZ0600/DZ0600-000.txt][DZ0600 梅仙觀記 ]]
 :END:
 西山群仙會真記 
 DZJ0: [[dzjy:JY307/JY307_01.txt][JY307 西山群仙會真記 ]]
-DZ:   [[dz:DZ0246/DZ0246-000.txt][DZ0246 西山群仙會真記 ]]
 ** Work notes
 
 ** Comments
@@ -4527,6 +4315,7 @@ DZJY: [[dzjy:JY310/JY310_01.txt][JY310 天下名山記]]
 
 ** Comments
 
+
 * EX001 青玄濟煉鐵貫斛食 Qingxuan jilian tieguan hushi	          :excan:
 :PROPERTIES:
 :EXTENT:  1 juan
@@ -4553,7 +4342,7 @@ DZJY: [[dzjy:EX002/EX002.txt][CK_EX02 太上無極大道三十六部尊經 ]]
    <2012-03-22 Thu> all images ok, text of 6 - 8
    8 seems to be a different text!!
    <2012-03-28 Wed>
-   Decided to move parts 1-7 to EX003, part 8 of this to EX002_01
+   Decided to move parts 1-7 to EX 003, part 8 of this to EX002_01
 ** Comments
 
 * EX003 太上無極太道三十六部尊經註解 Taishang wuji dadao sanshiliu bu zunjing :excan:
@@ -4600,5 +4389,20 @@ DZJY: [[dzjy:CK_EX04/CK_EX04.txt][CK_EX04 女丹合編]]
 ** Comments
 
 
-
 * Out
+** asda
+*** asdasd
+#+BEGIN_SRC emacs-lisp
+(save-restriction
+;  (org-narrow-to-subtree)
+  (1- (length
+(org-element-parse-buffer 'headline))))
+   ;(org-element-map
+   ;    (org-element-parse-buffer)
+   ;    'headline
+   ;  (lambda (x) 1)))))
+#+END_SRC
+
+#+RESULTS:
+: 317
+
