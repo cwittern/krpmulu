@@ -1,3 +1,9 @@
+#+TITLE: 四部叢刊
+
+* Comments							   :noexport:
+  - all text should either have a ZB_ID property or be in the KR files.
+  - 286 ZB_ID
+  - in KR: 16 ([2015-04-08T13:06:28+0900])
 
 * 四部叢刊初編
   張元濟 等輯
@@ -50,6 +56,7 @@
 *** SB11n002 監本纂圖重言重意互註點校尚書
 :PROPERTIES:
 :EXTENT: 十三卷
+:ZB_ID: ZB1a0168?
 :END:
 
 **** responsible:
