@@ -685,13 +685,13 @@
 :PROPERTIES:
 :lang@ja-rom: Ekan
 :END:
-*** T01n0061 
+*** T01n0061 受新歳經
 :PROPERTIES:
 :CUSTOM_ID: T01n0061
 :lang@ja-rom: JU SHINSAI KYŌ
 :lang@zh-py: (Shou xin sui jing)
 :lang@sk: Pravārañasūtra
-:EXTENT: 受新歳經 I
+:EXTENT: I
 :END:
 [[img:T/T01/08/T01-0858.tif][T01, p.858]]
 **** responsible
@@ -2596,7 +2596,8 @@
 :CUSTOM_ID: T08n0223
 :lang@ja-rom: MAKA HANNYAHARAMITSU KYŌ
 :lang@zh-py: (Mo he ban ruo bo luo mi jing)
-:EXTENT: *Pañcaviṃśatisāhasrikā[mahā] p°p°
+:lang@sk: *Pañcaviṃśatisāhasrikā[mahā] p°p°
+:EXTENT: I
 :END:
 [[img:T/T08/02/T08-0217.tif][T08, p.217]]
 **** responsible
@@ -3061,6 +3062,15 @@
 :lang@ja-rom: Hannya
 :END:
 ** IX 法華 Fa hua, p. 1]]
+*** T09n0262 妙法蓮華經
+:PROPERTIES:
+:CUSTOM_ID: T09n0262
+:lang@ja-rom: MYŌHŌ RENGE KYŌ
+:lang@zh-py: (Miao fa lian  hua jing)
+:lang@sk: *Saddharmapuñḍarīka
+:EXTENT: VII
+:END:
+
 **** responsible
 ***** 鳩摩羅什
 :PROPERTIES:
@@ -3748,7 +3758,8 @@
 :CUSTOM_ID: T11n0316
 :lang@ja-rom: DAIJŌ BOSATSUZŌ SHŌBŌ KYŌ
 :lang@zh-py: (Da cheng pu sa zang zheng fa jing)
-:EXTENT: XL ±Bodhisattvapiṭaka
+:lang@zk: ±Bodhisattvapiṭaka
+:EXTENT: XL 
 :END:
 [[img:T/T11/07/T11-0781.tif][T11, p.781]]
 *** T11n0317 胞胎經
@@ -10253,6 +10264,14 @@
 :lang@ja-rom: Chigon
 :END:
 ** XVIII 密教 Mi jiao, p.1]]
+*** T18n0848 大毘盧遮那成佛神變加持經
+:PROPERTIES:
+:CUSTOM_ID: T18n0848
+:lang@ja-rom: DAIBIRUSHANA JŌBUTSU JIMBEN KAJI KYŌ
+:lang@zh-py: (Da pi lu zhe na cheng fo shen bian jia chi jing)
+:lang@sk: ±Mahāvairocana[abhisambodhivikurvitādhiṣṭhānavaipulya]sūtra
+:EXTENT: VII
+:END:
 **** responsible
 ***** 善無畏
 :PROPERTIES:
@@ -14301,12 +14320,12 @@ EMMEIKONGŌ SAISHŌDARANI KYŌ
 :PROPERTIES:
 :lang@ja-rom: Hōken
 :END:
-*** T20n1141 
+*** T20n1141 慈氏菩薩略修瑜伽念誦法
 :PROPERTIES:
 :CUSTOM_ID: T20n1141
 :lang@ja-rom: JISHIBOSATSU RYAKUSHU YUGA NENJU HŌ
 :lang@zh-py: (Ci shi pu sa lüe xiu yu qie nian song fa)
-:EXTENT: 慈氏菩薩略修瑜伽念誦法 II
+:EXTENT: II
 :END:
 [[img:T/T20/05/T20-0590.tif][T20, p.590]]
 **** responsible
@@ -15621,12 +15640,12 @@ KONGŌNENJU GI
 :PROPERTIES:
 :lang@ja-rom: An.
 :END:
-*** T21n1238 
+*** T21n1238 阿C婆拘鬼神大將上佛陀羅尼經
 :PROPERTIES:
 :CUSTOM_ID: T21n1238
 :lang@ja-rom: ATABAKUKISHINTAISHŌ JŌBUTSU DARANI KYŌ
 :lang@zh-py: (A zha po ju gui shen da jiang shang fo tuo luo ni jing)
-:EXTENT: 阿C婆拘鬼神大將上佛陀羅尼經 1
+:EXTENT:  I
 :END:
 [[img:T/T21/01/T21-0179.tif][T21, p.179]]
 **** responsible
@@ -15634,12 +15653,12 @@ KONGŌNENJU GI
 :PROPERTIES:
 :lang@ja-rom: An.
 :END:
-*** T21n1239 
+*** T21n1239 阿C薄倶元帥大將上佛陀羅尼修行儀軌
 :PROPERTIES:
 :CUSTOM_ID: T21n1239
 :lang@ja-rom: ATABAKUGENSUITAISHŌ JŌBUTSU DARANIKYŌ SHUGYŌ GIKI
 :lang@zh-py: (A zha bo ju yuan shuai da jiang shang fo tuo luo ni jing xiu xing yi gui)
-:EXTENT: 阿C薄倶元帥大將上佛陀羅尼修行儀軌 III
+:EXTENT:  III
 :END:
 [[img:T/T21/01/T21-0187.tif][T21, p.187]]
 **** responsible
@@ -18257,7 +18276,8 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :CUSTOM_ID: T23n1440
 :lang@ja-rom: SAPPATA BINI BIBASHA
 :lang@zh-py: (Sa po duo pi ni pi po sha)
-:EXTENT: IX, Sarvāstivādavinayavibhāṣā? An
+:lang@sk: Sarvāstivādavinayavibhāṣā? An
+:EXTENT: IX, 
 :END:
 [[img:T/T23/05/T23-0503.tif][T23, p.503]]
 *** T23n1441 薩婆多部毘尼摩得勒伽
@@ -25308,12 +25328,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Shūgyō
 :END:
-*** T47n1969B 
+*** T47n1969B 樂邦遺稿
 :PROPERTIES:
 :CUSTOM_ID: T47n1969B
 :lang@ja-rom: RAKUHŌ IKŌ
 :lang@zh-py: (Le bang yi gao)
-:EXTENT: 樂邦遺稿 II
+:EXTENT: II
 :END:
 [[img:T/T47/02/T47-0231.tif][T47, p.231]]
 **** responsible
@@ -28297,12 +28317,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** T57n2205 zuan
+*** T57n2205 華嚴演義鈔纂釋 
 :PROPERTIES:
 :CUSTOM_ID: T57n2205
 :lang@ja-rom: KEGOṄ ENGISHŌ SANSHAKU
-:lang@zh-py: (Hua yan yan yi chao)
-:EXTENT: shi) 華嚴演義鈔纂釋 XXXVIII
+:lang@zh-py: (Hua yan yan yi chao zuan shi)
+:EXTENT: XXXVIII
 :END:
 [[img:T/T57/00/T57-0049.tif][T57, p. 49]]
 **** responsible
@@ -28439,28 +28459,28 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :lang@zh-py: (Da ri jing kai ti)
 :END:
 [[img:T/T58/00/T58-0006.tif][T58, p. 6]]
-*** T58n2211E 
+*** T58n2211E 大日經開題
 :PROPERTIES:
 :CUSTOM_ID: T58n2211E
 :lang@ja-rom: DAINICHIKYŌ KAIDAI
 :lang@zh-py: (Da ri jing kai ti)
-:EXTENT: 大日經開題
+:EXTENT: I
 :END:
 [[img:T/T58/00/T58-0007.tif][T58, p. 7]]
-*** T58n2211F 
+*** T58n2211F 大日經開題
 :PROPERTIES:
 :CUSTOM_ID: T58n2211F
 :lang@ja-rom: DAINICHIKYŌ KAIDAI
 :lang@zh-py: (Da ri jing kai ti)
-:EXTENT: 大日經開題
+:EXTENT: I
 :END:
 [[img:T/T58/00/T58-0010.tif][T58, p. 10]]
-*** T58n2211G 
+*** T58n2211G 大日經開題
 :PROPERTIES:
 :CUSTOM_ID: T58n2211G
 :lang@ja-rom: DAINICHIKYŌ KAIDAI
 :lang@zh-py: (Da ri jing kai ti)
-:EXTENT: 大日經開題
+:EXTENT: I
 :END:
 [[img:T/T58/00/T58-0011.tif][T58, p. 11]]
 *** T58n2212A 大毘盧遮那經指歸
@@ -28497,12 +28517,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Yūban
 :END:
-*** T58n2214 kou
+*** T58n2214 大日經疏妙印鈔口傳
 :PROPERTIES:
 :CUSTOM_ID: T58n2214
 :lang@ja-rom: DAINICHIKYŌSHO MYŌINSHŌ KUDEN
-:lang@zh-py: (Da ri jing shu miao yin chao)
-:EXTENT: zhuan) 大日經疏妙印鈔口傳 X
+:lang@zh-py: (Da ri jing shu miao yin chao kou zhuan)
+:EXTENT: X
 :END:
 [[img:T/T58/06/T58-0639.tif][T58, p.639]]
 **** responsible
@@ -29404,12 +29424,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Jōkei
 :END:
-*** T69n2283 chu)
+*** T69n2283 起信論抄出
 :PROPERTIES:
 :CUSTOM_ID: T69n2283
 :lang@ja-rom: KISHINRON SHŌSHUTSU
-:lang@zh-py: (Qi xin lun chao)
-:EXTENT: 起信論抄出 II
+:lang@zh-py: (Qi xin lun chao chu)
+:EXTENT:  II
 :END:
 [[img:T/T69/05/T69-0535.tif][T69, p.535]]
 **** responsible
@@ -30943,12 +30963,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** T75n2399 liao
+*** T75n2399 三密抄料簡
 :PROPERTIES:
 :CUSTOM_ID: T75n2399
 :lang@ja-rom: SAMMITSUSHŌ RYŌKEN
-:lang@zh-py: (San mi chao)
-:EXTENT: jian) 三密抄料簡 II
+:lang@zh-py: (San mi chao liao jian)
+:EXTENT: II
 :END:
 [[img:T/T75/06/T75-0633.tif][T75, p.633]]
 **** responsible
@@ -31164,12 +31184,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Ryōō
 :END:
-*** T77n2416 遮那業案[var.
+*** T77n2416 遮那業案[var.安]立草
 :PROPERTIES:
 :CUSTOM_ID: T77n2416
 :lang@ja-rom: SHANAGŌ ANRYŪ SŌ
 :lang@zh-py: (Zhe na ye an li cao)
-:EXTENT: 安]立草 XIII
+:EXTENT:  XIII
 :END:
 [[img:T/T77/01/T77-0195.tif][T77, p.195]]
 **** responsible
@@ -31494,12 +31514,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Jippan
 :END:
-*** T77n2440 zhu
+*** T77n2440 大經要義抄注解
 :PROPERTIES:
 :CUSTOM_ID: T77n2440
 :lang@ja-rom: DAIKYŌ YŌGI SHŌ CHŪKAI
-:lang@zh-py: (Da jing yao yi chao)
-:EXTENT: jie) 大經要義抄注解 I
+:lang@zh-py: (Da jing yao yi chao zhu jie)
+:EXTENT:  I
 :END:
 [[img:T/T77/05/T77-0553.tif][T77, p.553]]
 *** T77n2441 祕宗教相鈔
@@ -33022,12 +33042,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :EXTENT: I
 :END:
 [[img:T/T81/06/T81-0619.tif][T81, p.619]]
-*** T81n2578 諸囘[var.
+*** T81n2578 諸囘[var.廻]向清規
 :PROPERTIES:
 :CUSTOM_ID: T81n2578
 :lang@ja-rom: SHOEKŌ SHINGI
 :lang@zh-py: (Zhu hui xiang qing gui)
-:EXTENT: 廻]向清規 V
+:EXTENT:  V
 :END:
 [[img:T/T81/06/T81-0624.tif][T81, p.624]]
 *** T81n2579 小叢林清規
@@ -33405,12 +33425,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Daigen
 :END:
-*** T83n2620 jue
+*** T83n2620 撰擇密要決
 :PROPERTIES:
 :CUSTOM_ID: T83n2620
 :lang@ja-rom: SENCHAKU MITSU YŌKETSU
-:lang@zh-py: (Zhuan ze mi yao)
-:EXTENT: 撰擇密要決 V
+:lang@zh-py: (Zhuan ze mi yao jue)
+:EXTENT: V
 :END:
 [[img:T/T83/03/T83-0329.tif][T83, p.329]]
 **** responsible
@@ -33920,12 +33940,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :EXTENT: II
 :END:
 [[img:T/T83/07/T83-0750.tif][T83, p.750]]
-*** T83n2665 報恩講式[var.
+*** T83n2665 報恩講式[var.私記]
 :PROPERTIES:
 :CUSTOM_ID: T83n2665
 :lang@ja-rom: HŌONKŌ SHIKI
 :lang@zh-py: (Bao en jiang shi)
-:EXTENT: 私記] I
+:EXTENT:  I
 :END:
 [[img:T/T83/07/T83-0755.tif][T83, p.755]]
 *** T83n2666 歎徳文
@@ -34465,12 +34485,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :PROPERTIES:
 :lang@ja-rom: Ryōson
 :END:
-*** T84n2710 　　[var.
+*** T84n2710 　　[var.悉曇]三密鈔
 :PROPERTIES:
 :CUSTOM_ID: T84n2710
 :lang@ja-rom: SHITTAN SAMMITSU SHŌ
 :lang@zh-py: (Xi tan san mi chao)
-:EXTENT: 悉曇]三密鈔 VII
+:EXTENT:  VII
 :END:
 [[img:T/T84/07/T84-0715.tif][T84, p.715]]
 **** responsible
@@ -36484,12 +36504,12 @@ SHOSEN SHOSETSU KIKKYŌJINICHI ZENNAKUSHUKUYŌ KYŌ
 :EXTENT: I
 :END:
 [[img:T/T85/14/T85-1462.tif][T85, p.1462]]
-*** T85n2917B 
+*** T85n2917B 新菩薩經
 :PROPERTIES:
 :CUSTOM_ID: T85n2917B
 :lang@ja-rom: SHIM BOSATSU KYŌ
 :lang@zh-py: (Xin pu sa jing)
-:EXTENT: 新菩薩經 I
+:EXTENT: I
 :END:
 [[img:T/T85/14/T85-1462.tif][T85, p.1462]]
 *** T85n2918 釋家觀化還愚經
