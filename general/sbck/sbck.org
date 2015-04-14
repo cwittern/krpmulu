@@ -777,7 +777,7 @@
 **** 版本
 ***** SBCK
 :PROPERTIES:
-:EDITION:  卷首至第二十九景烏程張氏適園藏述古堂景宋鈔本&nbsp;卷三十至第四十古里瞿氏鐵琴銅劍樓藏宋刊本
+:EDITION:  卷首至第二十九景烏程張氏適園藏述古堂景宋鈔本; 卷三十至第四十古里瞿氏鐵琴銅劍樓藏宋刊本
 :END:
 
 
@@ -11131,6 +11131,7 @@
 :EXTENT: 五十卷
 :BOOK: 0001 - 0008
 :_RESP:    （唐）賈公彥
+:ZB_ID:    SB21n324
 :END:
 
 **** 人物
@@ -11163,6 +11164,7 @@
 :EXTENT: 三十六卷
 :BOOK: 0009 - 0020
 :_RESP:    （唐）孔穎達
+:ZB_ID:    SB21n325
 :END:
 
 **** 人物
@@ -11199,6 +11201,7 @@
 :EXTENT: 十卷
 :BOOK: 0021 - 0022
 :_RESP:    （宋）邢昺
+:ZB_ID:    SB21n326
 :END:
 
 **** 人物
@@ -11225,6 +11228,7 @@
 :EXTENT: 三十三卷
 :BOOK: 0046 - 0055
 :_RESP:    （宋）魏了翁,（民國）張元濟
+:ZB_ID:    SB21n330
 :END:
 
 坿校勘記一卷
@@ -11302,6 +11306,7 @@
 :EXTENT: 六卷
 :BOOK: 0060 - 0062
 :_RESP:    （宋）呂祖謙,（民國）胡文楷
+:ZB_ID:    SB21n332
 :END:
 
 坿校勘記一卷
@@ -11718,6 +11723,7 @@
 :EXTENT: 十二卷
 :BOOK: 0086 - 088
 :_RESP:    （金）孔元措
+:ZB_ID:    SB22n343
 :END:
 
 **** 人物
@@ -12159,6 +12165,7 @@
 :EXTENT: 十卷
 :BOOK: 0310
 :_RESP:    （宋）李元弼
+:ZB_ID:    SB22n350
 :END:
 
 **** 人物
@@ -12221,6 +12228,7 @@
 :EXTENT: 三卷
 :BOOK: 0316
 :_RESP:    （宋）張載,（民國）張元濟
+:ZB_ID:    SB23n352
 :END:
 
 後錄二卷
@@ -12254,6 +12262,7 @@
 :EXTENT: 四卷
 :BOOK: 0317 - 0318
 :_RESP:    （宋）楊時,（民國）張元濟
+:ZB_ID:    SB23n353
 :END:
 
 後錄二卷
@@ -12287,6 +12296,7 @@
 :EXTENT: 三卷
 :BOOK: 0319 - 0320
 :_RESP:    （元）程端禮
+:ZB_ID:    SB23n354
 :END:
 
 綱領一卷
@@ -12418,6 +12428,7 @@
 :EXTENT: 三卷
 :BOOK: 0326 - 0328
 :_RESP:    （元）忽思慧
+:ZB_ID:    SB23n359
 :END:
 
 **** 人物
@@ -12610,6 +12621,7 @@
 :EXTENT: 四卷
 :BOOK: 0351 - 0356
 :_RESP:    （宋）王明淸
+:ZB_ID:    ZB3l0057
 :END:
 
 後錄十一卷
@@ -12643,6 +12655,7 @@
 :EXTENT: 十二卷
 :BOOK: 0357 - 0358
 :_RESP:    （宋）周煇,（民國）張元濟
+:ZB_ID:    ZB3l0062
 :END:
 
 坿校勘記一卷
@@ -12704,6 +12717,7 @@
 :EXTENT: 十卷
 :BOOK: 0363 - 0364
 :_RESP:    （宋）張師正
+:ZB_ID:    SB23n368
 :END:
 
 **** 人物
@@ -12730,6 +12744,7 @@
 :EXTENT: 四卷
 :BOOK: 0362
 :_RESP:    （唐）李復言
+:ZB_ID:    SB23n369
 :END:
 
 **** 人物
@@ -12788,6 +12803,7 @@
 :EXTENT: 二卷
 :BOOK: 0366
 :_RESP:    （唐）宋之問,（民國）張元濟
+:ZB_ID:    SB24n371
 :END:
 
 坿校勘記一卷
@@ -12820,6 +12836,7 @@
 :EXTENT: 三卷
 :BOOK: 0367
 :_RESP:    （唐）鄭谷,（民國）胡文楷
+:ZB_ID:    ZB4b0099
 :END:
 
 卽雲臺編
@@ -12853,6 +12870,7 @@
 :EXTENT: 一卷
 :BOOK: 0368
 :_RESP:    （唐）朱慶餘,（民國）張元濟
+:ZB_ID:    SB24n373
 :END:
 
 坿校勘記一卷
@@ -12885,6 +12903,7 @@
 :EXTENT: 一卷
 :BOOK: 0369
 :_RESP:    （唐）周賀,（民國）張元濟
+:ZB_ID:    SB24n374
 :END:
 
 坿校勘記一卷
@@ -12917,6 +12936,7 @@
 :EXTENT: 二卷
 :BOOK: 0369
 :_RESP:    （南唐）李建勳,（民國）張元濟
+:ZB_ID:    SB24n375
 :END:
 
 坿校勘記一卷
@@ -12949,6 +12969,7 @@
 :EXTENT: 一卷
 :BOOK: 0370 - 0371
 :_RESP:    （宋）釋重顯
+:ZB_ID:    SB24n376
 :END:
 
 拈古一卷
@@ -13011,6 +13032,7 @@
 :EXTENT: 二十卷
 :BOOK: 0380 - 0389
 :_RESP:    （宋）晁說之,（民國）張元濟
+:ZB_ID:    ZB4b0204
 :END:
 
 坿卷三負薪對校勘表一卷
@@ -13296,6 +13318,7 @@
 :EXTENT: 四十卷
 :BOOK: 0431 - 0438
 :_RESP:    （宋）李劉
+:ZB_ID:    ZB4b0417
 :END:
 
 **** 人物
@@ -13328,6 +13351,7 @@
 :EXTENT: 一卷
 :BOOK: 0439
 :_RESP:    
+:ZB_ID:    SB24n387
 :END:
 
 所南翁一百二十圖詩集一卷
@@ -13369,6 +13393,7 @@
 :EXTENT: 十卷
 :BOOK: 0440 - 0441
 :_RESP:    （宋）許月卿
+:ZB_ID:    SB24n388
 :END:
 
 **** 人物
@@ -13395,6 +13420,7 @@
 :EXTENT: 十六卷
 :BOOK: 0442 - 0443
 :_RESP:    （宋）謝枋得
+:ZB_ID:    ZB4b0460
 :END:
 
 **** 人物
@@ -13421,6 +13447,7 @@
 :EXTENT: 三卷
 :BOOK: 0444 - 0445
 :_RESP:    （宋）蕭立
+:ZB_ID:    SB24n390
 :END:
 
 **** 人物
@@ -13472,6 +13499,7 @@
 :EXTENT: 十卷
 :BOOK: 0447 - 0448
 :_RESP:    （元）朱德潤
+:ZB_ID:    SB24n392
 :END:
 
 **** 人物
@@ -13498,6 +13526,7 @@
 :EXTENT: 九卷
 :BOOK: 0449
 :_RESP:    （元）余闕
+:ZB_ID:    ZB4b0614
 :END:
 
 **** 人物
@@ -13523,6 +13552,7 @@
 :EXTENT: 四卷
 :BOOK: 0450
 :_RESP:    （元）張翥
+:ZB_ID:    ZB4b0620
 :END:
 
 **** 人物
@@ -13548,6 +13578,7 @@
 :EXTENT: 七卷
 :BOOK: 0451 - 0452
 :_RESP:    （元）張昱
+:ZB_ID:    SB24n395
 :END:
 
 **** 人物
@@ -13574,6 +13605,7 @@
 :EXTENT: 二十三卷
 :BOOK: 0453 - 0486
 :_RESP:    （淸）彭孫貽
+:ZB_ID:    SB24n396
 :END:
 
 坿明詩九卷
@@ -13633,6 +13665,7 @@
 :EXTENT: 二十卷
 :BOOK: 0487 - 0506
 :_RESP:    （明）郭勛
+:ZB_ID:    SB24n397
 :END:
 
 **** 人物
@@ -13677,6 +13710,7 @@
 :EXTENT: 四卷
 :BOOK: 0507 - 0510
 :_RESP:    （明）張楚叔,（明）張旭初
+:ZB_ID:    SB24n398
 :END:
 
 **** 人物
@@ -13698,18 +13732,20 @@
 :EDITION: 固安劉氏藏崇禎中刊本
 :END:
 
+**** 電子版
+[[krpimg:sbck/SB2/SB24n398/SB24n398_001-002.tif][冊 1]]
+[[krpimg:sbck/SB2/SB24n398/SB24n398_002-002.tif][冊 2]]
+[[krpimg:sbck/SB2/SB24n398/SB24n398_003-002.tif][冊 3]]
+[[krpimg:sbck/SB2/SB24n398/SB24n398_004-002.tif][冊 4]]
+
 # finished check to here. (when?)
 
 * 四部叢刊三編 
   張元濟 撰
  民國二十四年二十五年 
  上海商務印書館 
- 景印本&nbsp;
+ 景印本
  500册 
-[[krpimg:sbck/SB2/SB24n398/SB24n398_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB24n398/SB24n398_002-002.tif][冊 2]]
-[[krpimg:sbck/SB2/SB24n398/SB24n398_003-002.tif][冊 3]]
-[[krpimg:sbck/SB2/SB24n398/SB24n398_004-002.tif][冊 4]]
 ** 經部
 *** SB31n399 尚書正義
 :PROPERTIES:
@@ -13718,6 +13754,7 @@
 :EXTENT: 二十卷
 :BOOK: 0001 - 0008
 :_RESP:    （唐）孔穎達
+:ZB_ID:    SB31n399
 :END:
 
 **** 人物
@@ -13750,6 +13787,7 @@
 :EXTENT: 九卷
 :BOOK: 0009 - 0011
 :_RESP:    （唐）孔穎達
+:ZB_ID:    SB31n400
 :END:
 
 **** 人物
@@ -13838,6 +13876,7 @@
 :EXTENT: 二十卷
 :BOOK: 0016 - 0024
 :_RESP:    （宋）朱熹
+:ZB_ID:    SB31n403
 :END:
 
 **** 人物
@@ -13900,6 +13939,7 @@
 :EXTENT: 三卷
 :BOOK: 0029
 :_RESP:    （宋）張九成
+:ZB_ID:    SB31n405
 :END:
 
 **** 人物
@@ -14064,6 +14104,7 @@
 :EXTENT: 四卷
 :BOOK: 0047 - 0050
 :_RESP:    （宋）章衡
+:ZB_ID:    SB32n410
 :END:
 
 **** 人物
@@ -14092,6 +14133,7 @@
 :EXTENT: 二十卷
 :BOOK: 0051 - 0054
 :_RESP:    （宋）錢若水
+:ZB_ID:    SB32n411
 :END:
 
 **** 人物
@@ -14113,13 +14155,14 @@
 [[krpimg:sbck/SB3/SB32n411/SB32n411_002-002.tif][冊 2]]
 [[krpimg:sbck/SB3/SB32n411/SB32n411_003-002.tif][冊 3]]
 [[krpimg:sbck/SB3/SB32n411/SB32n411_004-002.tif][冊 4]]
-*** ?SB32n412 元朝秘史
+*** SB32n412 元朝秘史
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n412
 :EXTENT: 十卷
 :BOOK: 0055 - 0064
 :_RESP:    （元）闕名
+:ZB_ID:    SB32n412
 :END:
 
 續集二卷
@@ -14148,13 +14191,14 @@
 [[krpimg:sbck/SB3/SB32n412/SB32n412_008-002.tif][冊 8]]
 [[krpimg:sbck/SB3/SB32n412/SB32n412_009-002.tif][冊 9]]
 [[krpimg:sbck/SB3/SB32n412/SB32n412_010-002.tif][冊 10]]
-*** ?SB32n413 明史鈔略殘
+*** SB32n413 明史鈔略殘
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n413
 :EXTENT: 七卷
 :BOOK: 0065 - 0067
 :_RESP:    （明）莊廷鑨
+:ZB_ID:    SB32n413
 :END:
 
 **** 人物
@@ -14175,13 +14219,14 @@
 [[krpimg:sbck/SB3/SB32n413/SB32n413_001-002.tif][冊 1]]
 [[krpimg:sbck/SB3/SB32n413/SB32n413_002-002.tif][冊 2]]
 [[krpimg:sbck/SB3/SB32n413/SB32n413_003-002.tif][冊 3]]
-*** ?SB32n414 罪惟錄
+*** SB32n414 罪惟錄
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n414
 :EXTENT: 九十卷
 :BOOK: 0068 - 0127
 :_RESP:    （明）查繼佐
+:ZB_ID:    SB32n414
 :END:
 
 **** 人物
@@ -14259,9 +14304,11 @@
 [[krpimg:sbck/SB3/SB32n414/SB32n414_058-002.tif][冊 58]]
 [[krpimg:sbck/SB3/SB32n414/SB32n414_059-002.tif][冊 59]]
 [[krpimg:sbck/SB3/SB32n414/SB32n414_060-002.tif][冊 60]]
-*** ?SB32n415 東山國語不分卷
+*** SB32n415 東山國語
     :PROPERTIES:
     :_RESP:    （明）查繼佐,（明）沈仲方
+    :EXTENT: 不分卷
+    :ZB_ID:    SB32n415
     :END:
 **** 人物
 ***** 查繼佐
@@ -14346,9 +14393,11 @@
 
 **** 电子版
 [[krpimg:sbck/SB3/SB32n417/SB32n417_001-002.tif][冊 1]]
-*** ?SB32n418 天下郡國利病書不分卷
+*** SB32n418 天下郡國利病書
     :PROPERTIES:
     :_RESP:    （淸）顧炎武,（淸）錢邦彥
+    :EXTENT:   不分卷
+    :ZB_ID:    SB32n418
     :END:
 坿顧亭林先生年譜一卷
 **** 人物
@@ -14457,13 +14506,14 @@
 **** 电子版
 [[krpimg:sbck/SB3/SB32n419/SB32n419_001-002.tif][冊 1]]
 [[krpimg:sbck/SB3/SB32n419/SB32n419_002-002.tif][冊 2]]
-*** ?SB32n420 爲政忠告
+*** SB32n420 爲政忠告
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n420
 :EXTENT: 四卷
 :BOOK: 0185
 :_RESP:    （元）張養浩
+:ZB_ID:    ZB2l0020
 :END:
 
 **** 人物
@@ -14539,13 +14589,14 @@
 [[krpimg:sbck/SB3/SB32n421/SB32n421_010-002.tif][冊 10]]
 [[krpimg:sbck/SB3/SB32n421/SB32n421_011-002.tif][冊 11]]
 [[krpimg:sbck/SB3/SB32n421/SB32n421_012-002.tif][冊 12]]
-*** ?SB32n422 昭德先生邵齋讀書志
+*** SB32n422 昭德先生邵齋讀書志
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n422
 :EXTENT: 四卷
 :BOOK: 0198 - 0205
 :_RESP:    （宋）晁公武,（宋）趙希弁
+:ZB_ID:    ZB2n0002
 :END:
 
 後志二卷
@@ -14709,13 +14760,14 @@
 [[krpimg:sbck/SB3/SB33n426/SB33n426_001-002.tif][冊 1]]
 [[krpimg:sbck/SB3/SB33n426/SB33n426_002-002.tif][冊 2]]
 [[krpimg:sbck/SB3/SB33n426/SB33n426_003-002.tif][冊 3]]
-*** ?SB33n427 圖畫攷
+*** SB33n427 圖畫攷
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB33n427
 :EXTENT: 七卷
 :BOOK: 0222
 :_RESP:    （元）盛熙明
+:ZB_ID:    SB33n427
 :END:
 
 **** 人物
@@ -14800,13 +14852,14 @@
 
 **** 电子版
 [[krpimg:sbck/SB3/SB33n429/SB33n429_001-002.tif][冊 1]]
-*** ?SB33n430 困學紀聞
+*** SB33n430 困學紀聞
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB33n430
 :EXTENT: 二十卷
 :BOOK: 0225 - 0230
 :_RESP:    （宋）王應麟
+:ZB_ID:    ZB3j0055
 :END:
 
 **** 人物
@@ -15053,13 +15106,14 @@
 
 **** 电子版
 [[krpimg:sbck/SB3/SB33n433/SB33n433_001-002.tif][冊 1]]
-*** ?SB33n434 丞相魏公譚訓
+*** SB33n434 丞相魏公譚訓
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB33n434
 :EXTENT: 十卷
 :BOOK: 0371
 :_RESP:    （宋）蘇象先,（民國）張元濟
+:ZB_ID:    SB33n434
 :END:
 
 坿校勘記一卷
@@ -15171,6 +15225,7 @@
 :EXTENT: 三卷
 :BOOK: 0390
 :_RESP:    
+:ZB_ID:    ZB5c0048
 :END:
 
 坿校勘記一卷
@@ -15197,6 +15252,7 @@
 :EXTENT: 十二卷
 :BOOK: 0391 - 0392
 :_RESP:    （唐）徐靈府,（民國）張元濟
+:ZB_ID:    ZB5c0132
 :END:
 
 坿校勘記一卷
@@ -15268,6 +15324,7 @@
 :EXTENT: 七卷
 :BOOK: 0394 - 0395
 :_RESP:    （唐）皇甫冉,（唐）皇甫曾,（民國）張元濟
+:ZB_ID:    SB34n440
 :END:
 
 唐皇甫曾詩集一卷
@@ -15309,6 +15366,7 @@
 :EXTENT: 一卷
 :BOOK: 0396
 :_RESP:    （唐）李頻
+:ZB_ID:    ZB4b0091
 :END:
 
 附錄一卷
@@ -15336,6 +15394,7 @@
 :EXTENT: 三卷
 :BOOK: 0397
 :_RESP:    （唐）胡曾,（□）陳蓋,（□）米崇吉
+:ZB_ID:    ZB4b0098
 :END:
 
 **** 人物
@@ -15373,6 +15432,7 @@
 :EXTENT: 十卷
 :BOOK: 0398 - 0399
 :_RESP:    （唐）徐夤,（民國）張元濟
+:ZB_ID:    SB34n443
 :END:
 
 補一卷
@@ -15407,6 +15467,7 @@
 :EXTENT: 三卷
 :BOOK: 0400
 :_RESP:    （宋）寇準,（民國）張元濟
+:ZB_ID:    ZB4b0117
 :END:
 
 坿校勘記一卷
@@ -15506,6 +15567,7 @@
 :EXTENT: 六十一卷
 :BOOK: 0410 - 0417
 :_RESP:    （宋）闕名
+:ZB_ID:    SB34n447
 :END:
 
 **** 人物
@@ -15609,6 +15671,7 @@
 :EXTENT: 五卷
 :BOOK: 0432
 :_RESP:    （宋）王灼
+:ZB_ID:    SB34n450
 :END:
 
 **** 人物
@@ -15698,6 +15761,7 @@
 :EXTENT: 五卷
 :BOOK: 0440 - 0441
 :_RESP:    （宋）黃仲元
+:ZB_ID:    ZB4b0486
 :END:
 
 **** 人物
@@ -15847,6 +15911,7 @@
 :EXTENT: 八卷
 :BOOK: 0467 - 0468
 :_RESP:    （元）邵亭貞
+:ZB_ID:    SB34n457
 :END:
 
 詞選四卷
@@ -15880,6 +15945,7 @@
 :EXTENT: 五卷
 :BOOK: 0469 - 0472
 :_RESP:    （明）謝肅
+:ZB_ID:    ZB4b0701
 :END:
 
 文藁五卷
@@ -15939,6 +16005,7 @@
 :EXTENT: 六卷
 :BOOK: 0477 - 0478
 :_RESP:    （明）張雨
+:ZB_ID:    SB34n460
 :END:
 
 **** 人物
@@ -16052,6 +16119,7 @@
 :EXTENT: 二十卷
 :BOOK: 0490 - 0497
 :_RESP:    （明）徐枋,（民國）王大隆
+:ZB_ID:    SB34n464
 :END:
 
 集外詩文一卷
@@ -16147,6 +16215,7 @@
 :EXTENT: 三卷
 :BOOK: 0499
 :_RESP:    （宋）黃庭堅,（民國）張元濟
+:ZB_ID:    SB34n466
 :END:
 
 坿校勘記一卷
@@ -16179,6 +16248,7 @@
 :EXTENT: 二卷
 :BOOK: 0500
 :_RESP:    （宋）趙以夫
+:ZB_ID:    SB34n467
 :END:
 
 **** 人物
@@ -16204,6 +16274,7 @@
 :EXTENT: 三卷
 :BOOK: 0501
 :_RESP:    （元）闕名,（民國）盧前
+:ZB_ID:    SB34n468
 :END:
 
 坿校記一卷
