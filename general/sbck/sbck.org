@@ -1,5 +1,5 @@
 #+TITLE: 四部叢刊
-#+COLUMNS: %30ITEM %10EXTENT %ZB_ID %30_RESP
+#+COLUMNS: %30ITEM %10EXTENT %ZB_ID %50_RESP
 # +LINK: krpimg file:/Volumes/scaled/%s
 # +LINK: krpimg file:/Volumes/Jlite2/%s
 #+LINK: krpimg file:/Users/Shared/md-new/x850/g/%s
@@ -22,11 +22,14 @@
 :CUSTOM_ID: SB11n001
 :EXTENT: 九卷
 :BOOK: 0001 - 0002
-:ZB_ID: H15-23-0084
+:ZB_ID: ZB1a0005
 :_RESP:    （魏）王弼,（晉）韓康伯,（魏）王弼,（唐）邢璹
 :END:
 
-坿略例一卷
+**** 坿略例
+     :PROPERTIES:
+     :EXTENT:   一卷
+     :END:
 **** 人物
 
 ***** 王弼
@@ -69,7 +72,7 @@
 :CUSTOM_ID: SB11n002
 :EXTENT: 十三卷
 :BOOK: 0003 - 0004
-:ZB_ID: ZB1a0168?
+:ZB_ID:    SB11n002
 :_RESP:    （漢）孔安國,（唐）陸德明
 :END:
 
@@ -102,7 +105,7 @@
 :CUSTOM_ID: SB11n003
 :EXTENT: 二十卷
 :BOOK: 0005 - 0008
-:ZB_ID:    H15-27-0095
+:ZB_ID:    SB11n003
 :_RESP:    （漢）毛亨,（漢）鄭玄,（唐）陸德明
 :END:
 
@@ -143,7 +146,7 @@
 :CUSTOM_ID: SB11n004
 :EXTENT: 十二卷
 :BOOK: 0009 - 0014
-:ZB_ID:    H15-26-0092
+:ZB_ID:    SB11n004
 :_RESP:    （漢）鄭玄,（唐）陸德明
 :END:
 
@@ -180,7 +183,7 @@
 :CUSTOM_ID: SB11n005
 :EXTENT: 十七卷
 :BOOK: 0015 - 0019
-:ZB_ID:    H15-26-0091
+:ZB_ID:    SB11n005
 :_RESP:    （漢）鄭玄
 :END:
 
@@ -324,7 +327,7 @@
 :CUSTOM_ID: SB11n009
 :EXTENT: 十二卷
 :BOOK: 0034 - 0035
-:ZB_ID:    H15-24-0087
+:ZB_ID:    SB11n009
 :_RESP:    （晉）范甯,（唐）陸德明
 :END:
 
@@ -357,7 +360,7 @@
 :CUSTOM_ID: SB11n010
 :EXTENT: 一卷
 :BOOK: 0036
-:ZB_ID:    H15-22-0082
+:ZB_ID:    SB11n010
 :_RESP:    （唐）玄宗明皇帝
 :END:
 
@@ -383,7 +386,7 @@
 :CUSTOM_ID: SB11n011
 :EXTENT: 十卷
 :BOOK: 0037 - 0038
-:ZB_ID:    H15-21-0081
+:ZB_ID:    SB11n011
 :_RESP:    （魏）何晏
 :END:
 
@@ -410,7 +413,7 @@
 :CUSTOM_ID: SB11n012
 :EXTENT: 十四卷
 :BOOK: 0039 - 0041
-:ZB_ID:    H15-21-0080
+:ZB_ID:    SB11n012
 :_RESP:    （漢）趙岐
 :END:
 
@@ -439,7 +442,7 @@
 :CUSTOM_ID: SB11n013
 :EXTENT: 三卷
 :BOOK: 0042
-:ZB_ID:    H16-28-0100
+:ZB_ID:    SB11n013
 :_RESP:    （晉）郭璞,（□）闕名
 :END:
 
@@ -847,6 +850,7 @@
 [[krpimg:sbck/SB1/SB11n025/SB11n025_003-002.tif][冊 3]]
 [[krpimg:sbck/SB1/SB11n025/SB11n025_004-002.tif][冊 4]]
 [[krpimg:sbck/SB1/SB11n025/SB11n025_005-002.tif][冊 5]]
+
 ** 史部
 *** SB12n026 竹書紀年
 :PROPERTIES:
@@ -3441,7 +3445,7 @@
 :CUSTOM_ID: SB13n104
 :EXTENT: 二卷
 :BOOK: 0532
-:ZB_ID:    H11-06-0032
+:ZB_ID:    ZB5c0064
 :_RESP:    （漢）河上公
 :END:
 
@@ -3626,7 +3630,7 @@
 :CUSTOM_ID: SB14n109
 :EXTENT: 十七卷
 :BOOK: 0577 - 0581
-:ZB_ID:    H12-10-0047
+:ZB_ID:    ZB4a0001
 :_RESP:    （漢）王逸,（宋）洪興祖
 :END:
 
@@ -5041,7 +5045,7 @@
 
 **** 电子版
 [[krpimg:sbck/SB1/SB14n154/SB14n154_001-002.tif][冊 1]]
-*** SB14n155 歌詩編
+*** SB14n155 李賀歌詩編
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n155
@@ -6453,42 +6457,58 @@
 
 
 **** 电子版
+/ SB04n0359 001歐阳文忠公文集崇文總目敍釋
 [[krpimg:sbck/SB1/SB14n199/SB14n199_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_014-002.tif][冊 14]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_015-002.tif][冊 15]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_016-002.tif][冊 16]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_017-002.tif][冊 17]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_018-002.tif][冊 18]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_019-002.tif][冊 19]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_020-002.tif][冊 20]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_021-002.tif][冊 21]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_022-002.tif][冊 22]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_023-002.tif][冊 23]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_024-002.tif][冊 24]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_025-002.tif][冊 25]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_026-002.tif][冊 26]]
+/ SB04n0360 000歐阳文忠公文集廬陵歐陽文忠公年譜
+[[krpimg:sbck/SB1/SB14n199/SB14n199_001-046.tif][年譜]]
+SB04n0358 000歐阳文忠公文集居士集
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_002-002.tif][冊 2]]
+7 [[krpimg:sbck/SB1/SB14n199/SB14n199_003-002.tif][冊 3]]
+12 [[krpimg:sbck/SB1/SB14n199/SB14n199_004-002.tif][冊 4]]
+17 [[krpimg:sbck/SB1/SB14n199/SB14n199_005-002.tif][冊 5]]
+22 [[krpimg:sbck/SB1/SB14n199/SB14n199_006-002.tif][冊 6]]
+28 [[krpimg:sbck/SB1/SB14n199/SB14n199_007-002.tif][冊 7]]
+33 [[krpimg:sbck/SB1/SB14n199/SB14n199_008-002.tif][冊 8]]
+39 [[krpimg:sbck/SB1/SB14n199/SB14n199_009-002.tif][冊 9]]
+45 [[krpimg:sbck/SB1/SB14n199/SB14n199_010-002.tif][冊 10]]
+/ SB04n0355 000歐阳文忠公文集外集 目錄
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_011-002.tif][冊 11]]
+4 [[krpimg:sbck/SB1/SB14n199/SB14n199_012-002.tif][冊 12]]
+9 [[krpimg:sbck/SB1/SB14n199/SB14n199_013-002.tif][冊 13]]
+13 [[krpimg:sbck/SB1/SB14n199/SB14n199_014-002.tif][冊 14]]
+17 [[krpimg:sbck/SB1/SB14n199/SB14n199_015-002.tif][冊 15]]
+22 [[krpimg:sbck/SB1/SB14n199/SB14n199_016-002.tif][冊 16]]
+/ SB04n0361 001歐阳文忠公文集易童子問
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_017-002.tif][冊 17]]
+/ SB04n0353 000歐阳文忠公文集内制集
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_018-002.tif][冊 18]]
+5 [[krpimg:sbck/SB1/SB14n199/SB14n199_019-002.tif][冊 19]]
+/ SB04n0368 001歐阳文忠公文集表奏書啓四六集
+2 [[krpimg:sbck/SB1/SB14n199/SB14n199_020-002.tif][冊 20]]
+5 [[krpimg:sbck/SB1/SB14n199/SB14n199_021-002.tif][冊 21]]
+/ SB04n0357 001歐阳文忠公文集奏議
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_022-002.tif][冊 22]]
+7 [[krpimg:sbck/SB1/SB14n199/SB14n199_023-002.tif][冊 23]]
+13 [[krpimg:sbck/SB1/SB14n199/SB14n199_024-002.tif][冊 24]]
+17 [[krpimg:sbck/SB1/SB14n199/SB14n199_025-002.tif][冊 25]]
+/ SB04n0364 000歐阳文忠公文集河北奉使奉草
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_026-002.tif][冊 26]]
+/ SB04n0356 001歐阳文忠公文集奏事錄
 [[krpimg:sbck/SB1/SB14n199/SB14n199_027-002.tif][冊 27]]
+/ SB04n0352 001歐阳文忠公文集于役志
 [[krpimg:sbck/SB1/SB14n199/SB14n199_028-002.tif][冊 28]]
+/ SB04n0367 001歐阳文忠公文集筆說
 [[krpimg:sbck/SB1/SB14n199/SB14n199_029-002.tif][冊 29]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_030-002.tif][冊 30]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_031-002.tif][冊 31]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_032-002.tif][冊 32]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_033-002.tif][冊 33]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_034-002.tif][冊 34]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_035-002.tif][冊 35]]
-[[krpimg:sbck/SB1/SB14n199/SB14n199_036-002.tif][冊 36]]
+/ SB04n0373 000歐阳文忠公文集集古錄跋尾
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_030-002.tif][冊 30]]
+4 [[krpimg:sbck/SB1/SB14n199/SB14n199_031-002.tif][冊 31]]
+7 [[krpimg:sbck/SB1/SB14n199/SB14n199_032-002.tif][冊 32]]
+/ SB04n0362 001歐阳文忠公文集書簡
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_033-002.tif][冊 33]]
+4 [[krpimg:sbck/SB1/SB14n199/SB14n199_034-002.tif][冊 34]]
+7 [[krpimg:sbck/SB1/SB14n199/SB14n199_035-002.tif][冊 35]]
+/ SB04n0372 001歐阳文忠公文集附錄
+1 [[krpimg:sbck/SB1/SB14n199/SB14n199_036-002.tif][冊 36]]
 *** SB14n200 嘉祐集
 :PROPERTIES:
 :TYPE:  text
@@ -8660,7 +8680,7 @@
 [[krpimg:sbck/SB1/SB14n257/SB14n257_008-002.tif][冊 8]]
 [[krpimg:sbck/SB1/SB14n257/SB14n257_009-002.tif][冊 9]]
 [[krpimg:sbck/SB1/SB14n257/SB14n257_010-002.tif][冊 10]]
-**   
+
 *** SB14n258 淸江貝先生文集
 :PROPERTIES:
 :TYPE:  text
@@ -8731,7 +8751,7 @@
 :EXTENT: 十八卷
 :BOOK: 1537 - 1542
 :_RESP:    （明）高啓
-:ZB_ID:    SB14n260SB14n260
+:ZB_ID:    SB14n260
 :END:
 
 **** 人物
@@ -15286,6 +15306,7 @@
 :EXTENT: 五卷
 :BOOK: 0393
 :_RESP:    （唐）王士元,（宋）何粲,（民國）張元濟
+:ZB_ID:    SB33n439
 :END:
 
 坿校勘記一卷
@@ -16296,5 +16317,5 @@
 :PROPERTIES:
 :EDITION: 常熟瞿氏鐵琴銅劍樓藏元刊本
 :END:
-
-
+**** 电子版
+[[krpimg:sbck/SB3/SB34n468/SB34n468_001-002.tif][冊 1]]
