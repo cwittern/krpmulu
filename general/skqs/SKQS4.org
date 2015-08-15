@@ -653,7 +653,7 @@
 :TYPE:  text
 :ZB_ID:  ZB4b0015
 :CUSTOM_ID: S4b2204
-:SOURCE:   四庫全書 文淵閣版, V1064.2, p279
+:SOURCE:   四庫全書 文淵閣版, V1064.2, p297
 :EXTENT: 16 卷
 :BOOK:   14
 :END:
@@ -14058,6 +14058,7 @@
 *** 梅溪集
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S4b2520
 :ZB_ID:  ZB4b0332
 :SOURCE:   四庫全書 文淵閣版, V1151.2, p45
 :EXTENT: 54 卷
@@ -17916,12 +17917,12 @@
       :BOOK:   (5)
       :END:
 
-# *** [[mandoku:S4b0429.org][S4b0429]] 清正存稿年譜
+*** [[mandoku:S4b0429.org][S4b0429]] 清正存稿年譜
 :PROPERTIES:
-:TYPE:  text
+:TYPE:  text?
 :ZB_ID:  ZB4b0429
-:CUSTOM_ID: S4b2617
-:SOURCE:   四庫全書 文淵閣版
+:CUSTOM_ID: S4b2618
+:SOURCE:   四庫全書 文淵閣版, V1178.11, p1000
 :DYNASTY: 宋
 :RESP: 陳公昉
 :END:
@@ -39552,10 +39553,10 @@
 
 # *** [[mandoku:S4b0963.org][S4b0963]] 宋文鑑
 :PROPERTIES:
-:TYPE:  text
+:TYPE:  text?
 :ZB_ID:  ZB4b0963
-:CUSTOM_ID: S4b3151
-:SOURCE:   四庫全書 文淵閣版
+:CUSTOM_ID: S4b3151a
+:SOURCE:   四庫全書 文淵閣版, V1328.3, p1000
 :DYNASTY: 宋
 :RESP: 呂祖謙
 :END:
@@ -41450,6 +41451,8 @@
 *** 宋文鑑
 :PROPERTIES:
 :SOURCE:   四庫全書 文淵閣版, V1350.1, p1 - V1351.1
+:ZB_ID:  ZB4c0037a
+:CUSTOM_ID: S4c3188a
 :EXTENT: 150 卷
 :BOOK:   68
 :END:
@@ -50116,6 +50119,7 @@
 *** 文心雕龍
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S4d3316
 :ZB_ID:  ZB4d0001
 :SOURCE:   四庫全書 文淵閣版, V1478.1, p1
 :EXTENT: 10 卷
@@ -53087,12 +53091,12 @@
       :BOOK:   (4)
       :END:
 
-# *** [[mandoku:S4e0049a.org][S4e0049a]] 樂府指迷
+*** 樂府指迷
 :PROPERTIES:
-:TYPE:  text
+:TYPE:  text?
 :ZB_ID:  ZB4e0049a
 :CUSTOM_ID: S4e3416
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1488.20, p500
 :DYNASTY: 
 :RESP: 
 :END:
@@ -54390,6 +54394,7 @@
 [[ia:06070430][中原音韻·卷下]]
 *** 欽定四庫全書考證
 :PROPERTIES:
+:CUSTOM_ID: S0a3445
 :SOURCE:   四庫全書 文淵閣版, V1497.1, p1 - V1500.1
 :EXTENT: 100 卷
 :BOOK:   72

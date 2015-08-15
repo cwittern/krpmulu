@@ -2249,7 +2249,7 @@
 :TYPE:  text
 :ZB_ID:  ZB1a0059
 :CUSTOM_ID: S1a0061
-:SOURCE:   四庫全書 文淵閣版, V19.4, p579
+:SOURCE:   四庫全書 文淵閣版, V19.4, p573
 :EXTENT: 21 卷
 :BOOK:   6
 :END:
@@ -5832,6 +5832,7 @@
 *** 易翼宗
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S1a0148a
 :ZB_ID:  ZB1a0146a
 :SOURCE:   四庫全書 文淵閣版, V49.3, p287
 :EXTENT: 6 卷
@@ -5859,6 +5860,7 @@
 *** 易翼說
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S1a0148b
 :ZB_ID:  ZB1a0146b
 :SOURCE:   四庫全書 文淵閣版, V49.4, p471
 :EXTENT: 8 卷
@@ -6986,7 +6988,7 @@
 :CUSTOM_ID: S1b0178
 :SOURCE:   四庫全書 文淵閣版, V57.1, p1
 :EXTENT: 26 卷
-:BOOK:   18
+:BOOK:   4
 :END:
 **** 人物
 ***** 傅寅
@@ -29836,7 +29838,7 @@
 :TYPE:  text
 :ZB_ID:  ZB1j0082
 :CUSTOM_ID: S1j0694
-:SOURCE:   四庫全書 文淵閣版, V242.4, p438
+:SOURCE:   四庫全書 文淵閣版, V242.4, p483
 :EXTENT: 4 卷
 :BOOK:   2
 :END:

@@ -834,7 +834,7 @@
 :TYPE:  text
 :ZB_ID:  ZB3a0024
 :CUSTOM_ID: S3a1287
-:SOURCE:   四庫全書 文淵閣版, V697.4, p75
+:SOURCE:   四庫全書 文淵閣版, V697.4, p77
 :EXTENT: 14 卷
 :BOOK:   10
 :END:
@@ -880,7 +880,7 @@
 :TYPE:  text
 :ZB_ID:  ZB3a0025
 :CUSTOM_ID: S3a1288
-:SOURCE:   四庫全書 文淵閣版, V697.5, p333
+:SOURCE:   四庫全書 文淵閣版, V697.5, p335
 :EXTENT: 2 卷
 :BOOK:   2
 :END:
@@ -909,7 +909,7 @@
 :TYPE:  text
 :ZB_ID:  ZB3a0026
 :CUSTOM_ID: S3a1289
-:SOURCE:   四庫全書 文淵閣版, V697.6, p411
+:SOURCE:   四庫全書 文淵閣版, V697.6, p413
 :EXTENT: 17 卷
 :BOOK:   10
 :END:
@@ -14861,7 +14861,7 @@ no match!! : *** 前集
 :TYPE:  text
 :ZB_ID:  ZB3g0047
 :CUSTOM_ID: S3g1615
-:SOURCE:   四庫全書 文淵閣版, V810.5, p813
+:SOURCE:   四庫全書 文淵閣版, V810.5, p823
 :EXTENT: 2 卷
 :BOOK:   2
 :END:
@@ -23781,7 +23781,7 @@ no match!! : *** 前集
 :TYPE:  text
 :ZB_ID:  ZB3j0121
 :CUSTOM_ID: S3j1875
-:SOURCE:   四庫全書 文淵閣版, V864.11, p789
+:SOURCE:   四庫全書 文淵閣版, V864.11, p769
 :EXTENT: 3 卷
 :BOOK:   1
 :END:

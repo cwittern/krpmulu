@@ -11497,7 +11497,7 @@
 :TYPE:  text
 :ZB_ID:  ZB2e0021
 :CUSTOM_ID: S2e0833
-:SOURCE:   四庫全書 文淵閣版, V410.1, p1
+:SOURCE:   四庫全書 文淵閣版, V410.2, p529
 :EXTENT: 2 卷
 :BOOK:   1
 :END:
@@ -18510,12 +18510,12 @@
       :FUNCTION: 撰
       :END:
 
-# *** 四明續志
+*** 四明續志
 :PROPERTIES:
-:TYPE:  text
+:TYPE:  text?
 :ZB_ID:  ZB2k0020
 :CUSTOM_ID: S2k0980
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V487.1, p100
 :DYNASTY: 宋
 :RESP: 梅應發
 :END:
@@ -18524,7 +18524,7 @@
 **** 版本
 ***** WYG
 **** 电子版
-
+     
 ***** 文瀾閣
 [[krpimg:wlg/62/62665/06062665-003.tif][巻 001]] ++ [[krpimg:wlg/62/62665/06062665-003.tif][巻 002]] 
 [[krpimg:wlg/62/62666/06062666-003.tif][巻 003]] ++ [[krpimg:wlg/62/62666/06062666-003.tif][巻 004]] 
