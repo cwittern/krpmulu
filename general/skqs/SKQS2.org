@@ -4756,6 +4756,7 @@
 *** 資治通鑑釋例
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S2b0741a
 :ZB_ID:  ZB2b0008a
 :SOURCE:   四庫全書 文淵閣版, V311.2, p317
 :EXTENT: 1 卷

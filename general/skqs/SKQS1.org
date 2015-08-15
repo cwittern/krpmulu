@@ -11041,6 +11041,7 @@
 *** 詩札
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S1c0274a
 :ZB_ID:  ZB1c0045a
 :SOURCE:   四庫全書 文淵閣版, V86.3, p213
 :EXTENT: 2 卷
@@ -27889,6 +27890,8 @@
 [[krpimg:WYG/WYG0228/WYG0228-0075a.png][景印版, V228, p75]]
 *** 六書正譌
 :PROPERTIES:
+:CUSTOM_ID: S1j0649a
+:ZB_ID:  ZB1j0037a
 :SOURCE:   四庫全書 文淵閣版, V228.4, p106
 :EXTENT: 5 卷
 :BOOK:   2

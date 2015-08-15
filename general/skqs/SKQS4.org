@@ -14058,7 +14058,7 @@
 *** 梅溪集
 :PROPERTIES:
 :TYPE:  text
-:CUSTOM_ID: S4b2520
+:CUSTOM_ID: S4b2521
 :ZB_ID:  ZB4b0332
 :SOURCE:   四庫全書 文淵閣版, V1151.2, p45
 :EXTENT: 54 卷
@@ -16671,6 +16671,7 @@
 *** 二薇亭詩集
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S4b2582a
 :ZB_ID:  ZB4b0393a
 :SOURCE:   四庫全書 文淵閣版, V1171.3, p159
 :EXTENT: 1 卷
@@ -16714,6 +16715,7 @@
 *** 清苑齋詩集
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S4b2583a
 :ZB_ID:  ZB4b0394a
 :SOURCE:   四庫全書 文淵閣版, V1171.5, p189
 :EXTENT: 1 卷
@@ -39551,7 +39553,7 @@
       :BOOK:   (6)
       :END:
 
-# *** [[mandoku:S4b0963.org][S4b0963]] 宋文鑑
+*** [[mandoku:S4b0963.org][S4b0963]] 宋文鑑
 :PROPERTIES:
 :TYPE:  text?
 :ZB_ID:  ZB4b0963
@@ -40715,6 +40717,7 @@
 :PROPERTIES:
 :TYPE:  text
 :ZB_ID:  ZB4c0021a
+:CUSTOM_ID: S4c3172a
 :SOURCE:   四庫全書 文淵閣版, V1342.2, p733
 :EXTENT: 10 卷
 :BOOK:   4
@@ -41451,8 +41454,8 @@
 *** 宋文鑑
 :PROPERTIES:
 :SOURCE:   四庫全書 文淵閣版, V1350.1, p1 - V1351.1
-:ZB_ID:  ZB4c0037a
-:CUSTOM_ID: S4c3188a
+:ZB_ID:  ZB4c0038_0
+:CUSTOM_ID: S4c3189
 :EXTENT: 150 卷
 :BOOK:   68
 :END:
@@ -41948,6 +41951,7 @@
 :PROPERTIES:
 :TYPE:  text
 :ZB_ID:  ZB4c0043a
+:CUSTOM_ID: S4c3195a
 :SOURCE:   四庫全書 文淵閣版, V1356.1, p1
 :EXTENT: 20 卷
 :BOOK:   16
@@ -44532,7 +44536,7 @@
 :TYPE:  text
 :ZB_ID:  ZB4c0102
 :CUSTOM_ID: S4c3254
-:SOURCE:   四庫全書 文淵閣版, V1377.3, p79 - V1378.1
+:SOURCE:   四庫全書 文淵閣版, V1377.3, p101 - V1378.1
 :EXTENT: 64 卷
 :BOOK:   46
 :END:
@@ -51653,6 +51657,7 @@
 *** 師友詩傳錄
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S4d3372a
 :ZB_ID:  ZB4d0057a
 :SOURCE:   四庫全書 文淵閣版, V1483.4, p881
 :EXTENT: 1 卷
@@ -52193,6 +52198,8 @@
 [[krpimg:WYG/WYG1487/WYG1487-0281a.png][景印版, V1487, p281]]
 *** 溪堂詞
 :PROPERTIES:
+:ZB_ID:  ZB4e0011a
+:CUSTOM_ID: S4e3387a
 :SOURCE:   四庫全書 文淵閣版, V1487.12, p297
 :EXTENT: 1 卷
 :BOOK:   (1)
@@ -54031,6 +54038,8 @@
 [[krpimg:WYG/WYG1494/WYG1494-0505a.png][景印版, V1494, p505]]
 *** 沈氏樂府指迷
 :PROPERTIES:
+:ZB_ID:  ZB4e0071a
+:CUSTOM_ID: S4e3436a
 :SOURCE:   四庫全書 文淵閣版, V1494.3, p527
 :EXTENT: 1 卷
 :BOOK:   (1)
@@ -54394,6 +54403,7 @@
 [[ia:06070430][中原音韻·卷下]]
 *** 欽定四庫全書考證
 :PROPERTIES:
+:ZB_ID:  ZB4e0080
 :CUSTOM_ID: S0a3445
 :SOURCE:   四庫全書 文淵閣版, V1497.1, p1 - V1500.1
 :EXTENT: 100 卷

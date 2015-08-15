@@ -781,6 +781,7 @@
 *** 西銘述解
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3a0022a
 :ZB_ID:  ZB3a0022a
 :SOURCE:   四庫全書 文淵閣版, V697.2, p15
 :EXTENT: 1 卷
@@ -15674,6 +15675,7 @@ no match!! : *** 前集
 *** 海嶽名言
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3h1643a
 :ZB_ID:  ZB3h0024a
 :SOURCE:   四庫全書 文淵閣版, V813.4, p63
 :EXTENT: 1 卷
@@ -16726,6 +16728,7 @@ no match!! : *** 前集
 *** 書畫見聞表
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3h1675a
 :ZB_ID:  ZB3h0056a
 :SOURCE:   四庫全書 文淵閣版, V817.4, p613
 :EXTENT: 1 卷
@@ -19560,6 +19563,7 @@ no match!! : *** 前集
 *** 范村菊譜
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3i1738a
 :ZB_ID:  ZB3i0032a
 :SOURCE:   四庫全書 文淵閣版, V845.6, p37
 :EXTENT: 1 卷
@@ -33424,6 +33428,8 @@ no match!! : *** 前集
 [[krpimg:WYG/WYG1035/WYG1035-0453a.png][景印版, V1035, p453]]
 *** 因話錄
 :PROPERTIES:
+:ZB_ID:  ZB3l0007a
+:CUSTOM_ID: S3l2016a
 :SOURCE:   四庫全書 文淵閣版, V1035.8, p469
 :EXTENT: 6 卷
 :BOOK:   (1)
@@ -33684,6 +33690,7 @@ no match!! : *** 前集
 *** 金華子雜編
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3l2026a
 :ZB_ID:  ZB3l0017a
 :SOURCE:   四庫全書 文淵閣版, V1035.19, p823
 :EXTENT: 2 卷
@@ -34266,6 +34273,7 @@ no match!! : *** 前集
 *** 聞見近錄
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3l2048c
 :ZB_ID:  ZB3l0039c
 :SOURCE:   四庫全書 文淵閣版, V1037.7, p191
 :EXTENT: 1 卷
@@ -34288,6 +34296,7 @@ no match!! : *** 前集
 *** 隨手雜錄
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3l2048a
 :ZB_ID:  ZB3l0039a
 :SOURCE:   四庫全書 文淵閣版, V1037.8, p211
 :EXTENT: 1 卷
@@ -35308,6 +35317,8 @@ no match!! : *** 前集
 [[krpimg:WYG/WYG1040/WYG1040-0379a.png][景印版, V1040, p379]]
 *** 樂郊私語
 :PROPERTIES:
+:ZB_ID:  ZB3l0077a
+:CUSTOM_ID: S3l2086a
 :SOURCE:   四庫全書 文淵閣版, V1040.8, p397
 :EXTENT: 1 卷
 :BOOK:   (1)
@@ -35707,6 +35718,7 @@ no match!! : *** 前集
 *** 漢武帝內傳
 :PROPERTIES:
 :TYPE:  text
+:CUSTOM_ID: S3l2098a
 :ZB_ID:  ZB3l0089a
 :SOURCE:   四庫全書 文淵閣版, V1042.7, p289
 :EXTENT: 1 卷
@@ -35922,6 +35934,8 @@ no match!! : *** 前集
 [[krpimg:WYG/WYG1042/WYG1042-0573a.png][景印版, V1042, p573]]
 *** 博異記
 :PROPERTIES:
+:ZB_ID:  ZB3l0097a
+:CUSTOM_ID: S3l2106a
 :SOURCE:   四庫全書 文淵閣版, V1042.16, p585
 :EXTENT: 1 卷
 :BOOK:   (1)
