@@ -2252,19 +2252,20 @@
 *** KR4b0003 ZB4b0003 孔北海集
 *** KR4b0004 ZB4b0004 曹子建集
 *** KR4b0005 ZB4b0005 嵇中散集
-*** KR4b0006 ZB4b0006 陸士龍集
-*** KR4b0007 ZB4b0007 陶淵明集
-*** KR4b0008 SB14n115 箋註陶淵明集
-*** KR4b0009 ZB4b0008 璇璣圖詩讀法
-*** KR4b0010 ZB4b0009 鮑明遠集
-*** KR4b0011 ZB4b0010 謝宣域集
-*** KR4b0012 ZB4b0011 昭明太子集
-*** KR4b0013 ZB4b0012 何水部集
-*** KR4b0014 ZB4b0013 江文通集
-*** KR4b0015 SB14n119 梁江文通文集
-*** KR4b0016 ZB4b0014 庾開府集箋註
-*** KR4b0017 ZB4b0015 庾子山集
-*** KR4b0018 ZB4b0016 徐孝穆集箋注
+*** KR4b0006 SB14n113 陸士衡文集
+*** KR4b0007 ZB4b0006 陸士龍文集
+*** KR4b0008 ZB4b0007 陶淵明集
+*** KR4b0009 SB14n115 箋註陶淵明集
+*** KR4b0010 ZB4b0008 璇璣圖詩讀法
+*** KR4b0011 ZB4b0009 鮑明遠集
+*** KR4b0012 ZB4b0010 謝宣域集
+*** KR4b0013 ZB4b0011 昭明太子集
+*** KR4b0014 ZB4b0012 何水部集
+*** KR4b0015 ZB4b0013 江文通集
+*** KR4b0016 SB14n119 梁江文通文集
+*** KR4b0017 ZB4b0014 庾開府集箋註
+*** KR4b0018 ZB4b0015 庾子山集
+*** KR4b0019 ZB4b0016 徐孝穆集箋注
 ** KR4c ZB4c 別集類-唐
 *** KR4c0001 ZB4b0017 東臯子集
 *** KR4c0002 ZB4b0018 寒山詩集
@@ -5272,26 +5273,26 @@
 *** KR5i0089 JY261 關聖帝君本傳 Guansheng dijun benzhuan	      :excan:
 *** KR5i0090 JY262 清微宏範道門功課 Qingwei hongfan daomen gongke     :excan:
 *** KR5i0091 JY263 太上玄門功課經 Taishang xuanmen gongke jing	      :excan:
-*** KR5i0092 *JY264 太上三元賜福赦罪解厄消災延生保命妙經  Taishang sanyuan cifu shezui jie’e xiaozai yansheng baoming miaojing :excan:
-*** KR5i0093 JY265 靈寶文檢 Lingbao wenjian			      :excan:
-*** KR5i0094 JY266 心香妙語 Xinxiang miaoyu			      :excan:
-*** KR5i0095 JY267 雅宜集 Yayi ji				      :excan:
-*** KR5i0096 JY278 十戒功過格 Shijie gongguo ge			      :excan:
-*** KR5i0097 JY279 警世功過格 Jingshi gongguo ge		      :excan:
-*** KR5i0098 JY285 三壇圓滿天仙大戒略說 Santan yuanman tianxian dajie lüeshuo :excan:
-*** KR5i0099 JY286 初真戒律 Chuzhen jielü			      :excan:
-*** KR5i0100 JY287 中極戒 Zhongji jie				      :excan:
-*** KR5i0101 JY293 二仙菴碑記 Erxian an beiji			      :excan:
-*** KR5i0102 JY294 青羊宮碑記 Qingyang gong beiji		      :excan:
-*** KR5i0103 JY297 華蓋山三仙真經 Huagai shan sanxian zhenjing	      :excan:
-*** KR5i0104 JY308 青城山記 Qingcheng shan ji			      :excan:
-*** KR5i0105 JY309 太上無極大道延壽集福消切寶懺  Taishang wuji dadao yanshou jifu xiaojie baochan :excan:
-*** KR5i0106 JY310 天下名山記 Tianxia mingshan ji		      :excan:
-*** KR5i0107 EX001 青玄濟煉鐵貫斛食 Qingxuan jilian tieguan hushi     :excan:
-*** KR5i0108 EX002 太上無極大道三十六部尊經 (啟請科儀) Taishang wuji dadao sanshiliu bu zunjing :excan:
-*** KR5i0109 EX003 太上無極太道三十六部尊經註解 Taishang wuji dadao sanshiliu bu zunjing :excan:
-*** KR5i0110 EX004 女丹合編 Nudan hebian_nd			      :excan:
-*** KR5i0111 EX005 太上洞玄靈寶玉樞調元應顯尊經 Taishang dongxuan lingbao yushu tiaoyuan yingxian xunjing :excan:
+*** KR5i0092 JY265 靈寶文檢 Lingbao wenjian 			      :excan:
+*** KR5i0093 JY266 心香妙語 Xinxiang miaoyu 			      :excan:
+*** KR5i0094 JY267 雅宜集 Yayi ji 				      :excan:
+*** KR5i0095 JY278 十戒功過格 Shijie gongguo ge 		      :excan:
+*** KR5i0096 JY279 警世功過格 Jingshi gongguo ge 		      :excan:
+*** KR5i0097 JY285 三壇圓滿天仙大戒略說 Santan yuanman tianxian dajie lüeshuo :excan:
+*** KR5i0098 JY286 初真戒律 Chuzhen jielü 			      :excan:
+*** KR5i0099 JY287 中極戒 Zhongji jie 				      :excan:
+*** KR5i0100 JY293 二仙菴碑記 Erxian an beiji 			      :excan:
+*** KR5i0101 JY294 青羊宮碑記 Qingyang gong beiji 		      :excan:
+*** KR5i0102 JY297 華蓋山三仙真經 Huagai shan sanxian zhenjing 	      :excan:
+*** KR5i0103 JY308 青城山記 Qingcheng shan ji 			      :excan:
+*** KR5i0104 JY309 太上無極大道延壽集福消切寶懺  Taishang wuji dadao yanshou jifu xiaojie baochan :excan:
+*** KR5i0105 JY310 天下名山記 Tianxia mingshan ji 		      :excan:
+*** KR5i0106 EX001 青玄濟煉鐵貫斛食 Qingxuan jilian tieguan hushi     :excan:
+*** KR5i0107 EX002 太上無極大道三十六部尊經 (啟請科儀) Taishang wuji dadao sanshiliu bu zunjing :excan:
+*** KR5i0108 EX003 太上無極太道三十六部尊經註解 Taishang wuji dadao sanshiliu bu zunjing :excan:
+*** KR5i0109 EX004 女丹合編 Nudan hebian_nd 			      :excan:
+*** KR5i0110 EX005 太上洞玄靈寶玉樞調元應顯尊經 Taishang dongxuan lingbao yushu tiaoyuan yingxian xunjing :excan:
+(no text)  
 ** KR5j ZB5j 敦煌道教文獻
 *** KR5j0001 ZH02_025 ZHDZ02p0296 敦煌抄本 上清修行秘訣（擬）
 *** KR5j0002 ZH02_033 ZHDZ02p0352 敦煌抄本 紫文行事訣

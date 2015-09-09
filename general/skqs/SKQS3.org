@@ -38502,16 +38502,22 @@ no match!! : *** 前集
 
 **** 版本
 ***** WYG
-**** (附)天隱子
-      :PROPERTIES:
-      :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (1)
-      :END:
-
 **** 电子版
 ***** 文淵閣
 [[krpimg:WYG/WYG1059/WYG1059-0549a.png][景印版, V1059, p549]]
+
+*** 天隱子
+     :PROPERTIES:
+     :TYPE:   appendix
+     :CUSTOM_ID: S3n2175
+     :EXTENT: 1 卷
+     :BOOK:   (1)
+     :END:
+**** 电子版
+***** 文淵閣
+[[krpimg:WYG/WYG1059/WYG1059-0563a.png][景印版, V1059, p563]]
+
+
 *** 无能子
 :PROPERTIES:
 :TYPE:  text
