@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view; -*-
 #+DATE: 2015-04-11
 #+TITLE: 四庫全書 4 集部
-#+LINK: krpimg file:/Users/chris/wyg-work-scale/%s
-# +LINK: krpimg file:/Volumes/Jlite2/%s
+# +LINK: krpimg file:/Users/chris/wyg-work-scale/%s
+#+LINK: krpimg file:/Users/Shared/images/general/skqs/%s
 #+LINK: ia https://archive.org/details/%s.cn
 * S4 集部
 ** S4a 楚辭類

@@ -1,8 +1,8 @@
 #+TITLE: 四部叢刊
 #+COLUMNS: %30ITEM %10EXTENT %ZB_ID %50_RESP
-# +LINK: krpimg file:/Volumes/scaled/%s
+#+LINK: krpimg file:/Volumes/scaled/%s
 # +LINK: krpimg file:/Volumes/Jlite2/%s
-#+LINK: krpimg file:/Users/Shared/md-new/x850/g/%s
+# +LINK: krpimg file:/Users/Shared/images/general/%s
 * Comments							   :noexport:
   - all text should either have a ZB_ID property or be in the KR files.
   - 286 ZB_ID

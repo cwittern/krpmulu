@@ -38,3 +38,4 @@ mandoku-settings.org
 *.spl
 bookmarks
 .python-version
+_*

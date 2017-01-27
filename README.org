@@ -1,13 +1,13 @@
 #+TITLE: Kanseki catalog files 各種漢籍目録
-* General 総合
-** Siku quanshu 四庫全書 (skqs)
+* General collections 叢書
 ** Sibu congkan 四部叢刊 (sbck)
-** Sibu beiyao 四部備要 (sbby)  ?
-** Zhongguo jiben gujiku 中國基本古籍庫 (jbgjk) X
+** Siku quanshu 四庫全書 (skqs)
+** TODO Sibu beiyao 四部備要 (sbby)  
+** TODO Zhongguo jiben gujiku 中國基本古籍庫 (jbgjk)
 * Daoist Texts 道教文献
 ** Zhengtong daozang 正統道藏 (ztdz)
 ** Daozang jiyao 道藏輯要 (dzjy)
-** Zhonghua daozang 中華道藏 (zhdz)
+** TODO Zhonghua daozang 中華道藏 (zhdz)
 * Buddhist Texts 仏典
 ** Taishō shinshū daizōkyō 大正新脩大藏經 (T-taisho)
 ** Zokuzokyō 續藏經 (X-xuzang)
